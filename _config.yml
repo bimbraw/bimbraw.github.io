@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Keshav Bimbraw"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Keshav"
+description              : &description "Research Coordinator at WPI"
 url                      : https://bimbraw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "bimbeaw/bimbraw.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ author:
   name             : "Keshav Bimbraw"
   avatar           : "profile.png"
   bio              : "Research Coordinator at Medical FUSION Lab at WPI. Previously research assistant at Georgia Tech."
-  location         : "Atlanta Metropolitan Area"
+  location         : #"Atlanta Metropolitan Area"
   employer         : "Worcester Polytechnic Institute"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jCeibEwAAAAJ&hl=en"
