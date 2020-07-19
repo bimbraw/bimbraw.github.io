@@ -8,6 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+I currently work as a research coordinator in Medical FUSION Lab (Frontier Ultrasound Imaging and Robotic Instrumentation Lab) headed by Dr. Haichong Zhang at Worcester Polytechnic Institute.
+
+Prior to joining WPI, I was working as an Audio DSP Engineer with Panasonic Automotive and Agile Resources, Inc. Before that, I worked in Bose's automotive division on electric vehicle sound enhancement. I have a Master's in Music Technology (DSP, Computer Software and Media Applications) from Georgia Tech and a bachelors in Mechatronics Engineering from Thapar University.
+
+I got a full scholarship for my master's working as a graduate research assistant in Georgia Tech Center for Music Technology (GTCMT) throughout the duration of my master's program. During my undergrad, I did a 7 - month long research internship at Autonomous Robotics Laboratory at IIT Delhi, New Delhi, India.
+
+Skills - Python, MATLAB/Simulink, C/C++, ROS (LiDAR, OpenCV, Real world robotic applications), Arduino, C#, Java, Raspberry Pi, Autodesk Inventor, Fusion 360, Solidworks, MS Office, 3D printing;
+
+• Agile development environment focusing on rapid design and prototyping.
+• Hardware and Software Interfacing,
+• Digital Signal Processing and applications,
+• Sensors, actuators and control systems;
+• Robotics programming environments and systems;
+• 3D modelling and 3D printing;
+• Applying machine learning algorithms to robots;
+• Working in multidisciplinary teams and leading projects;
+• Writing papers and presenting research to technical as well as non-technical audience.
+
+Find videos below! 
+
 Yayy. This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
