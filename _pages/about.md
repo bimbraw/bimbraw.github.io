@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I currently work as a research coordinator in Medical FUSION Lab (Frontier Ultrasound Imaging and Robotic Instrumentation Lab) headed by Dr. Haichong Zhang at Worcester Polytechnic Institute.
+Hi! I'm [Keshav Bimbraw](https://www.linkedin.com/in/bimbraw/). I currently work as a research coordinator in [Medical FUSION Lab (Frontier Ultrasound Imaging and Robotic Instrumentation Lab)](https://medicalfusionlab.wordpress.com/) headed by [Dr. Haichong Zhang](https://www.wpi.edu/people/faculty/hzhang10) at Worcester Polytechnic Institute.
 
-Prior to joining WPI, I was working as an Audio DSP Engineer with Panasonic Automotive and Agile Resources, Inc. Before that, I worked in Bose's automotive division on electric vehicle sound enhancement. I have a Master's in Music Technology (DSP, Computer Software and Media Applications) from Georgia Tech and a bachelors in Mechatronics Engineering from Thapar University.
+Prior to joining WPI, I was working as an Audio DSP Engineer with Panasonic Automotive and Agile Resources, Inc. Before that, I worked for Bose in their [Automotive System Division](https://automotive.bose.com/) on electric vehicle sound enhancement. I have a Master's in Music Technology (DSP, Computer Software and Media Applications) from [Georgia Tech](https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw) and a [Bachelors of Engineering in Mechatronics Engineering](http://www.thapar.edu/programmes/pages/btech-in-mechatronics) from Thapar University.
 
-I got a full scholarship for my master's working as a graduate research assistant in Georgia Tech Center for Music Technology (GTCMT) throughout the duration of my master's program. During my undergrad, I did a 7 - month long research internship at Autonomous Robotics Laboratory at IIT Delhi, New Delhi, India.
+I got a full scholarship for my master's working as a graduate research assistant in [Georgia Tech Center for Music Technology (GTCMT)](https://gtcmt.gatech.edu/skywalker) throughout the duration of my master's program. During my undergrad, I did a 7 month research internship at [Autonomous Robotics Laboratory at IIT Delhi](http://mech.iitd.ac.in/), New Delhi, India.
 
-Skills - Python, MATLAB/Simulink, C/C++, ROS (LiDAR, OpenCV, Real world robotic applications), Arduino, C#, Java, Raspberry Pi, Autodesk Inventor, Fusion 360, Solidworks, MS Office, 3D printing;
+Skills - Python, MATLAB/Simulink, C/C++, ROS (LiDAR, OpenCV, Real world robotic applications), Arduino, C#, Java, Raspberry Pi, Autodesk Inventor, Fusion 360, Solidworks, MS Office, 3D printing.
 
+Experienced with -
 <ul>
   <li>Agile development environment focusing on rapid design and prototyping,</li>
   <li>Hardware and Software Interfacing,</li>
