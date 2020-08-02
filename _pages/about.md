@@ -15,7 +15,7 @@ About Me
   <li>Prior to joining WPI, I was working as an Audio DSP Engineer with Panasonic Automotive and Agile Resources, Inc. Before that, I worked for Bose in their [Automotive System Division](https://automotive.bose.com/) on electric vehicle sound enhancement. I completed [Master's in Music Technology (DSP, Computer Software and Media Applications)](https://gtcmt.gatech.edu/robotic-musicianship) from [Georgia Tech](https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw) and [Bachelors of Engineering in Mechatronics Engineering](http://www.thapar.edu/programmes/pages/btech-in-mechatronics) from Thapar University.</li>
   <li>I got a full scholarship for my master's working as a graduate research assistant in [Georgia Tech Center for Music Technology (GTCMT)](https://gtcmt.gatech.edu/skywalker) throughout the duration of my master's program. During my undergrad, I did a 7 month research internship at [Autonomous Robotics Laboratory at IIT Delhi](http://mech.iitd.ac.in/), New Delhi, India.</li>
 
-
+---
 News
 ======
 <ul>
@@ -30,7 +30,7 @@ News
   <li>Writing papers and presenting research to technical as well as non-technical audience.</li>
 </ul>
 
-
+---
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
