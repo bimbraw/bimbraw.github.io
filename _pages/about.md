@@ -13,9 +13,9 @@ redirect_from:
 About Me
 ======
 <ul>
-  <li>I'm a Ph.D. student in the Robotics Engineering program at Worcester Polytechnic Institute. I currently work as a research coordinator in <a href="https://medicalfusionlab.wordpress.com/">Medical FUSION Lab</a> headed by <a href="https://www.wpi.edu/people/faculty/hzhang10">Dr. Haichong Zhang </a>.</li>
-  <li>Prior to joining WPI, I worked for <a href="https://automotive.bose.com/">Bose</a> and Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw"> Georgia Tech </a> with a <a href="https://gtcmt.gatech.edu/robotic-musicianship"> Master's in Music Technology (Computer Software and Media Applications)</a> in Spring 2019. I have a  <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics"> B.Tech. in Mechatronics Engineering </a> from Thapar University.</li>
-  <li>I got a full scholarship for my master's working as a graduate research assistant in [Georgia Tech Center for Music Technology (GTCMT)](https://gtcmt.gatech.edu/skywalker) throughout the duration of my master's program. During my undergrad, I did a 7 month research internship at [Autonomous Robotics Laboratory at IIT Delhi](http://mech.iitd.ac.in/), New Delhi, India.</li>
+  <li>I'm a Ph.D. student in the Robotics Engineering program at Worcester Polytechnic Institute. I currently work as a research coordinator in <a href="https://medicalfusionlab.wordpress.com/">Medical FUSION Lab</a> headed by <a href="https://www.wpi.edu/people/faculty/hzhang10">Dr. Haichong Zhang</a>.</li>
+  <li></li>
+  <li>Prior to joining WPI, I worked for <a href="https://automotive.bose.com/">Bose</a> and Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw"> Georgia Tech </a> with a <a href="https://gtcmt.gatech.edu/robotic-musicianship"> Master's in Music Technology</a> in Spring 2019. I have a B.Tech. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics"> Mechatronics Engineering</a> from Thapar University.</li>
 </ul>
 
 News
