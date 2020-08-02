@@ -15,7 +15,7 @@ About Me
 <ul>
   <li>I'm a Ph.D. student in the Robotics Engineering program at Worcester Polytechnic Institute. I currently work as a research coordinator in <a href="https://medicalfusionlab.wordpress.com/">Medical FUSION Lab</a> headed by <a href="https://www.wpi.edu/people/faculty/hzhang10">Dr. Haichong Zhang</a>.</li>
   <li></li>
-  <li>Prior to joining WPI, I worked for <a href="https://automotive.bose.com/">Bose</a> and Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw"> Georgia Tech </a> with a Master's in<a href="https://gtcmt.gatech.edu/robotic-musicianship"> Music Technology</a> in Spring 2019. I have a B.Tech. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics"> Mechatronics Engineering</a> from Thapar University.</li>
+  <li>Prior to joining WPI, I worked for <a href="https://automotive.bose.com/">Bose</a> (Automotive Systems Division) and Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw"> Georgia Tech </a> with a Master's in<a href="https://gtcmt.gatech.edu/robotic-musicianship"> Music Technology</a> in Spring 2019. I have a B.Tech. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics"> Mechatronics Engineering</a> from Thapar University.</li>
 </ul>
 
 News
