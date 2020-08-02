@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="thumbnail_image.png" alt="Georgia Tech">
+
 About Me
 ======
 <ul>
