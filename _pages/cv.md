@@ -11,22 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. candidate in Robotics Engineering at WPI, 2024 (expected).
+* M.S. in Music Technology, Georgia Tech, 2019.
+* B.Tech. in Mechatronics Engineering, Thapar University, 2017.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2020: Research Coordinator
+  * Worcester Polytechnic Institute, Massachusetts
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* Winter 2019 - Spring 2020: Audio DSP Engineer
+  * Panasonic Automotive Systems of America, Georgia
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Summer 2019: Active Noise Control Engineering Intern
+  * Bose
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2019: Active Noise Control Engineering Intern
+  * Bose
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+* Summer 2019: Active Noise Control Engineering Intern
+  * Bose
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+
 Skills
 ======
 * Skill 1
