@@ -16,7 +16,6 @@ About Me
   <li>I got a full scholarship for my master's working as a graduate research assistant in [Georgia Tech Center for Music Technology (GTCMT)](https://gtcmt.gatech.edu/skywalker) throughout the duration of my master's program. During my undergrad, I did a 7 month research internship at [Autonomous Robotics Laboratory at IIT Delhi](http://mech.iitd.ac.in/), New Delhi, India.</li>
 </ul>
 
----
 News
 ======
 <ul>
@@ -31,7 +30,6 @@ News
   <li>Writing papers and presenting research to technical as well as non-technical audience.</li>
 </ul>
 
----
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
