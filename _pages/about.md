@@ -15,19 +15,20 @@ About Me
 <ul>
   <li>I'm a Ph.D. student in the <a href="https://www.wpi.edu/academics/study/robotics-engineering-phd">Robotics Engineering</a> program at Worcester Polytechnic Institute. I currently work as a research coordinator in <a href="https://medicalfusionlab.wordpress.com/">Medical FUSION Lab</a> headed by <a href="https://www.wpi.edu/people/faculty/hzhang10">Dr. Haichong Zhang</a>.</li>
   <li>My research interests lie in ultrasound image processing using machine learning. I am specifically interested in utilizing deep learning for image classification and real-time prediction with applications in domains ranging from disease diagnosis, rehabilitation robotics, robot assisted surgery, robotic teleoperation and gaming. I'm also very interested in utilizing Computer Vision and Augmented/Virtual Reality in my research. </li>
-  <li>Prior to joining WPI, I worked for <a href="https://automotive.bose.com/">Bose</a> (Automotive Systems Division) and Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw"> Georgia Tech </a> with a Master's in<a href="https://gtcmt.gatech.edu/robotic-musicianship"> Music Technology</a> in Spring 2019. I have a B.Tech. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics"> Mechatronics Engineering</a> from Thapar University.</li>
+  <li>Prior to joining WPI, I worked as a research intern for <a href="https://automotive.bose.com/">Bose</a> (Automotive Systems Division) and an Audio DSP Engineer for Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw"> Georgia Tech </a> with a Master's in<a href="https://gtcmt.gatech.edu/robotic-musicianship"> Music Technology</a> in Spring 2019. I have a B.Tech. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics"> Mechatronics Engineering</a> from Thapar University.</li>
 </ul>
 
 News
 ------
 <ul>
-  <li>Agile development environment focusing on rapid design and prototyping,</li>
-  <li>Hardware and Software Interfacing,</li>
-  <li>Digital Signal Processing and applications,</li>
-  <li>Sensors, actuators and control systems,</li>
-  <li>Robotics programming environments and systems,</li>
-  <li>3D modelling and 3D printing,</li>
-  <li>Applying machine learning algorithms to robots,</li>
+  <li>Paper titled 'Augmented Reality-Based Lung Ultrasound Scanning Guidance' accepted with great reviews at MICCAI ASMUS 2020!</li>
+  <li>Paper titled 'Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies' accepted in EMBC 2020!</li>
+  <li>Presented 'Sonomyography based real-time hand grasp configuration identification via supervised learning to control a soft robotic gripper' at ISMR/SSMR 2019.</li>
+  <li>Selected for Georgia Tech's Diversity and Inclusion Fellowship Program!</li>
+  <li>Presented 'Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon' at Georgia Tech's 3 Minute Thesis 2018.</li>
+  <li>Presented 'Comparison and Integration of SMG and EMG' at BMES Annual Meeting 2018.</li>
+  <li>Selected for Georgia Tech's Accessibility, Rehabilitation, and Movement Science: An Interdisciplinary Traineeship Program in Human-Centered Robotics.</li>
+  <li>Applying machine learning algrithms to robots,</li>
   <li>Working in multidisciplinary teams and leading projects,</li>
   <li>Writing papers and presenting research to technical as well as non-technical audience.</li>
 </ul>
