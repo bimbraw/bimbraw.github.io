@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Keshav Bimbraw"
 excerpt: "Hi!"
 author_profile: true
 redirect_from: 
