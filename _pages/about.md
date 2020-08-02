@@ -20,19 +20,14 @@ About Me
 
 News
 ------
-2020
 <ul>
   <li>July, 2020 - Paper titled 'Augmented Reality-Based Lung Ultrasound Scanning Guidance' accepted with great reviews at MICCAI ASMUS 2020!</li>
   <li>April, 2020 - Paper titled 'Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies' accepted in EMBC 2020!</li>
   <li>March, 2020 - Accepted the offer for the position of research coordinator at WPI!</li>
-
-2019
   <li>October, 2019 - Started working as an Audio DSP Engineer at Panasonic Automotive.</li>
   <li>May, 2019 - Started working as an Active Noise Control Engineering Intern at Bose.</li>
   <li>April, 2019 - Presented 'Sonomyography based real-time hand grasp configuration identification via supervised learning to control a soft robotic gripper' at ISMR/SSMR 2019.</li>
   <li>January, 2019 - Selected for Georgia Tech's Diversity and Inclusion Fellowship Program!</li>
-
-2018
   <li>December, 2018 - Presented 'Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon' at Georgia Tech's 3 Minute Thesis 2018.</li>
   <li>October, 2018 - Presented 'Comparison and Integration of SMG and EMG' at BMES Annual Meeting 2018.</li>
   <li>July, 2018 - Selected for Georgia Tech's Accessibility, Rehabilitation, and Movement Science: An Interdisciplinary Traineeship Program in Human-Centered Robotics.</li>
