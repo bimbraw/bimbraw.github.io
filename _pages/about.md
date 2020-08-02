@@ -28,9 +28,6 @@ News
   <li>Presented 'Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon' at Georgia Tech's 3 Minute Thesis 2018.</li>
   <li>Presented 'Comparison and Integration of SMG and EMG' at BMES Annual Meeting 2018.</li>
   <li>Selected for Georgia Tech's Accessibility, Rehabilitation, and Movement Science: An Interdisciplinary Traineeship Program in Human-Centered Robotics.</li>
-  <li>Applying machine learning algrithms to robots,</li>
-  <li>Working in multidisciplinary teams and leading projects,</li>
-  <li>Writing papers and presenting research to technical as well as non-technical audience.</li>
 </ul>
 
 Getting started
