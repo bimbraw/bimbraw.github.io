@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm [Keshav Bimbraw](https://www.linkedin.com/in/bimbraw/). I currently work as a research coordinator in [Medical FUSION Lab (Frontier Ultrasound Imaging and Robotic Instrumentation Lab)](https://medicalfusionlab.wordpress.com/) headed by [Dr. Haichong Zhang](https://www.wpi.edu/people/faculty/hzhang10) at Worcester Polytechnic Institute.
-
-Prior to joining WPI, I was working as an Audio DSP Engineer with Panasonic Automotive and Agile Resources, Inc. Before that, I worked for Bose in their [Automotive System Division](https://automotive.bose.com/) on electric vehicle sound enhancement. I completed [Master's in Music Technology (DSP, Computer Software and Media Applications)](https://gtcmt.gatech.edu/robotic-musicianship) from [Georgia Tech](https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw) and [Bachelors of Engineering in Mechatronics Engineering](http://www.thapar.edu/programmes/pages/btech-in-mechatronics) from Thapar University.
-
-I got a full scholarship for my master's working as a graduate research assistant in [Georgia Tech Center for Music Technology (GTCMT)](https://gtcmt.gatech.edu/skywalker) throughout the duration of my master's program. During my undergrad, I did a 7 month research internship at [Autonomous Robotics Laboratory at IIT Delhi](http://mech.iitd.ac.in/), New Delhi, India.
+About Me
+======
+<ul>
+  <li>I'm a Ph.D. student in the Robotics Engineering program at Worcester Polytechnic Institute. I currently work as a research coordinator in [Medical FUSION Lab (Frontier Ultrasound Imaging and Robotic Instrumentation Lab)](https://medicalfusionlab.wordpress.com/) headed by [Dr. Haichong Zhang](https://www.wpi.edu/people/faculty/hzhang10).</li>
+  <li>Prior to joining WPI, I was working as an Audio DSP Engineer with Panasonic Automotive and Agile Resources, Inc. Before that, I worked for Bose in their [Automotive System Division](https://automotive.bose.com/) on electric vehicle sound enhancement. I completed [Master's in Music Technology (DSP, Computer Software and Media Applications)](https://gtcmt.gatech.edu/robotic-musicianship) from [Georgia Tech](https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw) and [Bachelors of Engineering in Mechatronics Engineering](http://www.thapar.edu/programmes/pages/btech-in-mechatronics) from Thapar University.</li>
+  <li>I got a full scholarship for my master's working as a graduate research assistant in [Georgia Tech Center for Music Technology (GTCMT)](https://gtcmt.gatech.edu/skywalker) throughout the duration of my master's program. During my undergrad, I did a 7 month research internship at [Autonomous Robotics Laboratory at IIT Delhi](http://mech.iitd.ac.in/), New Delhi, India.</li>
 
 Skills - Python, MATLAB/Simulink, C/C++, ROS (LiDAR, OpenCV, Real world robotic applications), Arduino, C#, Java, Raspberry Pi, Autodesk Inventor, Fusion 360, Solidworks, MS Office, 3D printing.
 
@@ -29,13 +30,19 @@ Experienced with -
   <li>Writing papers and presenting research to technical as well as non-technical audience.</li>
 </ul>
 
-Yayy. This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<ul>
+  <li>Agile development environment focusing on rapid design and prototyping,</li>
+  <li>Hardware and Software Interfacing,</li>
+  <li>Digital Signal Processing and applications,</li>
+  <li>Sensors, actuators and control systems,</li>
+  <li>Robotics programming environments and systems,</li>
+  <li>3D modelling and 3D printing,</li>
+  <li>Applying machine learning algorithms to robots,</li>
+  <li>Working in multidisciplinary teams and leading projects,</li>
+  <li>Writing papers and presenting research to technical as well as non-technical audience.</li>
+</ul>
 
 Getting started
 ======
