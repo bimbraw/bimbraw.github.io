@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "Keshav Bimbraw"
+excerpt: "Hi!"
 author_profile: true
 redirect_from: 
   - /about/
