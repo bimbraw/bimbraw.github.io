@@ -38,4 +38,4 @@ News
 
 Previous Affiliations
 ------
-<img src="../images/affiliations.png" alt="Affiliations">
+<img src="../images/affiliations.PNG" alt="Affiliations">
