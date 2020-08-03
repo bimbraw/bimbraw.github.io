@@ -18,6 +18,9 @@ About Me
   <li>Prior to joining WPI, I worked as a research intern for <a href="https://automotive.bose.com/">Bose</a> (Automotive Systems Division) and an Audio DSP Engineer for Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw"> Georgia Tech </a> with a Master's in<a href="https://gtcmt.gatech.edu/robotic-musicianship"> Music Technology</a> in Spring 2019. I have a B.Tech. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics"> Mechatronics Engineering</a> from Thapar University.</li>
 </ul>
 
+<iframe src="https://player.vimeo.com/video/174093155" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/174093155">Collaborative Industrial Robotic arms playing Stringed Musical Instruments</a> from <a href="https://vimeo.com/user52996313">Keshav Bimbraw</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 News
 ------
 <ul>
