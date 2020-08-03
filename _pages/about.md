@@ -35,3 +35,7 @@ News
   <li>October, 2018 - Presented 'Comparison and Integration of SMG and EMG' at BMES Annual Meeting 2018.</li>
   <li>July, 2018 - Selected for Georgia Tech's Accessibility, Rehabilitation, and Movement Science: An Interdisciplinary Traineeship Program in Human-Centered Robotics.</li>
 </ul>
+
+Previous Affiliations
+------
+<img src="../images/affiliations.jpg" alt="Affiliations">
