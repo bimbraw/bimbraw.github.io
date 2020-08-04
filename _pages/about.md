@@ -43,5 +43,4 @@ Previous Affiliations
 Videos
 ------
 <iframe src="https://player.vimeo.com/video/174093155" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/174093155">Collaborative Industrial Robotic arms playing Stringed Musical Instruments</a> from <a href="https://vimeo.com/user52996313"> on <a href="https://vimeo.com">Vimeo</a>.</p>
-  
+<p><a href="https://vimeo.com/174093155">Collaborative Industrial Robotic arms playing Stringed Musical Instruments</a><a href="https://vimeo.com/user52996313"> on <a href="https://vimeo.com">Vimeo</a>.
