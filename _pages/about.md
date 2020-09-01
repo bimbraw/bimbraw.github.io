@@ -10,10 +10,10 @@ redirect_from:
 
 <img src="../images/thumbnail_image.jpg" alt="Georgia Tech">
 
-<font size="-1">
 
 About Me
-======
+------
+<font size="-1">
 <ul>
   <li>I'm a Ph.D. student in the <a href="https://www.wpi.edu/academics/study/robotics-engineering-phd">Robotics Engineering</a> program at Worcester Polytechnic Institute. I'm a research assistant in <a href="https://medicalfusionlab.wordpress.com/">Medical FUSION Lab</a> guided by <a href="https://www.wpi.edu/people/faculty/hzhang10">Dr. Haichong Zhang</a>.</li>
   <li>My research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing deep learning for image classification and real-time prediction with applications in domains ranging from disease diagnosis, rehabilitation robotics, robot assisted surgery, robotic teleoperation and gaming. I'm also very interested in utilizing Computer Vision and Augmented/Virtual Reality in my research. </li>
@@ -21,9 +21,11 @@ About Me
 </ul>
 <iframe src="https://player.vimeo.com/video/444132536" width="640" height="362" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/444132536">Playing Sitar with a Robotic Marimba</a> from <a href="https://vimeo.com/user52996313">Keshav Bimbraw</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</font>
 
 News
 ------
+<font size="-1">
 <ul>
   <li>August, 2020 - Started Ph.D. in Robotics Engineering at WPI!</li>
   <li>July, 2020 - Paper titled 'Augmented Reality-Based Lung Ultrasound Scanning Guidance' accepted with great reviews at MICCAI ASMUS 2020!</li>
