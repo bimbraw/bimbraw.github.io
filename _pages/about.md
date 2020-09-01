@@ -24,6 +24,7 @@ About Me
 News
 ------
 <ul>
+  <li>August, 2020 - Started Ph. D. in Robotics Engineering at WPI!</li>
   <li>July, 2020 - Paper titled 'Augmented Reality-Based Lung Ultrasound Scanning Guidance' accepted with great reviews at MICCAI ASMUS 2020!</li>
   <li>April, 2020 - Paper titled 'Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies' accepted in EMBC 2020!</li>
   <li>March, 2020 - Accepted the offer for the position of research coordinator at WPI!</li>
