@@ -39,13 +39,15 @@ News
   <li>October, 2018 - Presented 'Comparison and Integration of SMG and EMG' at BMES Annual Meeting 2018.</li>
   <li>July, 2018 - Selected for Georgia Tech's Accessibility, Rehabilitation, and Movement Science: An Interdisciplinary Traineeship Program in Human-Centered Robotics.</li>
 </ul>
-
 </font>
+
 Previous Affiliations
 ------
 <img src="../images/affiliations.PNG" alt="Affiliations">
 
 Videos
 ------
+<font size="-1">
 <iframe src="https://player.vimeo.com/video/174093155" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/174093155">Collaborative Industrial Robotic arms playing Stringed Musical Instruments</a><a href="https://vimeo.com/user52996313"> on <a href="https://vimeo.com">Vimeo</a>.
+</font>
