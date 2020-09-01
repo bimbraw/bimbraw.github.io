@@ -11,6 +11,7 @@ redirect_from:
 <img src="../images/thumbnail_image.jpg" alt="Georgia Tech">
 
 <font size="-1">
+
 About Me
 ======
 <ul>
