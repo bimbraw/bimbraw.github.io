@@ -19,10 +19,8 @@ About Me
   <li>My research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing deep learning for image classification and real-time prediction with applications in domains ranging from disease diagnosis, rehabilitation robotics, robot assisted surgery, robotic teleoperation and gaming. I'm also very interested in utilizing Computer Vision and Augmented/Virtual Reality in my research. </li>
   <li>Prior to joining WPI, I worked as an Active Noise Control Engineering intern for <a href="https://automotive.bose.com/">Bose</a> (Automotive Systems Division) and an Audio DSP Engineer for Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw"> Georgia Tech </a> with a Master's in<a href="https://gtcmt.gatech.edu/robotic-musicianship"> Music Technology</a> in Spring 2019. I have worked as a research intern at IIT Delhi & I have a B.Tech. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics"> Mechatronics Engineering</a> from Thapar University.</li>
 </ul>
-<iframe src="https://player.vimeo.com/video/444132536" width="640" height="362" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/444132536">Playing Sitar with a Robotic Marimba</a> from <a href="https://vimeo.com/user52996313">Keshav Bimbraw</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </font>
-
+  
 News
 ------
 <font size="-1">
@@ -48,6 +46,8 @@ Previous Affiliations
 Videos
 ------
 <iframe src="https://player.vimeo.com/video/174093155" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><font size="-1"><a href="https://vimeo.com/174093155">
-Collaborative Industrial Robotic arms playing Stringed Musical Instruments</a><a href="https://vimeo.com/user52996313"> on <a href="https://vimeo.com">Vimeo</a>.</font>
-  </p>
+<p><a href="https://vimeo.com/174093155">
+Collaborative Industrial Robotic arms playing Stringed Musical Instruments</a><a href="https://vimeo.com/user52996313"> on <a href="https://vimeo.com">Vimeo</a>.
+
+<iframe src="https://player.vimeo.com/video/444132536" width="640" height="362" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/444132536">Playing Sitar with a Robotic Marimba</a> from <a href="https://vimeo.com/user52996313">Keshav Bimbraw</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
