@@ -47,9 +47,10 @@ Previous Affiliations
 
 Videos
 ------
+
 <iframe src="https://player.vimeo.com/video/174093155" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/174093155">
-Collaborative Industrial Robotic arms playing Stringed Musical Instruments</a><a href="https://vimeo.com/user52996313"> on <a href="https://vimeo.com">Vimeo</a>.
+Collaborative Industrial Robotic arms playing Stringed Musical Instruments</a><a href="https://vimeo.com/user52996313"> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <iframe src="https://player.vimeo.com/video/444132536" width="640" height="362" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/444132536">Playing Sitar with a Robotic Marimba</a> from <a href="https://vimeo.com/user52996313">Keshav Bimbraw</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
