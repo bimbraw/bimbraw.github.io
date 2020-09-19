@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 <!--<img src="../images/thumbnail_image.jpg" alt="Georgia Tech">-->
-About Me
 ------
 <font size="-1">
 <ul>
