@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "केशव बिम्बरा (Keshav Bimbraw) - ਓਏ ਨੰਦਿਨੀ ਤੇਰਾ ਦਿਮਾਗ ਤਾਂ ਨਹੀਂ ਖ਼ਰਾਬ ਹੋ ਗਿਆ?"
+title: "केशव बिम्बरा (Keshav Bimbraw)"
 excerpt: "ਕੇਸ਼ਵ ਬਿੰਬਰਾ"
 author_profile: true
 redirect_from: 
