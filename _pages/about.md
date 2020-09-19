@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "केशव बिंबरा | ਕੇਸ਼ਵ ਬਿੰਬਰਾ"
+title: "केशव बिंबरा (Keshav Bimbraw)
 excerpt: "| केशव बिंबरा | ਕੇਸ਼ਵ ਬਿੰਬਰਾ |"
 author_profile: true
 redirect_from: 
