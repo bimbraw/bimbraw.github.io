@@ -24,7 +24,7 @@ News
   <li>March, '20 - Accepted the offer for the position of research coordinator at <a href="https://www.wpi.edu/people/staff/kbimbraw">WPI</a>!</li>
   <li>April, '19 - Presented 'Sonomyography based real-time hand grasp configuration identification via supervised learning to control a soft robotic gripper' at <a href="http://www.ismr.gatech.edu/2019/">ISMR/SSMR 2019</a>.</li>
   <li>January, '19 - Selected for Georgia Tech's <a href="https://diversity.gatech.edu/2019-diversity-and-inclusion-fellows-bios">Diversity and Inclusion Fellowship Program!</a></li>
-  <li>December, '18 - Presented '<a href="https://smartech.gatech.edu/handle/1853/60602">Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon</a>' at Georgia Tech's 3MT 2018.</li>
+  <li>December, '18 - Presented '<a href="https://smartech.gatech.edu/handle/1853/60602">Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon</a>' at GaTech 3MT 2018.</li>
   <li>October, '18 - Presented 'Comparison and Integration of SMG and EMG' at <a href="https://www.bmes.org/content.asp?contentid=392">BMES Annual Meeting 2018</a>.</li>
   <li>July, '18 - Selected for Georgia Tech's <a href="http://arms.robotics.gatech.edu/cohort3">Accessibility, Rehabilitation, and Movement Science traineeship</a>.</li>
   </ul>
