@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size="-1">
+<font size="1">
 <ul>
   <li>I'm a Ph.D. student in the <a href="https://www.wpi.edu/academics/study/robotics-engineering-phd">Robotics Engineering</a> program at Worcester Polytechnic Institute. I'm a research assistant in <a href="https://medicalfusionlab.wordpress.com/">Medical FUSION Lab</a> guided by <a href="https://www.wpi.edu/people/faculty/hzhang10">Dr. Haichong Zhang</a>.</li>
   <li>My research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing deep learning for image classification and real-time prediction with applications in domains ranging from disease diagnosis, rehabilitation robotics, robot assisted surgery, robotic teleoperation and gaming. I'm also very interested in utilizing Computer Vision and Augmented/Virtual Reality in my research. </li>
