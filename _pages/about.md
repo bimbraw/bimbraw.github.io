@@ -22,8 +22,6 @@ News
   <li>July, '20 - Paper '<a href="https://vimeo.com/448019177">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' accepted in MICCAI ASMUS 2020!</li>
   <li>April, '20 - Paper '<a href="https://ieeexplore.ieee.org/document/9176483">Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies</a>' accepted in EMBC 2020!</li>
   <li>March, '20 - Accepted the offer for the position of research coordinator at <a href="https://www.wpi.edu/people/staff/kbimbraw">WPI</a>!</li>
-  <li>October, '19 - Started working as an Audio DSP Engineer at Panasonic Automotive.</li>
-  <li>May, '19 - Started working as an Active Noise Control Engineering Intern at <a href="https://automotive.bose.com/">Bose</a>.</li>
   <li>April, '19 - Presented 'Sonomyography based real-time hand grasp configuration identification via supervised learning to control a soft robotic gripper' at <a href="http://www.ismr.gatech.edu/2019/">ISMR/SSMR 2019</a>.</li>
   <li>January, '19 - Selected for Georgia Tech's <a href="https://diversity.gatech.edu/2019-diversity-and-inclusion-fellows-bios">Diversity and Inclusion Fellowship Program!</a></li>
   <li>December, '18 - Presented '<a href="https://smartech.gatech.edu/handle/1853/60602">Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon</a>' at Georgia Tech's 3MT 2018.</li>
