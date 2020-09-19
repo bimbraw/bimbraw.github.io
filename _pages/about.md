@@ -7,13 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size="1">
-<ul>
-  <li>I'm a Ph.D. student in the <a href="https://www.wpi.edu/academics/study/robotics-engineering-phd">Robotics Engineering</a> program at Worcester Polytechnic Institute. I'm a research assistant in <a href="https://medicalfusionlab.wordpress.com/">Medical FUSION Lab</a> guided by <a href="https://www.wpi.edu/people/faculty/hzhang10">Dr. Haichong Zhang</a>.</li>
-  <li>My research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing deep learning for image classification and real-time prediction with applications in domains ranging from disease diagnosis, rehabilitation robotics, robot assisted surgery, robotic teleoperation and gaming. I'm also very interested in utilizing Computer Vision and Augmented/Virtual Reality in my research. </li>
-  <li>Prior to joining WPI, I worked as an Active Noise Control Engineering intern for <a href="https://automotive.bose.com/">Bose</a> (Automotive Systems Division) and an Audio DSP Engineer for Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw"> Georgia Tech </a> with a Master's in<a href="https://gtcmt.gatech.edu/robotic-musicianship"> Music Technology</a> in Spring 2019. I have worked as a research intern at IIT Delhi & I have a B.Tech. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics"> Mechatronics Engineering</a> from Thapar University.</li>
-</ul>
-</font>
+I'm a Ph.D. student in the <a href="https://www.wpi.edu/academics/study/robotics-engineering-phd">Robotics Engineering</a> program at Worcester Polytechnic Institute. I'm a research assistant in <a href="https://medicalfusionlab.wordpress.com/">Medical FUSION Lab</a> guided by <a href="https://www.wpi.edu/people/faculty/hzhang10">Dr. Haichong Zhang</a>.
+My research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing deep learning for image classification and real-time prediction with applications in domains ranging from disease diagnosis, rehabilitation robotics, robot assisted surgery, robotic teleoperation and gaming. I'm also very interested in utilizing Computer Vision and Augmented/Virtual Reality in my research.
+Prior to joining WPI, I worked as an Active Noise Control Engineering intern for <a href="https://automotive.bose.com/">Bose</a> (Automotive Systems Division) and an Audio DSP Engineer for Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw"> Georgia Tech </a> with a Master's in<a href="https://gtcmt.gatech.edu/robotic-musicianship"> Music Technology</a> in Spring 2019. I have worked as a research intern at IIT Delhi & I have a B.Tech. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics"> Mechatronics Engineering</a> from Thapar University.
   
 News
 ------
