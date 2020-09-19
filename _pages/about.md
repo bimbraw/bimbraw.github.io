@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
------
+---
 <font size="-1">
 <ul>
   <li>I'm a Ph.D. student in the <a href="https://www.wpi.edu/academics/study/robotics-engineering-phd">Robotics Engineering</a> program at Worcester Polytechnic Institute. I'm a research assistant in <a href="https://medicalfusionlab.wordpress.com/">Medical FUSION Lab</a> guided by <a href="https://www.wpi.edu/people/faculty/hzhang10">Dr. Haichong Zhang</a>.</li>
