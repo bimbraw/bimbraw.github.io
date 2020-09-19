@@ -12,7 +12,7 @@ I'm a Research Assistant in <a href="https://medicalfusionlab.wordpress.com/">Me
 <p align="justify">
 Prior to joining WPI, I worked as an Active Noise Control Engineering intern for <a href="https://automotive.bose.com/">Bose</a> (Automotive Systems Division) and an Audio DSP Engineer for Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw"> Georgia Tech </a> with a Master's in <a href="https://gtcmt.gatech.edu/robotic-musicianship">Music Technology</a> (Spring 2019). I have worked as a research intern at IIT Delhi & I have a B.E. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics"> Mechatronics Engineering</a> from Thapar University.</p>
 </font>
-<img src="../images/affiliations.PNG" alt="Affiliations" width="500" class="center">
+<img src="../images/affiliations_edited.PNG" alt="Affiliations">
 
 News
 ------
