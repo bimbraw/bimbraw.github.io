@@ -19,16 +19,16 @@ News
 <font size="-1">
 <ul>
   <li>August, 2020 - Started Ph.D. in Robotics Engineering at WPI!</li>
-  <li>July, 2020 - Paper 'Augmented Reality-Based Lung Ultrasound Scanning Guidance' accepted with great reviews at MICCAI ASMUS 2020!</li>
-  <li>April, 2020 - Paper 'Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies' accepted in EMBC 2020!</li>
+  <li>July, 2020 - Paper '<a href="https://vimeo.com/448019177">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' accepted with great reviews at MICCAI ASMUS 2020!</li>
+  <li>April, 2020 - Paper '<a href="https://ieeexplore.ieee.org/document/9176483">Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies</a>' accepted in EMBC 2020!</li>
   <li>March, 2020 - Accepted the offer for the position of research coordinator at WPI!</li>
   <li>October, 2019 - Started working as an Audio DSP Engineer at Panasonic Automotive.</li>
   <li>May, 2019 - Started working as an Active Noise Control Engineering Intern at Bose.</li>
-  <li>April, 2019 - Presented 'Sonomyography based real-time hand grasp configuration identification via supervised learning to control a soft robotic gripper' at ISMR/SSMR 2019.</li>
-  <li>January, 2019 - Selected for Georgia Tech's Diversity and Inclusion Fellowship Program!</li>
-  <li>December, 2018 - Presented 'Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon' at Georgia Tech's 3 Minute Thesis 2018.</li>
-  <li>October, 2018 - Presented 'Comparison and Integration of SMG and EMG' at BMES Annual Meeting 2018.</li>
-  <li>July, 2018 - Selected for Georgia Tech's Accessibility, Rehabilitation, and Movement Science: An Interdisciplinary Traineeship Program in Human-Centered Robotics.</li>
+  <li>April, 2019 - Presented 'Sonomyography based real-time hand grasp configuration identification via supervised learning to control a soft robotic gripper' at <a href="http://www.ismr.gatech.edu/2019/">ISMR/SSMR 2019</a>.</li>
+  <li>January, 2019 - Selected for Georgia Tech's <a href="https://diversity.gatech.edu/2019-diversity-and-inclusion-fellows-bios">Diversity and Inclusion Fellowship Program!</a></li>
+  <li>December, 2018 - Presented '<a href="https://smartech.gatech.edu/handle/1853/60602">Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon</a>' at Georgia Tech's 3 Minute Thesis 2018.</li>
+  <li>October, 2018 - Presented 'Comparison and Integration of SMG and EMG' at <a href="https://www.bmes.org/content.asp?contentid=392">BMES Annual Meeting 2018</a>.</li>
+  <li>July, 2018 - Selected for Georgia Tech's <a href="http://arms.robotics.gatech.edu/cohort3">Accessibility, Rehabilitation, and Movement Science: An Interdisciplinary Traineeship Program in Human-Centered Robotics</a>.</li>
   </ul>
 </font>
 
