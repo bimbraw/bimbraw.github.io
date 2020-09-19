@@ -19,7 +19,7 @@ News
 <font size="-1">
 <ul>
   <li>August, '20 - Started Ph.D. in Robotics Engineering at WPI!</li>
-  <li>July, '20 - Paper '<a href="https://vimeo.com/448019177">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' accepted with great reviews at MICCAI ASMUS 2020!</li>
+  <li>July, '20 - Paper '<a href="https://vimeo.com/448019177">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' accepted in MICCAI ASMUS 2020!</li>
   <li>April, '20 - Paper '<a href="https://ieeexplore.ieee.org/document/9176483">Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies</a>' accepted in EMBC 2020!</li>
   <li>March, '20 - Accepted the offer for the position of research coordinator at <a href="https://www.wpi.edu/people/staff/kbimbraw">WPI</a>!</li>
   <li>October, '19 - Started working as an Audio DSP Engineer at Panasonic Automotive.</li>
