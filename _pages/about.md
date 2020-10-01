@@ -18,7 +18,7 @@ News
 ------
 <font size="-1">
 <ul>
-  <li>September, '20 - '<a href="https://link.springer.com/chapter/10.1007/978-3-030-60334-2_11">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' published in <a href="https://link.springer.com/bookseries/558">Lecture Notes in Computer Science</a> and <a href="https://www.springer.com/series/7412">Image Processing, Computer Vision, Pattern Recognition, and Graphics</a>.
+  <li>September, '20 - '<a href="https://link.springer.com/chapter/10.1007/978-3-030-60334-2_11">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' published in <a href="https://link.springer.com/bookseries/558">Lecture Notes in Computer Science</a> and <a href="https://www.springer.com/series/7412">Image Processing, Computer Vision, Pattern Recognition, and Graphics</a>.</li>
   <li>August, '20 - Started Ph.D. in Robotics Engineering at WPI!</li>
   <li>July, '20 - '<a href="https://vimeo.com/448019177">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' accepted in MICCAI ASMUS 2020!</li>
   <li>April, '20 - '<a href="https://ieeexplore.ieee.org/document/9176483">Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies</a>' accepted in EMBC 2020!</li>
