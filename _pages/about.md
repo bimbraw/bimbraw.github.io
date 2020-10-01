@@ -34,7 +34,7 @@ News
 Videos
 ------
 
-<iframe src="https://player.vimeo.com/video/444132536" width="640" height="362" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/444132536" width=50% height=50% frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/444131445" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/448019177" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/174093155" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
