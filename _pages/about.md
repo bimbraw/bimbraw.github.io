@@ -22,7 +22,7 @@ News
   <li>August, '20 - Started Ph.D. in Robotics Engineering at WPI!</li>
   <li>July, '20 - '<a href="https://vimeo.com/448019177">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' accepted in MICCAI ASMUS 2020!</li>
   <li>April, '20 - '<a href="https://ieeexplore.ieee.org/document/9176483">Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies</a>' accepted in EMBC 2020!</li>
-  <li>March, '20 - Got Ph.D. offers from Georgia Tech and WPI! Accepted the WPI offer!</li>
+  <li>March, '20 - Got Ph.D. offers from Georgia Tech and WPI! Accepted the WPI offer to start work in <a href="https://medicalfusionlab.wordpress.com/">Medical FUSION Lab</a>!</li>
   <li>April, '19 - Presented 'Sonomyography based real-time hand grasp configuration identification via supervised learning to control a soft robotic gripper' at <a href="http://www.ismr.gatech.edu/2019/">ISMR/SSMR 2019</a>.</li>
   <li>January, '19 - Selected for Georgia Tech's <a href="https://diversity.gatech.edu/2019-diversity-and-inclusion-fellows-bios">Diversity and Inclusion Fellowship Program!</a></li>
   <li>December, '18 - Presented '<a href="https://smartech.gatech.edu/handle/1853/60602">Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon</a>' at GaTech 3MT 2018.</li>
