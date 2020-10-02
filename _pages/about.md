@@ -31,7 +31,7 @@ News
   </ul>
 </font>
 
-|<a class="twitter-timeline" href="https://twitter.com/KeshavBimbraw?ref_src=twsrc%5Etfw" data-tweet-limit="4" data-width="100">Tweets by KeshavBimbraw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|abababababa|ababababbabaa|ababababababa|
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">this is the state of the art when it comes to lung ultrasound surface mapping and position guidance: augmented reality integrated with lung ultrasound - solving several aspects of the user-dependent nature of a pulmonary POCUS examination, and allowing temporal comparisons <a href="https://t.co/ClC43GrOqG" data-width="300">https://t.co/ClC43GrOqG</a></p>&mdash; Neal (@nachkontrolle) <a href="https://twitter.com/nachkontrolle/status/1312104437939269632?ref_src=twsrc%5Etfw">October 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|<a class="twitter-timeline" href="https://twitter.com/KeshavBimbraw?ref_src=twsrc%5Etfw" data-width="300">Tweets by KeshavBimbraw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
 
 <iframe src="https://player.vimeo.com/video/463333665" width="640" height="360" frameborder="2" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/444131445" width="640" height="360" frameborder="2" allow="autoplay; fullscreen" allowfullscreen></iframe>
