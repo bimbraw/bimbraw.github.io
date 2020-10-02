@@ -31,7 +31,7 @@ News
   </ul>
 </font>
 
-<a class="twitter-timeline" href="https://twitter.com/KeshavBimbraw?ref_src=twsrc%5Etfw">Tweets by KeshavBimbraw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/KeshavBimbraw?ref_src=twsrc%5Etfw" data-tweet-limit="4" data-width="100">Tweets by KeshavBimbraw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Videos
 ------
