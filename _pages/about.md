@@ -14,7 +14,7 @@ Prior to joining WPI, I worked as an Active Noise Control Engineering intern for
 </font>
 <img src="../images/affiliations_edited.PNG" alt="Affiliations">
 
-<a href="mailto:kbimbraw@wpi.edu" target="_blank" rel="noopener noreferrer">[Email here]</a>, [Download CV here](http://bimbraw.github.io/files/Keshav_Bimbraw_Resume.pdf)
+<a href="mailto:kbimbraw@wpi.edu">[Copy email here]</a>, [Download CV here](http://bimbraw.github.io/files/Keshav_Bimbraw_Resume.pdf)
 
 News
 ------
