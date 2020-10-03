@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-"केशव बिम्बरा | ਕੇਸ਼ਵ ਬਿੰਬਰਾ
+केशव बिम्बरा | ਕੇਸ਼ਵ ਬਿੰਬਰਾ
 <font size="-1"><p align="justify">
 I'm a Research Assistant in <a href="https://medicalfusionlab.wordpress.com/" target="_blank" rel="noopener noreferrer">Medical FUSION Lab</a> guided by <a href="https://www.wpi.edu/people/faculty/hzhang10" target="_blank" rel="noopener noreferrer">Dr. Haichong Zhang</a>. My research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing AI/ML for image classification and real-time prediction with applications in domains ranging from disease diagnosis, rehabilitation robotics, robot assisted surgery, robotic teleoperation and gaming. I'm also very interested in incorporating Computer Vision, Deep Learning and Augmented/Virtual Reality (AR/VR) in my research.</p>
 <p align="justify">
