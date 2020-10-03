@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 केशव बिम्बरा | ਕੇਸ਼ਵ ਬਿੰਬਰਾ
-<font size="-0.5"><p align="justify">
+<font size="0"><p align="justify">
 I'm a Research Assistant in <a href="https://medicalfusionlab.wordpress.com/" target="_blank" rel="noopener noreferrer">Medical FUSION Lab</a> guided by <a href="https://www.wpi.edu/people/faculty/hzhang10" target="_blank" rel="noopener noreferrer">Dr. Haichong Zhang</a>. My research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing AI/ML for image classification and real-time prediction with applications in domains ranging from disease diagnosis, rehabilitation robotics, robot assisted surgery, robotic teleoperation and gaming. I'm also very interested in incorporating Computer Vision, Deep Learning and Augmented/Virtual Reality (AR/VR) in my research.</p>
 <p align="justify">
 Prior to joining WPI, I worked as an Active Noise Control Engineering intern for <a href="https://automotive.bose.com/" target="_blank" rel="noopener noreferrer">Bose</a> (Automotive Systems Division) and an Audio DSP Engineer for Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw" target="_blank" rel="noopener noreferrer"> Georgia Tech </a> with a Master's in <a href="https://gtcmt.gatech.edu/robotic-musicianship" target="_blank" rel="noopener noreferrer">Music Technology</a> (Spring 2019). I have worked as a research intern at IIT Delhi and I have a B.E. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics" target="_blank" rel="noopener noreferrer"> Mechatronics Engineering</a> from Thapar University.</p>
@@ -20,7 +20,7 @@ Prior to joining WPI, I worked as an Active Noise Control Engineering intern for
 
 News
 ------
-<font size="-0.5">
+<font size="0">
 <ul>
   <li>September, '20 - '<a href="https://link.springer.com/chapter/10.1007/978-3-030-60334-2_11" target="_blank" rel="noopener noreferrer">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' published in <a href="https://link.springer.com/bookseries/558" target="_blank" rel="noopener noreferrer">Lecture Notes in Computer Science</a> and <a href="https://www.springer.com/series/7412" target="_blank" rel="noopener noreferrer">Image Processing, Computer Vision, Pattern Recognition, and Graphics</a>.</li>
   <li>August, '20 - Started Ph.D. in Robotics Engineering at WPI!</li>
