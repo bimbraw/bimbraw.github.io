@@ -20,7 +20,7 @@ Prior to joining WPI, I worked as an Active Noise Control Engineering intern for
 
 News
 ------
-<font size="3">
+<font size="2">
 <ul>
   <li>October, '20 - Glad that my ultrasound image capture code was useful for Ryosuke's '<a href="https://arxiv.org/abs/2010.12335" target="_blank" rel="noopener noreferrer">Tele-operative Robotic Lung Ultrasound Scanning Platform for Triage of COVID-19 Patients</a>' which has now been published!</li>
   <li>September, '20 - '<a href="https://link.springer.com/chapter/10.1007/978-3-030-60334-2_11" target="_blank" rel="noopener noreferrer">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' published in <a href="https://link.springer.com/bookseries/558" target="_blank" rel="noopener noreferrer">Lecture Notes in Computer Science</a> and <a href="https://www.springer.com/series/7412" target="_blank" rel="noopener noreferrer">Image Processing, Computer Vision, Pattern Recognition, and Graphics</a>.</li>
