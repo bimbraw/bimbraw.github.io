@@ -27,6 +27,7 @@ I can be reached via my <a href="mailto:bimbrawkeshav@gmail.com" target="_blank"
 News
 ------
 <font size="2">
+<p>
 <ul>
   <li>December, '20 - Successfully completed 2 of my 3 required courses for the PhD technical qualifier. 
   <li>October, '20 - Glad that my ultrasound image capture code was useful for Ryosuke's '<a href="https://arxiv.org/abs/2010.12335" target="_blank" rel="noopener noreferrer">Tele-operative Robotic Lung Ultrasound Scanning Platform for Triage of COVID-19 Patients</a>' which has now been published!</li>
@@ -40,9 +41,8 @@ News
   <li>January, '19 - Selected for Georgia Tech's <a href="https://diversity.gatech.edu/2019-diversity-and-inclusion-fellows-bios" target="_blank" rel="noopener noreferrer">Diversity and Inclusion Fellowship Program!</a></li>
   <li>December, '18 - Presented '<a href="https://smartech.gatech.edu/handle/1853/60602" target="_blank" rel="noopener noreferrer">Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon</a>' at GaTech 3MT 2018.</li>
   <li>October, '18 - Presented 'Comparison and Integration of SMG and EMG' at <a href="https://www.bmes.org/content.asp?contentid=392" target="_blank" rel="noopener noreferrer">BMES Annual Meeting 2018</a>.</li>
-  <li>July, '18 - Selected for Georgia Tech's <a href="http://arms.robotics.gatech.edu/cohort3" target="_blank" rel="noopener noreferrer">Accessibility, Rehabilitation, and Movement Science traineeship</a>.</li></ul></font>
+  <li>July, '18 - Selected for Georgia Tech's <a href="http://arms.robotics.gatech.edu/cohort3" target="_blank" rel="noopener noreferrer">Accessibility, Rehabilitation, and Movement Science traineeship</a>.</li></ul></font></p>
 
-------
 Videos
 ------
 <iframe src="https://player.vimeo.com/video/463333665" width="640" height="360" frameborder="2" allow="autoplay; fullscreen" allowfullscreen></iframe>
