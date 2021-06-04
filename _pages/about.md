@@ -18,6 +18,12 @@ Prior to joining WPI, I worked as an Active Noise Control Engineering intern for
 
 <a href="mailto:kbimbraw@wpi.edu" target="_blank">Institutional Email ID</a>  <a href="mailto:bimbrawkeshav@gmail.com" target="_blank">Personal Email ID</a>  <a href="http://bimbraw.github.io/files/Keshav_Bimbraw_Resume.pdf" target="_blank">CV</a>  <a href="https://www.youtube.com/channel/UCLI9__KHyyVQqbeOVLyJGHw" target="_blank">Music</a>
 
+Reaching out
+------
+<font size="-0.5"><p align="justify">
+<iframe src="https://calendar.google.com/calendar/embed?src=bimbrawkeshav%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</font>
+
 News
 ------
 <font size="2">
