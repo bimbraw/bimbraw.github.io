@@ -21,7 +21,7 @@ Prior to joining WPI, I worked as an Active Noise Control Engineering intern for
 Volunteer Advising/Mentorship
 ------
 <font size="-0.5"><p align="justify">
-I can be reached via my <a href="mailto:bimbrawkeshav@gmail.com" target="_blank">Personal Email ID</a> regarding grad school advice, questions about research vs industry, life as an international student and career guidance. Traditionally underrepresented communities in STEM such as LGBTQIA+, POC and FGCS individuals are encouraged to reach out. I have been guiding and mentoring students since I was an undergrad. </p></font>
+I can be reached via my <a href="mailto:bimbrawkeshav@gmail.com" target="_blank">Personal Email ID</a> regarding grad school advice, questions about research vs industry, life as an international student and career guidance. Individuals from traditionally underrepresented communities in STEM such as LGBTQIA+, POC and FGCS are encouraged to reach out. I have been guiding and mentoring students since I was an undergrad. </p></font>
 
 News
 ------
