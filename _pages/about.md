@@ -20,7 +20,6 @@ Prior to joining WPI, I worked as an Active Noise Control Engineering intern for
 
 Reaching out
 ------
-<font size="-0.5"><p align="justify">
 <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23039BE5&amp;ctz=America%2FNew_York&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%230B8043" style="border:solid 1px #777" width="1000" height="400" frameborder="0" scrolling="no"></iframe>
 
 News
