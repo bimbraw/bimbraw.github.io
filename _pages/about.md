@@ -35,6 +35,42 @@ News
   <li>July, '20 - '<a href="https://vimeo.com/448019177" target="_blank" rel="noopener noreferrer">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' accepted in MICCAI ASMUS 2020!</li>
   <li>April, '20 - '<a href="https://ieeexplore.ieee.org/document/9176483" target="_blank" rel="noopener noreferrer">Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies</a>' accepted in EMBC 2020!</li>
   <li>March, '20 - Got Ph.D. offers from Georgia Tech and WPI! Accepted the WPI offer and started working in <a href="https://medicalfusionlab.wordpress.com/" target="_blank" rel="noopener noreferrer">Medical FUSION Lab</a>!</li>
+</ul>
+<p><a onclick="javascript:ShowHide('HiddenDiv')">read more</a></p>
+<div class="mid" id="HiddenDiv" style="display: none;"><font face="Arial" size="+2" 
+
+color="#306Eff" align="right">
+<ul>
+  <li>December, '19 - My project and code for controlling prosthetics with ultrasound featured in the first episode of <a href="https://youtu.be/UwsrzCVZAb8?t=1079" target="_blank" rel="noopener noreferrer">The Age of AI</a>!</li> 
+  <li>April, '19 - Presented 'Sonomyography based real-time hand grasp configuration identification via supervised learning to control a soft robotic gripper' at <a href="http://www.ismr.gatech.edu/2019/" target="_blank" rel="noopener noreferrer">ISMR/SSMR 2019</a>.</li>
+  <li>January, '19 - Selected for Georgia Tech's <a href="https://diversity.gatech.edu/2019-diversity-and-inclusion-fellows-bios" target="_blank" rel="noopener noreferrer">Diversity and Inclusion Fellowship Program!</a></li>
+  <li>December, '18 - Presented '<a href="https://smartech.gatech.edu/handle/1853/60602" target="_blank" rel="noopener noreferrer">Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon</a>' at GaTech 3MT 2018.</li>
+  <li>October, '18 - Presented 'Comparison and Integration of SMG and EMG' at <a href="https://www.bmes.org/content.asp?contentid=392" target="_blank" rel="noopener noreferrer">BMES Annual Meeting 2018</a>.</li>
+  <li>July, '18 - Selected for Georgia Tech's <a href="http://arms.robotics.gatech.edu/cohort3" target="_blank" rel="noopener noreferrer">Accessibility, Rehabilitation, and Movement Science traineeship</a>.</li>
+</ul>
+</div>
+<script type="text/javascript">// <![CDATA[
+function ShowHide(divId)
+{
+if(document.getElementById(divId).style.display == 'none')
+{
+document.getElementById(divId).style.display='block';
+}
+else
+{
+document.getElementById(divId).style.display = 'none';
+}
+}
+// ]]></script>
+  
+<ul>
+  <li>December, '20 - Successfully completed 2 of my 3 required courses for the PhD technical qualifier. 
+  <li>October, '20 - Glad that my ultrasound image capture code was useful for Ryosuke's '<a href="https://arxiv.org/abs/2010.12335" target="_blank" rel="noopener noreferrer">Tele-operative Robotic Lung Ultrasound Scanning Platform for Triage of COVID-19 Patients</a>' which has now been published!</li>
+  <li>September, '20 - '<a href="https://link.springer.com/chapter/10.1007/978-3-030-60334-2_11" target="_blank" rel="noopener noreferrer">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' published in <a href="https://link.springer.com/bookseries/558" target="_blank" rel="noopener noreferrer">Lecture Notes in Computer Science</a> and <a href="https://www.springer.com/series/7412" target="_blank" rel="noopener noreferrer">Image Processing, Computer Vision, Pattern Recognition, and Graphics</a>.</li>
+  <li>August, '20 - Started Ph.D. in Robotics Engineering at WPI!</li>
+  <li>July, '20 - '<a href="https://vimeo.com/448019177" target="_blank" rel="noopener noreferrer">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' accepted in MICCAI ASMUS 2020!</li>
+  <li>April, '20 - '<a href="https://ieeexplore.ieee.org/document/9176483" target="_blank" rel="noopener noreferrer">Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies</a>' accepted in EMBC 2020!</li>
+  <li>March, '20 - Got Ph.D. offers from Georgia Tech and WPI! Accepted the WPI offer and started working in <a href="https://medicalfusionlab.wordpress.com/" target="_blank" rel="noopener noreferrer">Medical FUSION Lab</a>!</li>
   <li>December, '19 - My project and code for controlling prosthetics with ultrasound featured in the first episode of <a href="https://youtu.be/UwsrzCVZAb8?t=1079" target="_blank" rel="noopener noreferrer">The Age of AI</a>!</li> 
   <li>April, '19 - Presented 'Sonomyography based real-time hand grasp configuration identification via supervised learning to control a soft robotic gripper' at <a href="http://www.ismr.gatech.edu/2019/" target="_blank" rel="noopener noreferrer">ISMR/SSMR 2019</a>.</li>
   <li>January, '19 - Selected for Georgia Tech's <a href="https://diversity.gatech.edu/2019-diversity-and-inclusion-fellows-bios" target="_blank" rel="noopener noreferrer">Diversity and Inclusion Fellowship Program!</a></li>
