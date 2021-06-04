@@ -18,7 +18,7 @@ Prior to joining WPI, I worked as an Active Noise Control Engineering intern for
 
 <a href="mailto:kbimbraw@wpi.edu" target="_blank">Institutional Email ID</a>  <a href="mailto:bimbrawkeshav@gmail.com" target="_blank">Personal Email ID</a>  <a href="http://bimbraw.github.io/files/Keshav_Bimbraw_Resume.pdf" target="_blank">CV</a>  <a href="https://www.youtube.com/channel/UCLI9__KHyyVQqbeOVLyJGHw" target="_blank">Music</a>
 
-Volunteer Work
+Volunteer Advising/Mentorship
 ------
 <font size="-0.5"><p align="justify">
 I can be reached via my <a href="mailto:bimbrawkeshav@gmail.com" target="_blank">Personal Email ID</a> regarding grad school advice, questions about research vs industry, life as an international student and career guidance. Traditionally underrepresented communities in STEM such as LGBTQIA+, POC and FGCS individuals are encouraged to reach out. I have been guiding and mentoring students since I was an undergrad. </p></font>
