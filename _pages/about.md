@@ -26,7 +26,7 @@ I can be reached via my <a href="mailto:bimbrawkeshav@gmail.com" target="_blank"
 News
 ------
 <font size="2"><ul>
-  <li>September, '21 - Accepted to the 2021B class of Google’s CS Research Mentorship Program (CSRMP)!</li>
+  <li>September, '21 - Accepted to the 2021B class of <a href="https://research.google/outreach/csrmp/" target="_blank" rel="noopener noreferrer">Google’s CS Research Mentorship Program</a> (CSRMP)!</li>
   <li>September, '21 - Communicated 'Prediction of MCP joint angles and Classification of Hand configurations based on Ultrasound Imaging of the Forearm' to ICRA 2022. <a href="https://arxiv.org/abs/2109.11093" target="_blank" rel="noopener noreferrer">arXiv</a>, <a href="https://www.youtube.com/watch?v=YdhpU829e-M" target="_blank" rel="noopener noreferrer">Video</a>.</li>
   <li>December, '20 - Successfully completed 2 of my 3 required courses for the PhD technical qualifier. </li>
   <li>October, '20 - Glad that my ultrasound image capture code was useful for Ryosuke's '<a href="https://arxiv.org/abs/2010.12335" target="_blank" rel="noopener noreferrer">Tele-operative Robotic Lung Ultrasound Scanning Platform for Triage of COVID-19 Patients</a>' which has now been published!</li>
