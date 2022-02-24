@@ -22,6 +22,7 @@ Prior to joining WPI, I worked as an Active Noise Control Engineering intern for
 News
 ------
 <font size="2"><ul>
+  <li>January, '21 - My recent paper accepted to ICRA 2022! Looking forward to attending the conference in Philadelphia in May!</li>
   <li>September, '21 - Accepted to the 2021B class of <a href="https://research.google/outreach/csrmp/" target="_blank" rel="noopener noreferrer">Google’s CS Research Mentorship Program</a> (CSRMP)!</li>
   <li>September, '21 - Submitted my paper on predicting continuous and discrete hand movements using forearm ultrasound images to ICRA 2022. <a href="https://arxiv.org/abs/2109.11093" target="_blank" rel="noopener noreferrer">arXiv</a>, <a href="https://www.youtube.com/watch?v=YdhpU829e-M" target="_blank" rel="noopener noreferrer">Video</a>.</li>
   <li>December, '20 - Successfully completed 2 of my 3 required courses for the PhD technical qualifier. </li>
