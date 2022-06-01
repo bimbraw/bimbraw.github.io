@@ -49,7 +49,7 @@ I can be reached via my <a href="mailto:bimbrawkeshav@gmail.com" target="_blank"
 Videos
 ------
 <!--<iframe width="560" height="315" src="https://youtu.be/yJtiT1-eBGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-<iframe width="560" height="315" src="https://youtu.be/yJtiT1-eBGE" title="YouTube video player" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/yJtiT1-eBGE" title="YouTube video player" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ------
 <iframe src="https://player.vimeo.com/video/463333665" width="640" height="360" frameborder="2" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ------
