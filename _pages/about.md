@@ -22,10 +22,12 @@ Prior to joining WPI, I worked as an Active Noise Control Engineering intern for
 News
 ------
 <font size="2"><ul>
-  <li>January, '21 - My recent paper accepted to ICRA 2022! Looking forward to attending the conference in Philadelphia in May!</li>
+  <li>May, '22 - Presented a <a href="https://lnkd.in/gka9gr7m" target="_blank" rel="noopener noreferrer">paper</a> and a <a href="https://lnkd.in/gkbF5eGf" target="_blank" rel="noopener noreferrer">poster</a> at IEEE ICRA 2022!</li>
+  <li>May, '22 - Poster '<a href="https://lnkd.in/gkbF5eGf" target="_blank" rel="noopener noreferrer">Forearm Ultrasound Images can be Classified to Predict Static American Sign Language Letters</a>' accepted to be presented in the <a href="https://lnkd.in/gcwpSRxj" target="_blank" rel="noopener noreferrer"> IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics</a>!</li>
+  <li>January, '22 - My recent <a href="https://lnkd.in/gka9gr7m" target="_blank" rel="noopener noreferrer">paper</a> accepted to ICRA 2022! Looking forward to attending the conference in Philadelphia in May!</li>
+  <li>December, '21 - Completed all the courses required for my PhD qualifier.</li>
   <li>September, '21 - Accepted to the 2021B class of <a href="https://research.google/outreach/csrmp/" target="_blank" rel="noopener noreferrer">Google’s CS Research Mentorship Program</a> (CSRMP)!</li>
   <li>September, '21 - Submitted my paper on predicting continuous and discrete hand movements using forearm ultrasound images to ICRA 2022. <a href="https://arxiv.org/abs/2109.11093" target="_blank" rel="noopener noreferrer">arXiv</a>, <a href="https://www.youtube.com/watch?v=YdhpU829e-M" target="_blank" rel="noopener noreferrer">Video</a>.</li>
-  <li>December, '20 - Successfully completed 2 of my 3 required courses for the PhD technical qualifier. </li>
   <li>October, '20 - Glad that my ultrasound image capture code was useful for Ryosuke's '<a href="https://pubmed.ncbi.nlm.nih.gov/34532570/" target="_blank" rel="noopener noreferrer">Robotic lung ultrasound paper</a>' which has now been published!</li>
   <li>September, '20 - '<a href="https://link.springer.com/chapter/10.1007/978-3-030-60334-2_11" target="_blank" rel="noopener noreferrer">Augmented Reality-Based Lung Ultrasound Scanning Guidance</a>' published in <a href="https://link.springer.com/bookseries/558" target="_blank" rel="noopener noreferrer">LNCS</a> and <a href="https://www.springer.com/series/7412" target="_blank" rel="noopener noreferrer">Image Processing, CV, Pattern Recognition, and Graphics</a>.</li>
   <li>August, '20 - Started Ph.D. in Robotics Engineering at WPI!</li>
@@ -46,7 +48,7 @@ I can be reached via my <a href="mailto:bimbrawkeshav@gmail.com" target="_blank"
 
 Videos
 ------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YdhpU829e-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yJtiT1-eBGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ------
 <iframe src="https://player.vimeo.com/video/463333665" width="640" height="360" frameborder="2" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ------
