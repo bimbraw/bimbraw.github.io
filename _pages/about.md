@@ -22,7 +22,7 @@ Prior to joining WPI, I worked as an Active Noise Control Engineering intern for
 News
 ------
 <font size="2"><ul>
-  <li>May, '22 - Presented a <a href="https://lnkd.in/gka9gr7m" target="_blank" rel="noopener noreferrer">paper</a> and a <a href="https://lnkd.in/gkbF5eGf" target="_blank" rel="noopener noreferrer">poster</a> at IEEE ICRA 2022!</li>
+  <li>May, '22 - Presented a <a href="https://lnkd.in/gka9gr7m" target="_blank" rel="noopener noreferrer">paper</a> at the Autonomous Systems session and a <a href="https://lnkd.in/gkbF5eGf" target="_blank" rel="noopener noreferrer">poster</a> at the at Workshop on Human-centered Autonomy in Medical Robotics at IEEE ICRA 2022 in Philadelphia!</li>
   <li>May, '22 - Poster '<a href="https://lnkd.in/gkbF5eGf" target="_blank" rel="noopener noreferrer">Forearm Ultrasound Images can be Classified to Predict Static American Sign Language Letters</a>' accepted to be presented in the <a href="https://lnkd.in/gcwpSRxj" target="_blank" rel="noopener noreferrer"> IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics</a>!</li>
   <li>January, '22 - My recent <a href="https://lnkd.in/gka9gr7m" target="_blank" rel="noopener noreferrer">paper</a> accepted to ICRA 2022! Looking forward to attending the conference in Philadelphia in May!</li>
   <li>December, '21 - Completed all the courses required for my PhD qualifier.</li>
