@@ -10,7 +10,7 @@ redirect_from:
 
 केशव बिम्बरा | ਕੇਸ਼ਵ ਬਿੰਬਰਾ
 <font size="-0.5"><p align="justify">
-Augmented Human Sensing Intern in the Data and Devices Group in the Artificial Intelligence Research Lab (AI Lab) at Nokia Bell Labs in New York Metro Area. PhD student in <a href="https://medfusionlab.com/" target="_blank" rel="noopener noreferrer">Medical FUSION Lab</a> mentored by <a href="https://www.wpi.edu/people/faculty/hzhang10" target="_blank" rel="noopener noreferrer">Dr. Haichong Zhang</a>. 
+Augmented Human Sensing Intern in the <a href="https://www.bell-labs.com/research-innovation/projects-and-initiatives/data-and-devices-lab/" target="_blank" rel="noopener noreferrer">Data and Devices Group</a> in the Artificial Intelligence Research Lab (AI Lab) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a> in New York Metro Area. PhD student in <a href="https://medfusionlab.com/" target="_blank" rel="noopener noreferrer">Medical FUSION Lab</a> mentored by <a href="https://www.wpi.edu/people/faculty/hzhang10" target="_blank" rel="noopener noreferrer">Dr. Haichong Zhang</a>. 
   
 My research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing advances in computing (AI/ML, AR/VR) for low-latency for real-time predictions based on ultrasound imaging with applications in domains such as robotic teleoperation, rehabilitation robotics, robot assisted surgery to gaming. </p>
 <p align="justify">
