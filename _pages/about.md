@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Keshav Bimbraw"
-excerpt: "PhD Robotics Engineering candidate working on Robotic Ultrasound and Machine Learning based Medical Image Processing"
+excerpt: "PhD student working on AI/ML for Robotic Ultrasound and AI/ML based Medical Image Processing"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,8 +10,11 @@ redirect_from:
 
 केशव बिम्बरा | ਕੇਸ਼ਵ ਬਿੰਬਰਾ
 <font size="-0.5"><p align="justify">
-I'm a Research Assistant in <a href="https://medicalfusionlab.wordpress.com/" target="_blank" rel="noopener noreferrer">Medical FUSION Lab</a> guided by <a href="https://www.wpi.edu/people/faculty/hzhang10" target="_blank" rel="noopener noreferrer">Dr. Haichong Zhang</a>. My research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing AI/ML for image classification and real-time prediction with applications in domains ranging from disease diagnosis, rehabilitation robotics, robot assisted surgery, robotic teleoperation and gaming. I've been increasingly incorporating Computer Vision, Deep Learning and Augmented/Virtual Reality (AR/VR) in my research.</p>
+Augmented Human Sensing Intern in the Data and Devices Group in the Artificial Intelligence Research Lab (AI Lab) at Nokia Bell Labs in New York Metro Area. PhD student in <a href="https://medfusionlab.com/" target="_blank" rel="noopener noreferrer">Medical FUSION Lab</a> mentored by <a href="https://www.wpi.edu/people/faculty/hzhang10" target="_blank" rel="noopener noreferrer">Dr. Haichong Zhang</a>. 
+  
+My research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing advances in computing (AI/ML, AR/VR) for low-latency for real-time predictions based on ultrasound imaging with applications in domains such as robotic teleoperation, rehabilitation robotics, robot assisted surgery to gaming. </p>
 <p align="justify">
+
 Prior to joining WPI, I worked as an Active Noise Control Engineering intern for <a href="https://automotive.bose.com/" target="_blank" rel="noopener noreferrer">Bose</a> (Automotive Systems Division) and an Audio DSP Engineer for Panasonic Automotive. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw" target="_blank" rel="noopener noreferrer"> Georgia Tech</a> with a Master's in <a href="https://gtcmt.gatech.edu/robotic-musicianship" target="_blank" rel="noopener noreferrer">Music Technology</a> (Spring 2019). I have worked as a research intern at IIT Delhi and I have a B.E. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics" target="_blank" rel="noopener noreferrer"> Mechatronics Engineering</a> from Thapar University. <a href="http://bimbraw.github.io/files/Keshav_Bimbraw_Resume_Summer_2022_Updated.pdf" target="_blank">Resume</a>.</p>
 </font>
 
