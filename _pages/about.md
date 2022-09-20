@@ -10,7 +10,7 @@ redirect_from:
 
 केशव बिम्बरा | ਕੇਸ਼ਵ ਬਿੰਬਰਾ
 <font size="-0.5"><p align="justify">
-Augmented Human Sensing Researcher in the Data and Devices Group in the Artificial Intelligence Research Lab (AI Lab) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a> in New York City Metropolitan Area. </p>
+Augmented Human Sensing Researcher (Co-Op) in the Data and Devices Group in the Artificial Intelligence Research Lab (AI Lab) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a> in New York City Metropolitan Area. </p>
 
 <p align="justify">
 PhD student in <a href="https://medfusionlab.com/" target="_blank" rel="noopener noreferrer">Medical FUSION Lab</a>. My PhD research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing advances in computing (AI/ML, AR/VR) for low-latency predictions based on biosignals with applications in domains such as robotic teleoperation, AR/VR, rehabilitation robotics, robot assisted surgery and gaming. </p>
