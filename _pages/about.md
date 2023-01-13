@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 केशव बिम्बरा | ਕੇਸ਼ਵ ਬਿੰਬਰਾ
-<font size="-0.5"><p align="justify">
-Augmented Human Sensing Researcher (Co-Op) in the Data and Devices Group in the Artificial Intelligence Research Lab (AI Lab) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a> in New York City Metropolitan Area. </p>
+<font size="-0.5">
 
 <p align="justify">
 PhD student in <a href="https://medfusionlab.com/" target="_blank" rel="noopener noreferrer">Medical FUSION Lab</a>. My PhD research is based on ultrasound image processing using machine learning. I am specifically interested in utilizing advances in computing (AI/ML, AR/VR) for low-latency predictions based on biosignals with applications in domains such as robotic teleoperation, AR/VR, rehabilitation robotics, robot assisted surgery and gaming. </p>
 <p align="justify">
 
+<p align="justify">
+I worked as an <a href="https://www.bell-labs.com/about/researcher-profiles/keshav-bimbraw/" target="_blank" rel="noopener noreferrer">Augmented Human Sensing Researcher</a> (Intern/Co-Op) in the Data and Devices Group in the Artificial Intelligence Research Lab (AI Lab) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a> in New York City Metropolitan Area. </p>
+  
 Previously, I worked as an Active Noise Control Engineering intern for <a href="https://automotive.bose.com/" target="_blank" rel="noopener noreferrer">Bose</a> (Automotive Systems Division) and as an Audio DSP Engineer. I graduated <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw" target="_blank" rel="noopener noreferrer"> Georgia Tech</a> with a Master's in <a href="https://gtcmt.gatech.edu/robotic-musicianship" target="_blank" rel="noopener noreferrer">Music Technology</a> (Spring 2019). I worked as a research intern at IIT Delhi during B.E. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics" target="_blank" rel="noopener noreferrer"> Mechatronics Engineering</a> at Thapar University. <a href="http://bimbraw.github.io/files/Keshav_Bimbraw_Resume_Summer_2022_Updated.pdf" target="_blank">Resume</a>.</p>
 </font>
 
@@ -26,6 +28,8 @@ Previously, I worked as an Active Noise Control Engineering intern for <a href="
 News
 ------
 <font size="2"><ul>
+  <li>December, '22 - Ended a very productive Co-Op at Nokia Bell Labs. Produced deliverables in terms of already out and future papers, patents and demonstrable videos!</li>
+  <li>October, '22 - Paper titled 'Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System' accepted to <a href="https://www.sice-si.org/SII2023/">IEEE SII 2023</a>!</li>
   <li>August, '22 - Based on the summer internship performance, the <a href="https://www.bell-labs.com/research-innovation/projects-and-initiatives/data-and-devices-lab/" target="_blank" rel="noopener noreferrer">Data and Devices Group</a> in the Artifical Intelligence Research Labs (AIR Labs) at Nokia Bell Labs extended a Co-Op offer, which I accepted! Excited to continue my work at Bell Labs in the Human-Machine Interaction space!</li>
   <li>June, '22 - Joined the <a href="https://www.bell-labs.com/research-innovation/projects-and-initiatives/data-and-devices-lab/" target="_blank" rel="noopener noreferrer">Data and Devices Group</a> in the Artifical Intelligence Research Labs (AIR Labs) at Nokia Bell Labs in New Providence, NJ as an Augmented Human Sensing Intern to work on exciting projects in the Human-Machine Interaction space!</li>
   <li>May, '22 - Presented a <a href="https://lnkd.in/gka9gr7m" target="_blank" rel="noopener noreferrer">paper</a> at the Autonomous Systems session and a <a href="https://lnkd.in/gkbF5eGf" target="_blank" rel="noopener noreferrer">poster</a> at the at Workshop on Human-centered Autonomy in Medical Robotics at IEEE ICRA 2022 in Philadelphia!</li>
