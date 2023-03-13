@@ -29,7 +29,7 @@ News
 ------
 <font size="2"><ul>
   <li>March, '23 - Gave my PhD Qualifiers!</li>
-  <li>January, '23 - Presented <a href="https://ieeexplore.ieee.org/abstract/document/10039467">Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System</a> at IEEE SII 2023 held at Georgia Tech!</li>
+  <li>January, '23 - Presented <a href="https://ieeexplore.ieee.org/abstract/document/10039467">Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System</a> at <a href="https://www.sice-si.org/SII2023/">IEEE SII 2023</a> held at Georgia Tech!</li>
   <li>December, '22 - Ended a very productive Co-Op at Nokia Bell Labs. Produced deliverables in terms of already out and future papers, patents and demonstrable videos!</li>
   <li>November, '22 - Paper titled 'Simultaneous Estimation of Hand Configurations and Finger Joint Angles using Forearm Ultrasound' accepted to be published in the <a href="https://www.ieee-ras.org/publications/t-mrb">IEEE Transactions on Medical Robotics and Bionics</a>! <a href="https://arxiv.org/abs/2211.15871" target="_blank" rel="noopener noreferrer">ArXiv version</a>.</li>
   <li>October, '22 - Paper titled 'Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System' accepted to <a href="https://www.sice-si.org/SII2023/">IEEE SII 2023</a>!</li>
