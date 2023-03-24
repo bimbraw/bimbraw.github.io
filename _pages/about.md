@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Keshav Bimbraw"
-excerpt: "PhD student working on AI/ML for Robotic Ultrasound and AI/ML based Medical Image Processing"
+excerpt: "PhD Candidate working on AI/ML for Robotic Ultrasound and AI/ML based Medical Image Processing"
 author_profile: true
 redirect_from: 
   - /about/
