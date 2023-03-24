@@ -57,7 +57,8 @@ News
 Volunteer Advising/Mentorship
 ------
 <font size="-0.5"><p align="justify">
-I can be reached via my <a href="mailto:bimbrawkeshav@gmail.com" target="_blank">Personal Email ID</a> regarding grad school advice, questions about research vs industry, life as an international student and career guidance. Individuals from traditionally underrepresented communities in STEM such as LGBTQIA+, POC and FGCS are encouraged to reach out. I have been guiding and mentoring students since I was an undergrad. </p></font>
+Please feel free to contact me at my Personal Email ID (last-name first-name at gmail.com) for advice on graduate school, insights on research versus industry, life as an international student, and career guidance. As someone who has mentored and guided students since my undergraduate years, I am particularly interested in supporting individuals from traditionally underrepresented communities in STEM, such as LGBTQIA+, POC, and FGCS. Don't hesitate to reach out, I am happy to assist in any way I can.
+</p></font>
 
 Videos
 ------
