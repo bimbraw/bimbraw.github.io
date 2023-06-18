@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Keshav Bimbraw"
-excerpt: "PhD Candidate working on AI/ML for Robotic Ultrasound and AI/ML based Medical Image Processing"
+excerpt: "PhD Candidate working on AI/ML for Perception in Robotics"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,10 +12,10 @@ redirect_from:
 <font size="-0.5">
 
 <p align="justify">
-I am a Robotics Engineering PhD student at <a href="https://wp.wpi.edu/medicalfusionlab/" target="_blank" rel="noopener noreferrer">WPI's Medical FUSION Lab</a>, where my research focuses on the application of machine learning to ultrasound image processing. My interests lie in leveraging cutting-edge computing technologies such as AI/ML and AR/VR to enable real-time predictions based on biosignals. I believe these advances have broad applicability in various domains such as robotic teleoperation, AR/VR, rehabilitation robotics, robot-assisted surgery, and gaming.</p>
+I am a Robotics PhD candidate at <a href="https://wp.wpi.edu/medicalfusionlab/" target="_blank" rel="noopener noreferrer">WPI's Medical FUSION Lab</a>, where my research focuses on the application of machine learning to ultrasound image processing. My interests lie in leveraging AI/ML and AR/VR to enable real-time biosignals based predictions. My research has broad applicability in various domains such as robotic teleoperation, AR/VR, rehabilitation robotics, robot-assisted surgery, and gaming.</p>
 
 <p align="justify">
-As a PhD student, I worked as an <a href="https://www.bell-labs.com/about/researcher-profiles/keshav-bimbraw/" target="_blank" rel="noopener noreferrer">Augmented Human Sensing Researcher</a> (Intern/Co-Op) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a>' Artificial Intelligence Research Lab in the New York City Metropolitan Area.</p>
+I am currently working as a Research Intern at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> in Cambridge, Massachusetts. I worked as an <a href="https://www.bell-labs.com/about/researcher-profiles/keshav-bimbraw/" target="_blank" rel="noopener noreferrer">Augmented Human Sensing Researcher</a> (Intern/Co-Op) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a>' Artificial Intelligence Research Lab in the New York City Metropolitan Area in Summer and Fall of 2022.</p>
 
 <p align="justify">
 Additionally, I have experience as an Active Noise Control Engineering intern at <a href="https://automotive.bose.com/" target="_blank" rel="noopener noreferrer">Bose</a> (Automotive Systems Division) and as an Audio DSP Engineer. I hold a Master's in <a href="https://gtcmt.gatech.edu/robotic-musicianship" target="_blank" rel="noopener noreferrer">Music Technology</a> from <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw" target="_blank" rel="noopener noreferrer">Georgia Tech</a> (Spring 2019) and completed a research internship at IIT Delhi while pursuing my B.E. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics" target="_blank" rel="noopener noreferrer">Mechatronics Engineering</a> at Thapar University. <a href="http://bimbraw.github.io/files/Keshav_Bimbraw_Resume_Summer_2023.pdf" target="_blank">Resume</a>. <a href="http://bimbraw.github.io/files/Keshav_Bimbraw_CV.pdf" target="_blank">CV</a>.</p>
@@ -28,7 +28,9 @@ Additionally, I have experience as an Active Noise Control Engineering intern at
 News
 ------
 <font size="2"><ul>
-  <li>March, '23 - Gave my PhD Qualifiers!</li>
+  <li>May, '23 - My work on ultrasound-based hand force estimation accepted to <a href="https://2023.ieee-ius.org/" target="_blank" rel="noopener noreferrer">IUS 2023</a>!</li>  
+  <li>April, '23 - Starting work as a Research Intern next month at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> in Cambridge, Massachusetts!</li>
+  <li>March, '23 - Gave my PhD Qualifiers and passed!</li>
   <li>January, '23 - Presented <a href="https://ieeexplore.ieee.org/abstract/document/10039467">Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System</a> at <a href="https://www.sice-si.org/SII2023/">IEEE SII 2023</a> held at Georgia Tech!</li>
   <li>December, '22 - Ended a very productive Co-Op at Nokia Bell Labs. Produced deliverables in terms of already out and future papers, patents and demonstrable videos!</li>
   <li>November, '22 - Paper titled 'Simultaneous Estimation of Hand Configurations and Finger Joint Angles using Forearm Ultrasound' accepted to be published in the <a href="https://www.ieee-ras.org/publications/t-mrb">IEEE Transactions on Medical Robotics and Bionics</a>! <a href="https://arxiv.org/abs/2211.15871" target="_blank" rel="noopener noreferrer">ArXiv version</a>.</li>
