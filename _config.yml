@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate, Robotics"
   location         : "Cambridge, Massachusetts"
-  employer         : "Mitsubishi Electric Research Labs"
+  employer         : #"Mitsubishi Electric Research Labs"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jCeibEwAAAAJ&hl=en"
   email            : "bimbrawkeshav@gmail.com"
