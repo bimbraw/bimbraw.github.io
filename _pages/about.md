@@ -28,6 +28,7 @@ Additionally, I have experience as an Active Noise Control Engineering intern at
 News
 ------
 <font size="2"><ul>
+  <li>July, '23 - Our work on ultrasound-based virtual object manipulation has been accepted to <a href="https://bsn.embs.org/2023/" target="_blank" rel="noopener noreferrer">IEEE BSN 2023</a> which will be held at MIT Media Lab in October!</li>  
   <li>May, '23 - My work on ultrasound-based hand force estimation accepted to <a href="https://2023.ieee-ius.org/" target="_blank" rel="noopener noreferrer">IUS 2023</a>!</li>  
   <li>April, '23 - Starting work as a Research Intern next month at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> in Cambridge, Massachusetts!</li>
   <li>March, '23 - Gave my PhD Qualifiers and passed!</li>
