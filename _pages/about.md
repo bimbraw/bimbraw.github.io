@@ -57,7 +57,7 @@ News
   <li>January, '19 - Selected for Georgia Tech's <a href="https://diversity.gatech.edu/2019-diversity-and-inclusion-fellows-bios" target="_blank" rel="noopener noreferrer">Diversity and Inclusion Fellowship Program!</a></li>
   <li>December, '18 - Presented '<a href="https://smartech.gatech.edu/handle/1853/60602" target="_blank" rel="noopener noreferrer">Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon</a>' at GaTech 3MT 2018.</li>
   <li>October, '18 - Presented 'Comparison and Integration of SMG and EMG' at <a href="https://www.bmes.org/content.asp?contentid=392" target="_blank" rel="noopener noreferrer">BMES Annual Meeting 2018</a>.</li>
-  <li>July, '18 - Selected for Georgia Tech's <a href="http://arms.robotics.gatech.edu/cohort3" target="_blank" rel="noopener noreferrer">Accessibility, Rehabilitation, and Movement Science traineeship</a>.</li></ul>
+  <li>July, '18 - Selected for Georgia Tech's <a href="http://arms.robotics.gatech.edu/cohort3" target="_blank" rel="noopener noreferrer">Accessibility, Rehabilitation, and Movement Science traineeship</a>.</li></ul></font>
   </details><p></p>
 
 Volunteer Advising/Mentorship
