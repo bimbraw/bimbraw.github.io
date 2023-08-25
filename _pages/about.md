@@ -32,7 +32,11 @@ News
   <li>May, '23 - My work on ultrasound-based hand force estimation accepted to <a href="https://2023.ieee-ius.org/" target="_blank" rel="noopener noreferrer">IUS 2023</a>!</li>  
   <li>April, '23 - Starting work as a Research Intern next month at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> in Cambridge, Massachusetts!</li>
   <li>March, '23 - Gave my PhD Qualifiers and passed!</li>
-  <li>January, '23 - Presented <a href="https://ieeexplore.ieee.org/abstract/document/10039467">Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System</a> at <a href="https://www.sice-si.org/SII2023/">IEEE SII 2023</a> held at Georgia Tech!</li>
+  <li>January, '23 - Presented <a href="https://ieeexplore.ieee.org/abstract/document/10039467">Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System</a> at <a href="https://www.sice-si.org/SII2023/">IEEE SII 2023</a> held at Georgia Tech!</li></ul>
+  <details open>
+  <summary><i>Wow, so fancy</i></summary>
+  <b>WOW, SO BOLD</b>
+  <ul>
   <li>December, '22 - Ended a very productive Co-Op at Nokia Bell Labs. Produced deliverables in terms of already out and future papers, patents and demonstrable videos!</li>
   <li>November, '22 - Paper titled 'Simultaneous Estimation of Hand Configurations and Finger Joint Angles using Forearm Ultrasound' accepted to be published in the <a href="https://www.ieee-ras.org/publications/t-mrb">IEEE Transactions on Medical Robotics and Bionics</a>! <a href="https://arxiv.org/abs/2211.15871" target="_blank" rel="noopener noreferrer">ArXiv version</a>.</li>
   <li>October, '22 - Paper titled 'Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System' accepted to <a href="https://www.sice-si.org/SII2023/">IEEE SII 2023</a>!</li>
@@ -56,6 +60,7 @@ News
   <li>December, '18 - Presented '<a href="https://smartech.gatech.edu/handle/1853/60602" target="_blank" rel="noopener noreferrer">Imparting Expressivity and Dynamics to Percussive Musical Robot Shimon</a>' at GaTech 3MT 2018.</li>
   <li>October, '18 - Presented 'Comparison and Integration of SMG and EMG' at <a href="https://www.bmes.org/content.asp?contentid=392" target="_blank" rel="noopener noreferrer">BMES Annual Meeting 2018</a>.</li>
   <li>July, '18 - Selected for Georgia Tech's <a href="http://arms.robotics.gatech.edu/cohort3" target="_blank" rel="noopener noreferrer">Accessibility, Rehabilitation, and Movement Science traineeship</a>.</li></ul></font><p></p>
+  </details>
 
 Volunteer Advising/Mentorship
 ------
