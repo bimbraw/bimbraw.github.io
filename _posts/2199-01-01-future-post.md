@@ -1,11 +1,22 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Estimating Force Exerted by the Fingers Based on Forearm Ultrasound'
+date: 2023-08-28
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - ultrasound
+  - sonomyography
+  - force
 ---
+<ul>Biosignal-based hand movement and force assessment are critical for human-machine interaction.</ul>
+<ul>Surface electromyography has been used to predict finger forces, but there are issues surrounding the sensor signal-to-noise ratio, number of sensors required to get good data, etc. [1-2].</ul>
+<ul>Ultrasound can be used to visualize and analyze the forearm cross-section to estimate hand movements [3-4].</ul>
+<ul>Recent work has shown that ultrasound can be used to estimate isometric hand forces [5].</ul>
+<ul>Merely isometric grasp force estimation is not sufficient, and it’s important to get finer force measurement per finger to get force feedback for effective human-machine interfacing.</ul>
+<ul>In this work, we show that we can use Machine Learning models for binary force classification and continuous estimation of finger force using forearm ultrasound data.</ul>
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+References - 
+[1] C. Castellini, and R. Koiva. ”Using surface electromyography to predict single finger forces.” 2012 4th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob). IEEE, 2012.
+[2] M. Zheng, M. S. Crouch, and M. S. Eggleston. ”Surface electromyography as a natural human–machine interface: a review.” IEEE Sensors Journal 22.10 (2022): 9198-9214. 
+[3] K. Bimbraw, c. J. Nycz, M. J. Schueler, Z. Zhang, & H. K. Zhang. ”Prediction of Metacarpophalangeal joint angles and Classification of Hand configurations based on Ultrasound Imaging of the Forearm.” 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.
+[4] K. Bimbraw, C. J. Nycz, M. J. Schueler, Z. Zhang, & H. K. Zhang. ”Simultaneous Estimation of Hand Configurations and Finger Joint Angles Using Forearm Ultrasound.” IEEE Transactions on Medical Robotics and Bionics 5.1 (2023): 120-132.
+[5] A. T. Kamatham, M. Alzamani, A. Dockum, S. Sikdar, & B. Mukherjee. ”SonoMyoNet: A Convolutional Neural Network for Predicting Isometric Force From Highly Sparse Ultrasound Images.” bioRxiv (2022): 2022-06.
