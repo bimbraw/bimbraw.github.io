@@ -7,7 +7,8 @@ tags:
   - sonomyography
   - force
 ---
-<p><ul>
+<p>
+<ul>
   <li>Biosignal-based hand movement and force assessment are critical for human-machine interaction.</l1>
   <li>Surface electromyography has been used to predict finger forces, but there are issues surrounding the sensor signal-to-noise ratio, number of sensors required to get good data, etc. [1-2].</l1>
   <li>Ultrasound can be used to visualize and analyze the forearm cross-section to estimate hand movements [3-4].</l1>
