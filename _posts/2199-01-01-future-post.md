@@ -13,8 +13,7 @@ tags:
   <li>Ultrasound can be used to visualize and analyze the forearm cross-section to estimate hand movements [3-4].</l1>
   <l1>Recent work has shown that ultrasound can be used to estimate isometric hand forces [5].</l1>
   <l1>Merely isometric grasp force estimation is not sufficient, and it’s important to get finer force measurement per finger to get force feedback for effective human-machine interfacing.</l1>
-  <l1>In this work, we show that we can use Machine Learning models for binary force classification and continuous estimation of finger force using forearm ultrasound data.</l1>
-</ul>
+  <l1>In this work, we show that we can use Machine Learning models for binary force classification and continuous estimation of finger force using forearm ultrasound data.</l1></ul>
 
 References - 
 <ol>
@@ -22,5 +21,4 @@ References -
   <li>M. Zheng, M. S. Crouch, and M. S. Eggleston. ”Surface electromyography as a natural human–machine interface: a review.” IEEE Sensors Journal 22.10 (2022): 9198-9214.</li>
   <li>K. Bimbraw, c. J. Nycz, M. J. Schueler, Z. Zhang, & H. K. Zhang. ”Prediction of Metacarpophalangeal joint angles and Classification of Hand configurations based on Ultrasound Imaging of the Forearm.” 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.</li>
   <li>K. Bimbraw, C. J. Nycz, M. J. Schueler, Z. Zhang, & H. K. Zhang. ”Simultaneous Estimation of Hand Configurations and Finger Joint Angles Using Forearm Ultrasound.” IEEE Transactions on Medical Robotics and Bionics 5.1 (2023): 120-132.</li>
-  <li>A. T. Kamatham, M. Alzamani, A. Dockum, S. Sikdar, & B. Mukherjee. ”SonoMyoNet: A Convolutional Neural Network for Predicting Isometric Force From Highly Sparse Ultrasound Images.” bioRxiv (2022): 2022-06.</li>
-</ol>
+  <li>A. T. Kamatham, M. Alzamani, A. Dockum, S. Sikdar, & B. Mukherjee. ”SonoMyoNet: A Convolutional Neural Network for Predicting Isometric Force From Highly Sparse Ultrasound Images.” bioRxiv (2022): 2022-06.</li></ol>
