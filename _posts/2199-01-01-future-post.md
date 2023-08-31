@@ -12,8 +12,9 @@ tags:
 
 <p>Biosignal-based hand movement and force assessment are critical for human-machine interaction. Surface electromyography has been used to predict finger forces, but there are issues surrounding the sensor signal-to-noise ratio, number of sensors required to get good data, etc. [1-2]. Ultrasound can be used to visualize and analyze the forearm cross-section to estimate hand movements [3-4]. Recent work has shown that ultrasound can be used to estimate isometric hand forces [5]. Merely isometric grasp force estimation is not sufficient, and it’s important to get finer force measurement per finger to get force feedback for effective human-machine interfacing. In this work, we show that we can use Machine Learning models for binary force classification and continuous estimation of finger force using forearm ultrasound data.</p>
 
-<h1>PDF Example</h1>
-<p>Open a PDF file <a href="https://github.com/bimbraw/bimbraw.github.io/blob/master/files/2023208571_approved.pdf">example</a>.</p>
+<h1>PDF Example by Object Tag</h1>
+<object data="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" type="application/pdf" width="100%" height="500px">
+<p>Unable to display PDF file. <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">Download</a> instead.</p>
 
 <p>
 References - 
