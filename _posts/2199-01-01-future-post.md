@@ -14,7 +14,7 @@ tags:
 
 <h1>PDF Example by Object Tag</h1>
 <object data="https://github.com/bimbraw/bimbraw.github.io/blob/master/files/2023208571_approved.pdf" type="application/pdf" width="100%" height="500px">
-<p>Unable to display PDF file. <a href="https://github.com/bimbraw/bimbraw.github.io/blob/master/files/2023208571_approved.pdf">Download</a> instead.</p>
+  <p>Unable to display PDF file. <a href="https://github.com/bimbraw/bimbraw.github.io/blob/master/files/2023208571_approved.pdf">Download</a> instead.</p>
 
 <p>
 References - 
