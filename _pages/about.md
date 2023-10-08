@@ -12,7 +12,7 @@ redirect_from:
 <font size="-0.5">
 
 <p align="justify">
-I am a Robotics PhD candidate at <a href="https://wp.wpi.edu/medicalfusionlab/" target="_blank" rel="noopener noreferrer">WPI's Medical FUSION Lab</a>, where my research focuses on the application of machine learning to ultrasound image processing. My interests lie in leveraging AI/ML and AR/VR to enable real-time biosignals based predictions. My research has broad applicability in domains such as robotic teleoperation, AR/VR, rehabilitation robotics, robot-assisted surgery, and gaming.</p>
+I am a Robotics PhD candidate at <a href="https://wp.wpi.edu/medicalfusionlab/" target="_blank" rel="noopener noreferrer">WPI's Medical FUSION Lab</a>, where my research focuses on the application of machine learning to ultrasound image processing. My interests lie in leveraging AI/ML to enable real-time unimodal and multi-modal biosignal-based predictions. My research has broad applicability in domains such as robotic teleoperation, AR/VR, rehabilitation robotics, robot-assisted surgery, and gaming.</p>
 
 <p align="justify">
 I worked as a Research Intern at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> in Cambridge, Massachusetts under the Computational Sensing Division over Summer 2023. In the Summer and Fall of 2022, I worked as an <a href="https://www.bell-labs.com/about/researcher-profiles/keshav-bimbraw/" target="_blank" rel="noopener noreferrer">Augmented Human Sensing Researcher</a> (Intern/Co-Op) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a>' Artificial Intelligence Research Lab in the New York City Metropolitan Area.</p>
