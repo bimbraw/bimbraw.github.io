@@ -65,6 +65,12 @@ Volunteer Advising/Mentorship
 Please feel free to contact me at my Personal Email ID (last-name first-name at gmail.com) for advice on graduate school, insights on research versus industry, life as an international student, and career guidance. As someone who has mentored and guided students since my undergraduate years, I am particularly interested in supporting individuals from traditionally underrepresented communities in STEM, such as LGBTQIA+, POC, and FGCS. Don't hesitate to reach out, I'll be happy to assist in any way I can.
 </p></font>
 
+Selected Projects
+------
+<body>
+<img src="image1.gif">
+</body>
+
 Videos
 ------
 <!--<iframe width="560" height="315" src="https://youtu.be/yJtiT1-eBGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
