@@ -68,7 +68,7 @@ Please feel free to contact me at my Personal Email ID (last-name first-name at 
 Selected Projects
 ------
 <body>
-<img src="files/embc_2020.gif">
+<img src="http://bimbraw.github.io/files/embc_2020.gif">
 </body>
 
 Videos
