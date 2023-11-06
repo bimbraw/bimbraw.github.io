@@ -68,19 +68,19 @@ Please feel free to contact me at my Personal Email ID (last-name first-name at 
 Selected Projects
 ------
 <body>
-<img src="http://bimbraw.github.io/files/mirror_gif.gif">
+<img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400">
 <span>SPIE Medical Imaging 2024</span>
 </body>
 <body>
-<img src="http://bimbraw.github.io/files/bsn.gif">
+<img src="http://bimbraw.github.io/files/bsn.gif" width="400">
 <span>IEEE BSN 2023</span>
 </body>
 <body>
-<img src="http://bimbraw.github.io/files/Amazon_Force.gif">
+<img src="http://bimbraw.github.io/files/Amazon_Force.gif" width="400" >
 <span>IEEE IUS 2023</span>
 </body>
 <body>
-<img src="http://bimbraw.github.io/files/embc_2020.gif">
+<img src="http://bimbraw.github.io/files/embc_2020.gif" width="400" >
 <span>IEEE EMBC 2020</span>
 </body>
 
