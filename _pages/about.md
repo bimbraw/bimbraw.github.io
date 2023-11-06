@@ -76,7 +76,7 @@ Selected Projects
 <span>IEEE BSN 2023</span>
 </body>
 <body>
-<img src="http://bimbraw.github.io/files/Amazon_force.gif">
+<img src="http://bimbraw.github.io/files/Amazon_Force.gif">
 <span>IEEE IUS 2023</span>
 </body>
 <body>
