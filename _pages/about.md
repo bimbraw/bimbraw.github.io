@@ -96,6 +96,20 @@ Selected Projects
 ------
 
 <body>
+<img src="http://bimbraw.github.io/files/icra.gif" width="400" >
+<span>IEEE ICRA 2022 and IEEE Transactions on Medical Robotics and Bionics</span>
+</body>
+
+------
+
+<body>
+<img src="http://bimbraw.github.io/files/asl_icra.gif" width="400" >
+<span>IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics</span>
+</body>
+
+------
+
+<body>
 <img src="http://bimbraw.github.io/files/embc_2020.gif" width="400" >
 <span>IEEE EMBC 2020</span>
 </body>
