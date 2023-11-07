@@ -80,6 +80,10 @@ Selected Projects
 <span>IEEE IUS 2023</span>
 </body>
 <body>
+<img src="http://bimbraw.github.io/files/nokia.gif" width="400" >
+<span>IEEE SII 2023</span>
+</body>
+<body>
 <img src="http://bimbraw.github.io/files/embc_2020.gif" width="400" >
 <span>IEEE EMBC 2020</span>
 </body>
