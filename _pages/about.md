@@ -67,9 +67,9 @@ Selected Papers
 <body>
   <img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400">
   <div>
-    <span class="block">SPIE Medical Imaging 2024</span>
-    <span class="block">SPIE Medical Imaging 2024</span>
-    <span class="block">SPIE Medical Imaging 2024</span>
+    <span>SPIE Medical Imaging 2024</span>
+    <span>SPIE Medical Imaging 2024</span>
+    <span>SPIE Medical Imaging 2024</span>
   </div>
 </body>
 
@@ -77,18 +77,18 @@ Selected Papers
 
 <body>
 <img src="http://bimbraw.github.io/files/bsn.gif" width="400">
-  <span class="block">IEEE BSN 2023</span>
-  <span class="block">IEEE BSN 2023</span>
-  <span class="block">IEEE BSN 2023</span>
+  <span>IEEE BSN 2023</span>
+  <span>IEEE BSN 2023</span>
+  <span>IEEE BSN 2023</span>
 </body>
 
 ------
 
 <body>
 <img src="http://bimbraw.github.io/files/Amazon_Force.gif" width="400" >
-  <span class="block">IEEE IUS 2023</span>
-  <span class="block">IEEE IUS 2023</span>
-  <span class="block">IEEE IUS 2023</span>
+  <span>IEEE IUS 2023</span>
+  <span>IEEE IUS 2023</span>
+  <span>IEEE IUS 2023</span>
 </body>
 
 ------
