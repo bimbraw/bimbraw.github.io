@@ -64,12 +64,7 @@ News
 
 Selected Papers
 ------
-<style>
-  .block {
-    display: block;
-    margin-bottom: 10px; /* Adjust the margin as needed */
-  }
-</style>
+<style>.block {display: block; margin-bottom: 10px;}</style>
 <body>
   <img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400">
   <span class="block">SPIE Medical Imaging 2024</span>
