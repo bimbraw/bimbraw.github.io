@@ -66,11 +66,7 @@ Selected Papers
 ------
 <body>
   <img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400">
-  <div>
-    <span>SPIE Medical Imaging 2024</span>
-    <span>SPIE Medical Imaging 2024</span>
-    <span>SPIE Medical Imaging 2024</span>
-  </div>
+    <span>SPIE Medical Imaging 2024 <br> SPIE Medical Imaging 2024 <br> SPIE Medical Imaging 2024</span>
 </body>
 
 ------
