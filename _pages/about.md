@@ -64,46 +64,36 @@ News
 
 Selected Papers
 ------
-<body>
-<img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400">
-<span>SPIE Medical Imaging 2024</span>
-<span>SPIE Medical Imaging 2024</span>
-<span>SPIE Medical Imaging 2024</span>
-</body>
 <style>
   .block {
     display: block;
     margin-bottom: 10px; /* Adjust the margin as needed */
   }
 </style>
+<body>
+  <img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400">
+  <span class="block">SPIE Medical Imaging 2024</span>
+  <span class="block">SPIE Medical Imaging 2024</span>
+  <span class="block">SPIE Medical Imaging 2024</span>
+</body>
 
 ------
 
 <body>
 <img src="http://bimbraw.github.io/files/bsn.gif" width="400">
-<span>IEEE BSN 2023</span>
-<span>IEEE BSN 2023</span>
-<span>IEEE BSN 2023</span>
-</body><style>
-  .block {
-    display: block;
-    margin-bottom: 10px; /* Adjust the margin as needed */
-  }
-</style>
+  <span class="block">IEEE BSN 2023</span>
+  <span class="block">IEEE BSN 2023</span>
+  <span class="block">IEEE BSN 2023</span>
+</body>
 
 ------
 
 <body>
 <img src="http://bimbraw.github.io/files/Amazon_Force.gif" width="400" >
-<span>IEEE IUS 2023</span>
-<span>IEEE IUS 2023</span>
-<span>IEEE IUS 2023</span>
-</body><style>
-  .block {
-    display: block;
-    margin-bottom: 10px; /* Adjust the margin as needed */
-  }
-</style>
+  <span class="block">IEEE IUS 2023</span>
+  <span class="block">IEEE IUS 2023</span>
+  <span class="block">IEEE IUS 2023</span>
+</body>
 
 ------
 
@@ -112,12 +102,7 @@ Selected Papers
 <span>IEEE SII 2023</span>
 <span>IEEE SII 2023</span>
 <span>IEEE SII 2023</span>
-</body><style>
-  .block {
-    display: block;
-    margin-bottom: 10px; /* Adjust the margin as needed */
-  }
-</style>
+</body>
 
 ------
 
@@ -126,12 +111,7 @@ Selected Papers
 <span>IEEE ICRA 2022 and IEEE Transactions on Medical Robotics and Bionics</span>
 <span>IEEE ICRA 2022 and IEEE Transactions on Medical Robotics and Bionics</span>
 <span>IEEE ICRA 2022 and IEEE Transactions on Medical Robotics and Bionics</span>
-</body><style>
-  .block {
-    display: block;
-    margin-bottom: 10px; /* Adjust the margin as needed */
-  }
-</style>
+</body>
 
 ------
 
@@ -140,12 +120,7 @@ Selected Papers
 <span>IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics</span>
 <span>IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics</span>
 <span>IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics</span>
-</body><style>
-  .block {
-    display: block;
-    margin-bottom: 10px; /* Adjust the margin as needed */
-  }
-</style>
+</body>
 
 ------
 
@@ -154,12 +129,7 @@ Selected Papers
 <span>IEEE EMBC 2020</span>
 <span>IEEE EMBC 2020</span>
 <span>IEEE EMBC 2020</span>
-</body><style>
-  .block {
-    display: block;
-    margin-bottom: 10px; /* Adjust the margin as needed */
-  }
-</style>
+</body>
 
 
 Volunteer Advising/Mentorship
