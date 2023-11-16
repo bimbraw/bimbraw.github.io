@@ -59,16 +59,12 @@ News
   <li>October, '18 - Presented 'Comparison and Integration of SMG and EMG' at <a href="https://www.bmes.org/content.asp?contentid=392" target="_blank" rel="noopener noreferrer">BMES Annual Meeting 2018</a>.</li>
   <li>July, '18 - Selected for Georgia Tech's <a href="http://arms.robotics.gatech.edu/cohort3" target="_blank" rel="noopener noreferrer">Accessibility, Rehabilitation, and Movement Science traineeship</a>.</li></ul></font></details><p></p>
 
-Volunteer Advising/Mentorship
-------
-<font size="-0.5"><p align="justify">
-Please feel free to contact me at my Personal Email ID (last-name first-name at gmail.com) for advice on graduate school, insights on research versus industry, life as an international student, and career guidance. As someone who has mentored and guided students since my undergraduate years, I am particularly interested in supporting individuals from traditionally underrepresented communities in STEM, such as LGBTQIA+, POC, and FGCS. Don't hesitate to reach out, I'll be happy to assist in any way I can.
-</p></font>
-
-Selected Projects
+Selected Papers
 ------
 <body>
 <img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400">
+<span>SPIE Medical Imaging 2024</span>
+<span>SPIE Medical Imaging 2024</span>
 <span>SPIE Medical Imaging 2024</span>
 </body>
 
@@ -77,12 +73,16 @@ Selected Projects
 <body>
 <img src="http://bimbraw.github.io/files/bsn.gif" width="400">
 <span>IEEE BSN 2023</span>
+<span>IEEE BSN 2023</span>
+<span>IEEE BSN 2023</span>
 </body>
 
 ------
 
 <body>
 <img src="http://bimbraw.github.io/files/Amazon_Force.gif" width="400" >
+<span>IEEE IUS 2023</span>
+<span>IEEE IUS 2023</span>
 <span>IEEE IUS 2023</span>
 </body>
 
@@ -91,12 +91,16 @@ Selected Projects
 <body>
 <img src="http://bimbraw.github.io/files/nokia.gif" width="400" >
 <span>IEEE SII 2023</span>
+<span>IEEE SII 2023</span>
+<span>IEEE SII 2023</span>
 </body>
 
 ------
 
 <body>
 <img src="http://bimbraw.github.io/files/icra.gif" width="400" >
+<span>IEEE ICRA 2022 and IEEE Transactions on Medical Robotics and Bionics</span>
+<span>IEEE ICRA 2022 and IEEE Transactions on Medical Robotics and Bionics</span>
 <span>IEEE ICRA 2022 and IEEE Transactions on Medical Robotics and Bionics</span>
 </body>
 
@@ -105,6 +109,8 @@ Selected Projects
 <body>
 <img src="http://bimbraw.github.io/files/asl_icra.gif" width="400" >
 <span>IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics</span>
+<span>IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics</span>
+<span>IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics</span>
 </body>
 
 ------
@@ -112,21 +118,13 @@ Selected Projects
 <body>
 <img src="http://bimbraw.github.io/files/embc_2020.gif" width="400" >
 <span>IEEE EMBC 2020</span>
+<span>IEEE EMBC 2020</span>
+<span>IEEE EMBC 2020</span>
 </body>
 
-<!-- 
-Videos
+
+Volunteer Advising/Mentorship
 ------
--->
-<!--<iframe width="560" height="315" src="https://youtu.be/yJtiT1-eBGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/yJtiT1-eBGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-------
-<iframe src="https://player.vimeo.com/video/463333665" width="640" height="360" frameborder="2" allow="autoplay; fullscreen" allowfullscreen></iframe>
-------
-<iframe src="https://player.vimeo.com/video/444131445" width="640" height="360" frameborder="2" allow="autoplay; fullscreen" allowfullscreen></iframe>
-------
-<iframe src="https://player.vimeo.com/video/444132536" width="640" height="360" frameborder="2" allow="autoplay; fullscreen" allowfullscreen></iframe>
-------
-<iframe src="https://player.vimeo.com/video/174093155" width="640" height="360" frameborder="2" allow="autoplay; fullscreen" allowfullscreen></iframe>
-------
--->
+<font size="-0.5"><p align="justify">
+Please feel free to contact me at my Personal Email ID (last-name first-name at gmail.com) for advice on graduate school, insights on research versus industry, life as an international student, and career guidance. As someone who has mentored and guided students since my undergraduate years, I am particularly interested in supporting individuals from traditionally underrepresented communities in STEM, such as LGBTQIA+, POC, and FGCS. Don't hesitate to reach out, I'll be happy to assist in any way I can.
+</p></font>
