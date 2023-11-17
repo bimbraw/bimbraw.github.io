@@ -86,19 +86,12 @@ Selected Papers
   <div class="column"><p>SPIE Medical Imaging 2024<br>San Diego, CA<br>Paper. Video.</p></div>
 </div>
 
-<body>
-  <img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400">
-    <span>SPIE Medical Imaging 2024 <br> SPIE Medical Imaging 2024 <br> SPIE Medical Imaging 2024</span>
-</body>
-
 ------
 
-<body>
-<img src="http://bimbraw.github.io/files/bsn.gif" width="400">
-  <span>IEEE BSN 2023</span>
-  <span>IEEE BSN 2023</span>
-  <span>IEEE BSN 2023</span>
-</body>
+<div class="column-container">
+  <div class="column"><p>IEEE BSN 2023<br>Cambridge, MA<br>Paper. Video.</p></div>
+  <div class="column"><img src="http://bimbraw.github.io/files/bsn.gif" width="400"></div>
+</div>
 
 ------
 
