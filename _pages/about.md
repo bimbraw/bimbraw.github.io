@@ -83,7 +83,7 @@ Selected Papers
 <div class="column-container">
   <div class="column">
     <img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400"></div>
-  <div class="column"><p>Your text description goes here.</p></div>
+  <div class="column"><p>SPIE Medical Imaging 2024<br>San Diego, CA<br>Paper. Video.</p></div>
 </div>
 
 <body>
