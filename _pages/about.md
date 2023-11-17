@@ -66,7 +66,7 @@ News
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-      .column-container {display: flex;}
+      .column-container {display: flex; align-items: center; /* Center content vertically */}
       .column {flex: 1;
                padding: 10px; /* Adjust padding as needed */}
         .column img {
