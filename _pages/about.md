@@ -62,8 +62,30 @@ News
   <li>October, '18 - Presented 'Comparison and Integration of SMG and EMG' at <a href="https://www.bmes.org/content.asp?contentid=392" target="_blank" rel="noopener noreferrer">BMES Annual Meeting 2018</a>.</li>
   <li>July, '18 - Selected for Georgia Tech's <a href="http://arms.robotics.gatech.edu/cohort3" target="_blank" rel="noopener noreferrer">Accessibility, Rehabilitation, and Movement Science traineeship</a>.</li></ul></font></details><p></p>
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      .column-container {display: flex;}
+      .column {flex: 1;
+               padding: 10px; /* Adjust padding as needed */}
+        .column img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: auto; /* Center images */
+        }
+    </style>
+</head>
+
 Selected Papers
 ------
+<div class="column-container">
+  <div class="column">
+    <img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400"></div>
+  <div class="column"><p>Your text description goes here.</p></div>
+</div>
+
 <body>
   <img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400">
     <span>SPIE Medical Imaging 2024 <br> SPIE Medical Imaging 2024 <br> SPIE Medical Imaging 2024</span>
