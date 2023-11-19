@@ -81,43 +81,43 @@ News
 Selected Papers
 ------
 <div class="column-container">
-  <div class="column"><img src="http://bimbraw.github.io/files/mirror_gif.gif" width="400"></div>
+  <div class="column"><img src="http://bimbraw.github.io/files/gifs/mirror_gif.gif" width="400"></div>
   <div class="column"><p>SPIE Medical Imaging 2024<br>San Diego, CA<br>Paper. Video.</p></div>
 </div>
 ------
 
 <div class="column-container">
   <div class="column"><p>IEEE BSN 2023<br>Cambridge, MA<br>Paper. Video.</p></div>
-  <div class="column"><img src="http://bimbraw.github.io/files/bsn.gif" width="400"></div>
+  <div class="column"><img src="http://bimbraw.github.io/files/gifs/bsn.gif" width="400"></div>
 </div>
 ------
 
 <div class="column-container">
-  <div class="column"><img src="http://bimbraw.github.io/files/Amazon_Force.gif" width="400"></div>
+  <div class="column"><img src="http://bimbraw.github.io/files/gifs/Amazon_Force.gif" width="400"></div>
   <div class="column"><p>IEEE IUS 2023<br>Montreal, Canada<br>Paper. Video.</p></div>
 </div>
 ------
 
 <div class="column-container">
   <div class="column"><p>IEEE SICE SII 2023<br>Atlanta, GA<br>Paper. Video.</p></div>
-  <div class="column"><img src="http://bimbraw.github.io/files/nokia.gif" width="400"></div>
+  <div class="column"><img src="http://bimbraw.github.io/files/gifs/nokia.gif" width="400"></div>
 </div>
 ------
 
 <div class="column-container">
-  <div class="column"><img src="http://bimbraw.github.io/files/icra.gif" width="400"></div>
+  <div class="column"><img src="http://bimbraw.github.io/files/gifs/icra.gif" width="400"></div>
   <div class="column"><p>IEEE ICRA 2022 and IEEE Transactions on Medical Robotics and Bionics<br>Philadelphia, PA<br>Paper. Video.</p></div>
 </div>
 ------
 
 <div class="column-container">
   <div class="column"><p>IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics<br>Philadelphia, PA<br>Paper. Video.</p></div>
-  <div class="column"><img src="http://bimbraw.github.io/files/asl_icra.gif" width="400"></div>
+  <div class="column"><img src="http://bimbraw.github.io/files/gifs/asl_icra.gif" width="400"></div>
 </div>
 ------
 
 <div class="column-container">
-  <div class="column"><img src="http://bimbraw.github.io/files/embc_2020.gif" width="400"></div>
+  <div class="column"><img src="http://bimbraw.github.io/files/gifs/embc_2020.gif" width="400"></div>
   <div class="column"><p>IEEE EMBC 2020 <br>Virtual<br>Paper. Video.</p></div>
 </div>
 
