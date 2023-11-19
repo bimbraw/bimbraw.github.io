@@ -112,7 +112,7 @@ Selected Papers
 
 <div class="column-container">
   <div class="column"><p>IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics<br>Philadelphia, PA<br>Paper. Video.</p></div>
-  <div class="column"><img src="http://bimbraw.github.io/files/asl_icra" width="400"></div>
+  <div class="column"><img src="http://bimbraw.github.io/files/asl_icra.gif" width="400"></div>
 </div>
 ------
 
