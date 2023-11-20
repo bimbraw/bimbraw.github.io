@@ -82,43 +82,62 @@ Selected Papers
 ------
 <div class="column-container">
   <div class="column"><img src="http://bimbraw.github.io/files/gifs/mirror_gif.gif" width="600"></div>
-  <div class="column"><p>SPIE Medical Imaging 2024<br>San Diego, CA<br>Paper. Video.</p></div>
+  <div class="column"><p>Mirror-based Ultrasound System for Exploring Hand Gesture Classification through Convolutional Neural Network and Vision Transformer
+  <br>SPIE Medical Imaging 2024
+  <br>San Diego, CA</p></div>
 </div>
 ------
 
 <div class="column-container">
-  <div class="column"><p>IEEE BSN 2023<br>Cambridge, MA<br>Paper. Video.</p></div>
+  <div class="column"><p>Leveraging Ultrasound Sensing for Virtual Object Manipulation in Immersive Environments
+  <br>IEEE BSN 2023
+  <br>Cambridge, MA
+  <br><a href="https://youtu.be/8Cx___jnLJM" target="_blank" rel="noopener noreferrer">Video</a>.</p></div>
   <div class="column"><img src="http://bimbraw.github.io/files/gifs/bsn.gif" width="600"></div>
 </div>
 ------
 
 <div class="column-container">
   <div class="column"><img src="http://bimbraw.github.io/files/gifs/Amazon_Force.gif" width="600"></div>
-  <div class="column"><p>IEEE IUS 2023<br>Montreal, Canada<br>Paper. Video.</p></div>
+  <div class="column"><p>Estimating Force Exerted by the Fingers Based on Forearm Ultrasound
+  <br>IEEE IUS 2023
+  <br>Montreal, Canada
+  <br><a href="https://bimbraw.github.io/files/2023208571_approved.pdf" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://youtu.be/eVyNQ7SFq8k" target="_blank" rel="noopener noreferrer">Video</a>.</p></div>
 </div>
 ------
 
 <div class="column-container">
-  <div class="column"><p>IEEE SICE SII 2023<br>Atlanta, GA<br>Paper. Video.</p></div>
-  <div class="column"><img src="http://bimbraw.github.io/files/gifs/nokia.gif" width="600"></div>
+  <div class="column"><p>Towards The Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System
+  <br>IEEE SICE SII 2023
+  <br>Atlanta, GA
+  <br><a href="https://bimbraw.github.io/files/SII_2023_Paper_Accepted_Version.pdf" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://youtu.be/GSJTYDu5IxQ" target="_blank" rel="noopener noreferrer">Video</a>.</p></div>  <div class="column"><img src="http://bimbraw.github.io/files/gifs/nokia.gif" width="600"></div>
 </div>
 ------
 
 <div class="column-container">
   <div class="column"><img src="http://bimbraw.github.io/files/gifs/icra.gif" width="600"></div>
-  <div class="column"><p>IEEE ICRA 2022 and IEEE Transactions on Medical Robotics and Bionics<br>Philadelphia, PA<br>Paper. Video.</p></div>
+  <div class="column"><p>Prediction of Metacarpophalangeal joint angles and Classification of Hand configurations based on Ultrasound Imaging of the Forearm
+  <br>IEEE ICRA 2022 and IEEE Transactions on Medical Robotics and Bionics
+  <br>Philadelphia, PA
+  <br><a href="https://ieeexplore.ieee.org/abstract/document/9812287" target="_blank" rel="noopener noreferrer">Conference Paper</a>. <a href="https://ieeexplore.ieee.org/abstract/document/10020174" target="_blank" rel="noopener noreferrer">Journal Paper</a>. <a href="https://youtu.be/YdhpU829e-M" target="_blank" rel="noopener noreferrer">Video</a>.</p></div>
 </div>
 ------
 
 <div class="column-container">
-  <div class="column"><p>IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics<br>Philadelphia, PA<br>Paper. Video.</p></div>
+  <div class="column"><p>Forearm Ultrasound Images can be Classified to Predict Static American Sign Language Letters
+  <br>IEEE ICRA 2022 Workshop on Human-centered Autonomy in Medical Robotics
+  <br>Philadelphia, PA
+  <br><a href="https://drive.google.com/file/d/1JqJqxqGjdLCXsYo_zIXkMjcmfOGhPRTI/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster Link</a>.</p></div>
   <div class="column"><img src="http://bimbraw.github.io/files/gifs/asl_icra.gif" width="600"></div>
 </div>
 ------
 
 <div class="column-container">
   <div class="column"><img src="http://bimbraw.github.io/files/gifs/embc_2020.gif" width="600"></div>
-  <div class="column"><p>IEEE EMBC 2020 <br>Virtual<br>Paper. Video.</p></div>
+  <div class="column"><p>Towards Sonomyography-Based Real-Time Control of Powered Prosthesis Grasp Synergies
+  <br>IEEE EMBC 2020 
+  <br>Montreal, Canada
+  <br><a href="https://ieeexplore.ieee.org/document/9176483" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://vimeo.com/444131445" target="_blank" rel="noopener noreferrer">Video</a>.</p></div>
 </div>
 
 Volunteer Advising/Mentorship
