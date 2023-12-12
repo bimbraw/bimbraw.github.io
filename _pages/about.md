@@ -32,7 +32,7 @@ News
   <li>Oct, '23 - Ultrasound-based virtual object manipulation work presented at IEEE EMBS BSN 2023 held at MIT Media Lab, Cambridge, MA.</li>
   <li>Sept, '23 - Ultrasound based finger force estimation presented at <a href="https://ieeexplore.ieee.org/abstract/document/10306652" target="_blank" rel="noopener noreferrer">IEEE IUS 2023</a> in Montreal, Canada.</li>
   <li>July, '23 - Our work on ultrasound-based virtual object manipulation has been accepted to <a href="https://bsn.embs.org/2023/" target="_blank" rel="noopener noreferrer">IEEE BSN 2023</a> which will be held at MIT Media Lab in October!</li>  
-  <li>May, '23 - My work on ultrasound-based hand force estimation accepted to <a href="https://2023.ieee-ius.org/" target="_blank" rel="noopener noreferrer">IUS 2023</a>!</li>  
+  <li>May, '23 - My work on ultrasound-based finger force estimation accepted to <a href="https://2023.ieee-ius.org/" target="_blank" rel="noopener noreferrer">IUS 2023</a>!</li>  
   <li>April, '23 - Starting work as a Research Intern next month at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> in Cambridge, Massachusetts!</li>
   <li>March, '23 - Gave my PhD Qualifiers and passed!</li>
   <li>January, '23 - Presented <a href="https://ieeexplore.ieee.org/abstract/document/10039467">Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System</a> at <a href="https://www.sice-si.org/SII2023/">IEEE SII 2023</a> held at Georgia Tech!</li></ul></font>
