@@ -92,7 +92,7 @@ Selected Papers
   <div class="column"><p><b>Leveraging Ultrasound Sensing for Virtual Object Manipulation in Immersive Environments</b>
   <br>IEEE BSN 2023
   <br><i>Cambridge, MA</i>
-  <br><a href="https://youtu.be/8Cx___jnLJM" target="_blank" rel="noopener noreferrer">Video</a>.</p></div>
+  <br><a href="https://ieeexplore.ieee.org/document/10331075" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://youtu.be/8Cx___jnLJM" target="_blank" rel="noopener noreferrer">Video</a>.</p></div>
   <div class="column"><img src="http://bimbraw.github.io/files/gifs/bsn.gif" width="600"></div>
 </div>
 ------
