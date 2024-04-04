@@ -85,7 +85,7 @@ Selected Papers
   <div class="column"><p><b>Mirror-based Ultrasound System for Exploring Hand Gesture Classification through Convolutional Neural Network and Vision Transformer</b>
   <br>SPIE Medical Imaging 2024
   <br><i>San Diego, CA</i>
-  <br><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12932/129320Z/Mirror-based-ultrasound-system-for-hand-gesture-classification-through-convolutional/10.1117/12.3005247.short" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12932/3005247/Mirror-based-ultrasound-system-for-hand-gesture-classification-through-convolutional/10.1117/12.3005247.full" target="_blank" rel="noopener noreferrer">Video</a>.</p></div>
+  <br><a href="https://bimbraw.github.io/files/SPIE_Paper_2024.pdf" target="_blank" rel="noopener noreferrer">Paper</a>. <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12932/3005247/Mirror-based-ultrasound-system-for-hand-gesture-classification-through-convolutional/10.1117/12.3005247.full" target="_blank" rel="noopener noreferrer">Video</a>.</p></div>
 </div>
 ------
 
