@@ -28,6 +28,7 @@ Additionally, I have experience as an Active Noise Control Engineering intern at
 News
 ------
 <font size="2"><ul>
+  <li>April, '24 - A paper on improving robustness of multi-modal biosignals for gesture classification based on a summer 2023 internship at MERL has been accepted to IEEE EMBC 2024!</li>
   <li>Nov, '23 - Mirror based forearm ultrasound for hand gesture classification using Convolutional Neural Network (CNN) and Vision Transformer (ViT) accepted for presentation at <a href="https://spie.org/conferences-and-exhibitions/medical-imaging" target="_blank" rel="noopener noreferrer">SPIE Medical Imaging 2024</a> in San Diego, CA!</li>
   <li>Oct, '23 - Ultrasound-based virtual object manipulation work presented at IEEE EMBS BSN 2023 held at MIT Media Lab, Cambridge, MA.</li>
   <li>Sept, '23 - Ultrasound based finger force estimation presented at <a href="https://ieeexplore.ieee.org/abstract/document/10306652" target="_blank" rel="noopener noreferrer">IEEE IUS 2023</a> in Montreal, Canada.</li>
