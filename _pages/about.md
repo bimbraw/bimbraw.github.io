@@ -12,7 +12,7 @@ redirect_from:
 <font size="-0.5">
 
 <p align="justify">
-I am a Robotics PhD candidate at <a href="https://wp.wpi.edu/medicalfusionlab/" target="_blank" rel="noopener noreferrer">WPI's Medical FUSION Lab</a>, where my research focuses on the application of machine learning to ultrasound image processing. My interests lie in leveraging AI/ML to enable real-time unimodal and multi-modal biosignal-based predictions. My research has broad applicability in domains such as robotic teleoperation, AR/VR, rehabilitation robotics, robot-assisted surgery, and gaming.</p>
+I am a Robotics PhD candidate at <a href="https://wp.wpi.edu/medicalfusionlab/" target="_blank" rel="noopener noreferrer">WPI's Medical FUSION Lab</a>, where my research focuses on the application of deep learning to ultrasound image processing. My interests lie in leveraging AI/ML to enable real-time unimodal and multi-modal biosignal-based predictions. My research has broad applicability in domains such as robotic teleoperation, AR/VR, surgical robotics, rehabilitation robotics, and gaming.</p>
 
 <p align="justify">
 I worked as a Research Intern at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> in Cambridge, Massachusetts under the Computational Sensing Division over Summer 2023. In the Summer and Fall of 2022, I worked as an <a href="https://www.bell-labs.com/about/researcher-profiles/keshav-bimbraw/" target="_blank" rel="noopener noreferrer">Augmented Human Sensing Researcher</a> (Intern/Co-Op) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a>' Artificial Intelligence Research Lab in the New York City Metropolitan Area.</p>
@@ -28,6 +28,7 @@ Additionally, I have experience as an Active Noise Control Engineering intern at
 News
 ------
 <font size="2"><ul>
+  <li>May, '24 - Won IEEE EMBC NextGen Scholar Award!</li>
   <li>April, '24 - A paper on improving robustness of multi-modal biosignals for gesture classification based on a summer 2023 internship at MERL has been accepted to IEEE EMBC 2024!</li>
   <li>Nov, '23 - Mirror based forearm ultrasound for hand gesture classification using Convolutional Neural Network (CNN) and Vision Transformer (ViT) accepted for presentation at <a href="https://spie.org/conferences-and-exhibitions/medical-imaging" target="_blank" rel="noopener noreferrer">SPIE Medical Imaging 2024</a> in San Diego, CA!</li>
   <li>Oct, '23 - Ultrasound-based virtual object manipulation work presented at IEEE EMBS BSN 2023 held at MIT Media Lab, Cambridge, MA.</li>
