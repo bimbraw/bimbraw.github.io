@@ -30,7 +30,7 @@ News
 <font size="2"><ul>
   <li>June, '24 - Two papers accepted at IUS 2024!</li>
   <li>June, '24 - Started a research internship at Mitsubishi Electric Research Labs under <a href="https://www.merl.com/people/koike" target="_blank" rel="noopener noreferrer">Dr. Toshiaki Koike-Akino</a>!</li>
-  <li>June, '24 - Passed my thesis proposal!</li>
+  <li>June, '24 - Passed my PH.D. Thesis Proposal!</li>
   <li>May, '24 - Won IEEE EMBC NextGen Scholar Award!</li>
   <li>April, '24 - A paper on improving robustness of multi-modal biosignals for gesture classification based on a summer 2023 internship at MERL has been accepted to IEEE EMBC 2024!</li>
   <li>Nov, '23 - Mirror based forearm ultrasound for hand gesture classification using Convolutional Neural Network (CNN) and Vision Transformer (ViT) accepted for presentation at <a href="https://spie.org/conferences-and-exhibitions/medical-imaging" target="_blank" rel="noopener noreferrer">SPIE Medical Imaging 2024</a> in San Diego, CA!</li>
