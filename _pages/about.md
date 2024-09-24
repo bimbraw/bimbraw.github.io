@@ -28,7 +28,9 @@ Additionally, I have experience as an Active Noise Control Engineering intern at
 News
 ------
 <font size="2"><ul>
-  <li>June, '24 - Two papers accepted at IUS 2024!</li>
+  <li>July, '24 - Accepted  a full-time Machine Learning Software Engineer offer at OnPoint Surgical, starting work in October '24!</li>
+  <li>July, '24 - <a href="https://arxiv.org/abs/2409.09915" target="_blank" rel="noopener noreferrer">Forearm Ultrasound based Gesture Recognition on Edge</a> accepted as Oral Presentation at <a href="https://bsn.embs.org/2024/" target="_blank" rel="noopener noreferrer">IEEE BSN 2024</a>!</li>
+  <li>June, '24 - 2/2 papers accepted at IUS 2024!</li>
   <li>June, '24 - Started a research internship at Mitsubishi Electric Research Labs under <a href="https://www.merl.com/people/koike" target="_blank" rel="noopener noreferrer">Dr. Toshiaki Koike-Akino</a>!</li>
   <li>June, '24 - Passed my PH.D. Thesis Proposal!</li>
   <li>May, '24 - Won IEEE EMBC NextGen Scholar Award!</li>
