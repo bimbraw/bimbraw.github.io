@@ -28,6 +28,7 @@ Additionally, I have experience as an Active Noise Control Engineering intern at
 News
 ------
 <font size="2"><ul>
+  <li>Nov, '24 - Delivered an invited talk titled 'Integrating AI with Ultrasound for Enhanced Human-Machine Interfacing' at the AI in Tele-echography workshop at <a href="https://bhi.embs.org/2024/" target="_blank" rel="noopener noreferrer">IEEE BHI 2024</a>.</li>
   <li>Oct, '24 - GPT Sonography paper based on work done at MERL in Summer 2024 accepted to <a href="https://aim-fm-24.github.io/NeurIPS/" target="_blank" rel="noopener noreferrer">AIM-FM workshop</a> at NeurIPS 2024!</li> 
   <li>Oct, '24 - Started full-time work at OnPoint Surgical to advance surgical robotics.</li>
   <li>Sept, '24 - Presented and gave a live demonstration of our acoustic Reflector based forearm ultrasound for hand gesture classification with Yichuan Tang at Northeast Robotics Colloquium (NERC 2024) at UMass Amherst.</li>
