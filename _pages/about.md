@@ -12,13 +12,22 @@ redirect_from:
 <font size="-0.5">
 
 <p align="justify">
-I am a Robotics PhD candidate at <a href="https://wp.wpi.edu/medicalfusionlab/" target="_blank" rel="noopener noreferrer">WPI's Medical FUSION Lab</a>, where my research focuses on the application of deep learning to ultrasound image processing. My interests lie in leveraging AI/ML to enable real-time unimodal and multi-modal biosignal-based predictions. My research has broad applicability in domains such as robotic teleoperation, AR/VR, surgical robotics, rehabilitation robotics, and gaming.</p>
+I am a Machine Learning Software Engineer at <a href="https://onpointsurgical.com/" target="_blank" rel="noopener noreferrer">OnPoint Surgical, Inc.</a>, based in Concord, Massachusetts. I apply advances in AI/ML to medical imaging modalities to support the next generation of surgical robotics. Previously, I was a Robotics PhD candidate at <a href="https://wp.wpi.edu/medicalfusionlab/" target="_blank" rel="noopener noreferrer">WPI's Medical FUSION Lab</a>, where my research focused on applying deep learning to ultrasound image processing to enable real-time unimodal and multimodal biosignal-based predictions. My work has broad applications across robotic teleoperation, AR/VR, surgical robotics, rehabilitation robotics, and gaming.
+</p>
 
 <p align="justify">
-As of October 2024, I am a Machine Learning Software Engineer at <a href="https://onpointsurgical.com/" target="_blank" rel="noopener noreferrer">OnPoint Surgical</a>. I worked as a research intern at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> in Cambridge, Massachusetts under the Connected Interfaces Group in Summer 2023 and 2024. In the Summer and Fall of 2022, I worked as an <a href="https://www.bell-labs.com/about/researcher-profiles/keshav-bimbraw/" target="_blank" rel="noopener noreferrer">Augmented Human Sensing Researcher</a> (Intern/Co-Op) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a>' Artificial Intelligence Research Lab in the New York City Metropolitan Area.</p>
+During my PhD, I interned at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> (Connected Interfaces Group) in Cambridge, Massachusetts during the summers of 2023 and 2024. In Summer and Fall 2022, I worked as an <a href="https://www.bell-labs.com/about/researcher-profiles/keshav-bimbraw/" target="_blank" rel="noopener noreferrer">Augmented Human Sensing Researcher</a> (Intern/Co-Op) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a>' Artificial Intelligence Research Lab in the New York City Metropolitan Area.
+</p>
 
 <p align="justify">
-Additionally, I have experience as an Active Noise Control Engineering intern at <a href="https://automotive.bose.com/" target="_blank" rel="noopener noreferrer">Bose</a> (Automotive Systems Division) and as an Audio DSP Engineer. I hold a Master's in <a href="https://gtcmt.gatech.edu/robotic-musicianship" target="_blank" rel="noopener noreferrer">Music Technology</a> from <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw" target="_blank" rel="noopener noreferrer">Georgia Tech</a> (Spring 2019) and completed a research internship at IIT Delhi while pursuing my B.E. in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics" target="_blank" rel="noopener noreferrer">Mechatronics Engineering</a> at Thapar University. <a href="http://bimbraw.github.io/files/Keshav_Bimbraw_Resume.pdf" target="_blank">Resume</a>. <a href="http://bimbraw.github.io/files/Keshav_Bimbraw_CV.pdf" target="_blank">CV</a>. </p>
+Earlier, I interned in Active Noise Control Engineering at <a href="https://automotive.bose.com/" target="_blank" rel="noopener noreferrer">Bose</a> (Automotive Systems Division) and worked as an Audio DSP Engineer. I hold a Master's in <a href="https://gtcmt.gatech.edu/robotic-musicianship" target="_blank" rel="noopener noreferrer">Music Technology</a> from <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw" target="_blank" rel="noopener noreferrer">Georgia Tech</a> (Spring 2019), and completed a research internship at IIT Delhi during my undergraduate studies in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics" target="_blank" rel="noopener noreferrer">Mechatronics Engineering</a> at Thapar University.
+</p>
+
+<p>
+<a href="http://bimbraw.github.io/files/Keshav_Bimbraw_Resume.pdf" target="_blank">Resume</a>. 
+<a href="http://bimbraw.github.io/files/Keshav_Bimbraw_CV.pdf" target="_blank">CV</a>.
+</p>
+
 </font>
 
 <!--img src="../images/affiliations_edited.PNG" alt="Affiliations"-->
