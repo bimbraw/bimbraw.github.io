@@ -37,6 +37,7 @@ Earlier, I interned in Active Noise Control Engineering at <a href="https://auto
 News
 ------
 <font size="2"><ul>
+  <li>October, '25 - Our paper titled 'Acoustic Reflector Based Forearm Ultrasound for Hand Gesture Classification' accepted to be published in the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361" target="_blank" rel="noopener noreferrer">IEEE Sensors Journal</a>!</li>
   <li>July, '25 - Presented our paper titled 'Tranfer Learning and Quantization for Efficient AP vs. LA X-Ray View Classification on an Edge Device' at the <a href="https://2025.midl.io/" target="_blank" rel="noopener noreferrer">Medical Imaging with Deep Learning Conference</a> held at University of Utah in Salt Lake City. <a href="https://openreview.net/pdf?id=vZEgKxcUQJ" target="_blank" rel="noopener noreferrer">Paper Link</a>.</li>
   <li>May, '25 - Graduated with a PhD in Robotics Engineering. One of the first PhDs to graduate from my adviser Dr. Haichong K. Zhang's lab.</li>
   <li>Feb, '25 - Passed my thesis defense! Huge thanks to my great committee with members from Harvard University, Mitsubishi Electric Research Laboratories, and WPI.</li>
