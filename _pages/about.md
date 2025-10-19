@@ -52,17 +52,18 @@ News
   <li>June, '24 - Passed my Ph.D. Thesis Proposal!</li>
   <li>May, '24 - Won IEEE EMBC NextGen Scholar Award!</li>
   <li>April, '24 - A paper on improving robustness of multi-modal biosignals for gesture classification based on a summer 2023 internship at MERL has been accepted to IEEE EMBC 2024!</li>
-  <li>Nov, '23 - Mirror based forearm ultrasound for hand gesture classification using Convolutional Neural Network (CNN) and Vision Transformer (ViT) accepted for presentation at <a href="https://spie.org/conferences-and-exhibitions/medical-imaging" target="_blank" rel="noopener noreferrer">SPIE Medical Imaging 2024</a> in San Diego, CA!</li>
+</ul></font>
+  <details>
+  <summary><i>More...</i></summary>
+  <font size="2"><ul><li>Nov, '23 - Mirror based forearm ultrasound for hand gesture classification using Convolutional Neural Network (CNN) and Vision Transformer (ViT) accepted for presentation at <a href="https://spie.org/conferences-and-exhibitions/medical-imaging" target="_blank" rel="noopener noreferrer">SPIE Medical Imaging 2024</a> in San Diego, CA!</li>
   <li>Oct, '23 - Ultrasound-based virtual object manipulation work presented at IEEE EMBS BSN 2023 held at MIT Media Lab, Cambridge, MA.</li>
   <li>Sept, '23 - Ultrasound based finger force estimation presented at <a href="https://ieeexplore.ieee.org/abstract/document/10306652" target="_blank" rel="noopener noreferrer">IEEE IUS 2023</a> in Montreal, Canada.</li>
   <li>July, '23 - Our work on ultrasound-based virtual object manipulation has been accepted to <a href="https://bsn.embs.org/2023/" target="_blank" rel="noopener noreferrer">IEEE BSN 2023</a> which will be held at MIT Media Lab in October!</li>  
   <li>May, '23 - My work on ultrasound-based finger force estimation accepted to <a href="https://2023.ieee-ius.org/" target="_blank" rel="noopener noreferrer">IUS 2023</a>!</li>  
   <li>April, '23 - Starting work as a Research Intern next month at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> in Cambridge, Massachusetts!</li>
   <li>March, '23 - Gave my PhD Qualifiers and passed!</li>
-  <li>January, '23 - Presented <a href="https://ieeexplore.ieee.org/abstract/document/10039467">Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System</a> at <a href="https://www.sice-si.org/SII2023/">IEEE SII 2023</a> held at Georgia Tech!</li></ul></font>
-  <details>
-  <summary><i>More...</i></summary>
-  <font size="2"><ul>  <li>December, '22 - Ended a very productive Co-Op at Nokia Bell Labs. Produced deliverables in terms of already out and future papers, patents and demonstrable videos!</li>
+  <li>January, '23 - Presented <a href="https://ieeexplore.ieee.org/abstract/document/10039467">Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System</a> at <a href="https://www.sice-si.org/SII2023/">IEEE SII 2023</a> held at Georgia Tech!</li>
+<li>December, '22 - Ended a very productive Co-Op at Nokia Bell Labs. Produced deliverables in terms of already out and future papers, patents and demonstrable videos!</li>
   <li>November, '22 - Paper titled 'Simultaneous Estimation of Hand Configurations and Finger Joint Angles using Forearm Ultrasound' accepted to be published in the <a href="https://www.ieee-ras.org/publications/t-mrb">IEEE Transactions on Medical Robotics and Bionics</a>! <a href="https://arxiv.org/abs/2211.15871" target="_blank" rel="noopener noreferrer">ArXiv version</a>.</li>
   <li>October, '22 - Paper titled 'Towards the Development of a Low-Latency, Biosignal-Controlled Human-Machine Interaction System' accepted to <a href="https://www.sice-si.org/SII2023/">IEEE SII 2023</a>!</li>
   <li>August, '22 - Based on the summer internship performance, the <a href="https://www.bell-labs.com/research-innovation/projects-and-initiatives/data-and-devices-lab/" target="_blank" rel="noopener noreferrer">Data and Devices Group</a> in the Artificial Intelligence Research Labs (AIR Labs) at Nokia Bell Labs extended a Co-Op offer, which I accepted! Excited to continue my work at Bell Labs in the Human-Machine Interaction space!</li>
