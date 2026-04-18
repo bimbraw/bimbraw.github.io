@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Keshav Bimbraw"
-excerpt: "Machine Learning Software Engineer"
+excerpt: "Machine Learning Research and Development Engineer"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,15 +12,15 @@ redirect_from:
 <font size="-0.5">
 
 <p align="justify">
-I am a Machine Learning Software Engineer at <a href="https://onpointsurgical.com/" target="_blank" rel="noopener noreferrer">OnPoint Surgical, Inc.</a>, based in Concord, Massachusetts. I apply advances in AI/ML to medical imaging modalities to support the next generation of surgical robotics. Previously, I was a Robotics PhD candidate at <a href="https://wp.wpi.edu/medicalfusionlab/" target="_blank" rel="noopener noreferrer">WPI's Medical FUSION Lab</a>, where my research focused on applying deep learning to ultrasound image processing to enable real-time unimodal and multimodal biosignal-based predictions. My work has broad applications across robotic teleoperation, AR/VR, surgical robotics, rehabilitation robotics, and gaming.
+I am a Machine Learning Research and Development Engineer at <a href="https://onpointsurgical.com/" target="_blank" rel="noopener noreferrer">OnPoint Surgical, Inc.</a>, based in Concord, Massachusetts. I apply advances in AI/ML to medical imaging modalities to support the next generation of surgical robotics. I did a PhD in Robotics at <a href="https://wp.wpi.edu/medicalfusionlab/" target="_blank" rel="noopener noreferrer">WPI's Medical FUSION Lab</a>, where my research focused on applying deep learning to ultrasound and other types of biosignal data to enable real-time unimodal and multimodal biosignal-based predictions. My work has broad applications across robotic teleoperation, AR/VR, surgical robotics, rehabilitation robotics, and gaming.
 </p>
 
 <p align="justify">
-During my PhD, I interned at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> (Connected Interfaces Group) in Cambridge, Massachusetts during the summers of 2023 and 2024. In Summer and Fall 2022, I worked as an <a href="https://www.bell-labs.com/about/researcher-profiles/keshav-bimbraw/" target="_blank" rel="noopener noreferrer">Augmented Human Sensing Researcher</a> (Intern/Co-Op) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a>' Artificial Intelligence Research Lab in the New York City Metropolitan Area.
+During my PhD, I interned at <a href="https://www.merl.com/research/computational-sensing" target="_blank" rel="noopener noreferrer">Mitsubishi Electric Research Laboratories</a> (Connected Interfaces Group) in Cambridge, Massachusetts during the summers of 2023 and 2024 where I worked on improving robustness of multimodal biosignal based gesture estimation and using large vision language models for biosignal based human-machine interfacing. In Summer and Fall 2022, I worked as an <a href="https://www.bell-labs.com/about/researcher-profiles/keshav-bimbraw/" target="_blank" rel="noopener noreferrer">Augmented Human Sensing Researcher</a> (Intern/Co-Op) at <a href="https://www.bell-labs.com/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a>' Artificial Intelligence Research Lab in the New York City Metropolitan Area where I worked on multimodal biosignal processing and low-latency robotic teleoperation.
 </p>
 
 <p align="justify">
-Earlier, I interned in Active Noise Control Engineering at <a href="https://automotive.bose.com/" target="_blank" rel="noopener noreferrer">Bose</a> (Automotive Systems Division) and worked as an Audio DSP Engineer. I hold a Master's in <a href="https://gtcmt.gatech.edu/robotic-musicianship" target="_blank" rel="noopener noreferrer">Music Technology</a> from <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw" target="_blank" rel="noopener noreferrer">Georgia Tech</a> (Spring 2019), and completed a research internship at IIT Delhi during my undergraduate studies in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics" target="_blank" rel="noopener noreferrer">Mechatronics Engineering</a> at Thapar University.
+Prior to starting my PhD, I interned in Active Noise Control Engineering at <a href="https://automotive.bose.com/" target="_blank" rel="noopener noreferrer">Bose</a> (Automotive Systems Division) and worked as an Audio DSP Engineer. I hold a Master's in <a href="https://gtcmt.gatech.edu/robotic-musicianship" target="_blank" rel="noopener noreferrer">Music Technology</a> from <a href="https://www.news.gatech.edu/2018/11/06/getting-know-georgia-tech-keshav-bimbraw" target="_blank" rel="noopener noreferrer">Georgia Tech</a> (Spring 2019) where I worked on AI based human-machine interfacing and robotic musicianship. I completed a research internship at IIT Delhi working on several projects related to robotic control during my undergraduate studies in <a href="http://www.thapar.edu/programmes/pages/btech-in-mechatronics" target="_blank" rel="noopener noreferrer">Mechatronics Engineering</a> at Thapar University.
 </p>
 
 <p>
@@ -37,6 +37,7 @@ Earlier, I interned in Active Noise Control Engineering at <a href="https://auto
 News
 ------
 <font size="2"><ul>
+  <li>April, '26 - Our paper titled "GPT Sonography: Hand Gesture Decoding from Forearm Ultrasound Images via a Large Vision-Language Model" has been accepted to be published in the IEEE Access Journal (27% acceptance rate)!</li>
   <li>October, '25 - Our paper titled 'Acoustic Reflector Based Forearm Ultrasound for Hand Gesture Classification' accepted to be published in the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361" target="_blank" rel="noopener noreferrer">IEEE Sensors Journal</a>!</li>
   <li>July, '25 - Presented our paper titled 'Tranfer Learning and Quantization for Efficient AP vs. LA X-Ray View Classification on an Edge Device' at the <a href="https://2025.midl.io/" target="_blank" rel="noopener noreferrer">Medical Imaging with Deep Learning Conference</a> held at University of Utah in Salt Lake City. <a href="https://openreview.net/pdf?id=vZEgKxcUQJ" target="_blank" rel="noopener noreferrer">Paper Link</a>.</li>
   <li>May, '25 - Graduated with a PhD in Robotics Engineering. One of the first PhDs to graduate from my adviser Dr. Haichong K. Zhang's lab.</li>
