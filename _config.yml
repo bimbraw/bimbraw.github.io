@@ -80,42 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Keshav Bimbraw"
-  avatar           : "profile.png"
-  bio              : "Machine Learning Software Engineer"
-  location         : "Greater Boston "
-  employer         : #"Mitsubishi Electric Research Labs"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=jCeibEwAAAAJ&hl=en"
-  email            : "bimbrawkeshav@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "bimbraw"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "bimbraw"
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : KeshavBimbraw
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : #"https://www.youtube.com/channel/UCLI9__KHyyVQqbeOVLyJGHw"
-  wikipedia        :
-
+  name: "Keshav Bimbraw"
+  avatar: "profile.png"
+  bio: "ML R&D · Medical Imaging & Robotics"
+  location: "Boston"
+  linkedin: "keshav-bimbraw"
+  googlescholar: "https://scholar.google.co.in/citations?user=jCeibEwAAAAJ&hl=en"
 
 # Reading Files
 include:

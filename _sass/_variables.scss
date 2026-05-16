@@ -42,23 +42,38 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-
-/*
-   Colors
+/* ==========================================================================
+   Dark mode color palette — Keshav
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #94a3b8;
+$dark-gray                  : #cbd5e1;
+$darker-gray                : #e2e8f0;
+$light-gray                 : #475569;
+$lighter-gray               : #334155;
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color                 : #0b1120;
+$background-color           : #0b1120;
+$code-background-color      : #111827;
+$code-background-color-dark : #020617;
+
+$text-color                 : #dbe4f0;
+$muted-text-color           : #94a3b8;
+$border-color               : #233044;
+
+$primary-color              : #38bdf8;
+$success-color              : #22c55e;
+$warning-color              : #f59e0b;
+$danger-color               : #ef4444;
+$info-color                 : #38bdf8;
+
+/* links */
+$link-color                 : #38bdf8;
+$link-color-hover           : #7dd3fc;
+$link-color-visited         : #c084fc;
+
+$masthead-link-color        : #dbeafe;
+$masthead-link-color-hover  : #ffffff;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
