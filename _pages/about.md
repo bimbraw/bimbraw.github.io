@@ -70,7 +70,7 @@ at Thapar University.
           My PhD thesis is now out of embargo and available through WPI Digital Collections.
         </p>
         <div class="news-links">
-          <a href="https://digital.wpi.edu/pdfviewer/xk81jq67jm" target="_blank" rel="noopener noreferrer">Read Thesis</a>
+          <a href="https://digital.wpi.edu/concern/etds/tq57nw20w" target="_blank" rel="noopener noreferrer">Read Thesis</a>
         </div>
       </div>
     </article>
