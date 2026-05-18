@@ -32,7 +32,7 @@ related: false
 </div>
 
 <div class="blog-figure">
-  <img src="/images/Graphical_Abstract_GPT_Sonography.png" alt="Graphical abstract for GPT Sonography">
+  <img src="/images/gpt_sonography/Graphical_Abstract_GPT_Sonography.png" alt="Graphical abstract for GPT Sonography">
   <p>
     Graphical abstract: Forearm ultrasound images are provided to GPT-4o with text instructions
     and in-context examples for hand gesture decoding.
@@ -64,7 +64,7 @@ related: false
 
   <div class="research-metric">
     <div class="metric-value">RAG-ICL</div>
-    <div class="metric-label">Retrieval-augmented prompting outperformed matching-network baselines using pixel and SigLIP2 similarity</div>
+    <div class="metric-label">Retrieval-augmented prompting outperformed matching-network baseline using SigLIP2 similarity</div>
   </div>
 
   <div class="research-metric">
@@ -84,6 +84,13 @@ The central question of this work was:
 $$
 \text{Can a frozen LVLM perform ultrasound gesture decoding through in-context learning?}
 $$
+
+<div class="blog-figure">
+  <img src="/images/gpt_sonography/fig_2_updated.png" alt="Hand gestures and corresponding forearm ultrasound images">
+  <p>
+    The classification task: five hand gestures and their corresponding forearm ultrasound images. The visual differences are subtle and depend on internal muscle and tendon morphology.
+  </p>
+</div>
 
 ## Problem Formulation
 
@@ -162,6 +169,27 @@ The retrieved examples are then inserted into the LVLM prompt along with their l
 
 This retrieval step was especially effective in within-session experiments, where retrieved ultrasound frames can be visually close to the query frame. At the same time, this result requires careful interpretation. Ultrasound frame-based tasks can contain strong local similarity, so retrieval behavior, frame similarity, and generalization need to be analyzed carefully.
 
+
+## Results
+In the within-session setting, the examples and test samples are acquired close together, with relatively stable probe placement and acquisition conditions.
+This makes retrieval especially effective, but it can also produce highly similar support examples. 
+
+<div class="blog-figure small-figure">
+  <img src="/images/gpt_sonography/final_graph.png" alt="Within-session comparison of SigLIP2 matching, ICL, and ICL with RAG">
+  <p>
+    Within-session results. Retrieval-augmented ICL reached near-ceiling accuracy and outperformed both standard ICL and matching-network baselines using SigLIP2 similarity.
+  </p>
+</div>
+
+In the cross-session setting, the test samples come from a later session, making the task more representative of session-to-session variability.
+
+<div class="blog-figure small-figure">
+  <img src="/images/gpt_sonography/final_graph_xsession.png" alt="Cross-session comparison of SigLIP2 matching, ICL, and ICL with RAG">
+  <p>
+    Cross-session results. Performance was lower and more variable than within-session testing, but retrieval-augmented ICL still provided the strongest overall trend across few-shot settings.
+  </p>
+</div>
+
 ## Interpretation
 
 The main result is that zero-shot GPT-4o performed near chance on this specialized ultrasound task, but performance improved substantially when labeled examples were provided in context.
@@ -199,7 +227,7 @@ This work does not suggest that LVLMs replace task-specific ultrasound models to
 
 For forearm ultrasound-based human-machine interfacing, this is especially relevant because the sensing problem is highly subject- and session-dependent. A prompt-based interface could allow future systems to adapt using a small number of representative examples rather than requiring a full model retraining pipeline.
 
-## Connection to My PhD Work
+## Connection to my PhD work
 
 This journal article extends our NeurIPS 2024 AIM-FM workshop paper and is also part of my PhD thesis on biosignal-based deep learning for human-machine interfacing, robotic teleoperation, and control.
 
