@@ -36,11 +36,12 @@
 @import "print";
 
 /* ==========================================================================
-   Dark theme
+   Base dark theme
    ========================================================================== */
 
 html {
   background: #0b1120;
+  font-size: 15px !important;
 }
 
 body {
@@ -49,9 +50,14 @@ body {
     radial-gradient(circle at top right, rgba(168, 85, 247, 0.07), transparent 28rem),
     #0b1120;
   color: #dbe4f0;
+  font-size: 0.95rem !important;
+  line-height: 1.58 !important;
+  letter-spacing: 0 !important;
 }
 
-/* Surfaces */
+/* ==========================================================================
+   Layout surfaces
+   ========================================================================== */
 
 .page,
 .archive,
@@ -73,10 +79,13 @@ body {
 }
 
 .page__inner-wrap {
+  position: relative !important;
   padding: clamp(1.1rem, 2vw, 1.6rem);
 }
 
-/* Navigation */
+/* ==========================================================================
+   Navigation
+   ========================================================================== */
 
 .masthead {
   background: rgba(11, 17, 32, 0.88);
@@ -100,30 +109,66 @@ body {
   color: #38bdf8;
 }
 
-/* Text */
+/* ==========================================================================
+   Typography
+   ========================================================================== */
 
-.page__content,
-.archive__item-excerpt,
-.sidebar,
-.author__bio,
-.page__meta {
+.page__content {
   color: #cbd5e1;
+  font-size: 0.95rem !important;
+  line-height: 1.62 !important;
+}
+
+.page__content p,
+.page__content li {
+  font-size: 0.93rem !important;
+  line-height: 1.62 !important;
 }
 
 .page__content h1,
-.page__content h2,
+.page__title {
+  color: #f8fafc;
+  font-size: clamp(1.55rem, 2.4vw, 2rem) !important;
+  line-height: 1.18 !important;
+  margin-bottom: 0.55rem !important;
+}
+
+.page__content h2 {
+  color: #f8fafc;
+  font-size: clamp(1.12rem, 1.65vw, 1.35rem) !important;
+  line-height: 1.25 !important;
+  margin-top: 1.6rem !important;
+  margin-bottom: 0.65rem !important;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.22);
+}
+
 .page__content h3,
 .page__content h4,
 .archive__item-title {
   color: #f8fafc;
 }
 
-.page__content h2 {
-  border-bottom: 1px solid rgba(148, 163, 184, 0.22);
-  padding-bottom: 0.35rem;
+.page__content h3 {
+  font-size: clamp(0.98rem, 1.25vw, 1.1rem) !important;
+  line-height: 1.3 !important;
 }
 
-/* Links */
+.archive__item-title {
+  font-size: 1rem !important;
+  line-height: 1.35 !important;
+}
+
+.archive__item-excerpt,
+.page__meta {
+  color: #cbd5e1;
+  font-size: 0.82rem !important;
+  line-height: 1.45 !important;
+}
+
+/* ==========================================================================
+   Links and buttons
+   ========================================================================== */
 
 a {
   color: #38bdf8;
@@ -134,8 +179,6 @@ a:hover {
   color: #7dd3fc;
   text-decoration-color: #7dd3fc;
 }
-
-/* Buttons */
 
 .btn,
 .btn--primary {
@@ -153,23 +196,9 @@ a:hover {
   box-shadow: 0 14px 34px rgba(124, 58, 237, 0.3);
 }
 
-/* Archive/publication cards */
-
-.archive__item {
-  padding: 1rem 1.2rem;
-  margin-bottom: 1rem;
-}
-
-.archive__item-title a {
-  color: #f8fafc;
-  transition: all 0.18s ease;
-}
-
-.archive__item-title a:hover {
-  color: #38bdf8;
-}
-
-/* Tables */
+/* ==========================================================================
+   Tables, code, forms, footer
+   ========================================================================== */
 
 table {
   background: rgba(15, 23, 42, 0.72);
@@ -187,8 +216,6 @@ th {
   border-color: rgba(148, 163, 184, 0.16);
 }
 
-/* Code */
-
 code,
 tt,
 kbd,
@@ -205,8 +232,6 @@ pre {
   border: 1px solid rgba(148, 163, 184, 0.18);
 }
 
-/* Forms/dividers */
-
 hr {
   border-color: rgba(148, 163, 184, 0.18);
 }
@@ -219,8 +244,6 @@ select {
   border: 1px solid rgba(148, 163, 184, 0.24);
 }
 
-/* Footer */
-
 .page__footer {
   background: #060b16;
   color: #94a3b8;
@@ -232,7 +255,7 @@ select {
 }
 
 /* ==========================================================================
-   Author/profile block: desktop/sidebar layout
+   Sidebar / author profile
    ========================================================================== */
 
 .author__name {
@@ -248,8 +271,6 @@ select {
   box-sizing: border-box !important;
   padding-right: clamp(1rem, 1.6vw, 2.2rem) !important;
 }
-
-/* Avatar */
 
 .sidebar .author__avatar {
   background: transparent !important;
@@ -270,19 +291,15 @@ select {
   box-shadow: 0 14px 36px rgba(0, 0, 0, 0.3) !important;
 }
 
-/* Bio/title */
-
 .author__bio {
   margin: 0 0 clamp(0.65rem, 0.8vw, 0.9rem) 0 !important;
   max-width: clamp(145px, 10.8vw, 190px) !important;
-  font-size: clamp(0.78rem, 0.72vw, 0.9rem) !important;
-  line-height: 1.32 !important;
-  font-weight: 400 !important;
   color: #cbd5e1 !important;
+  font-size: clamp(0.72rem, 0.68vw, 0.82rem) !important;
+  line-height: 1.3 !important;
+  font-weight: 400 !important;
   text-align: left !important;
 }
-
-/* Remove Follow/dropdown behavior */
 
 .author__urls-wrapper {
   display: block !important;
@@ -292,8 +309,6 @@ select {
 .author__urls-wrapper button {
   display: none !important;
 }
-
-/* Author links */
 
 .author__urls {
   display: block !important;
@@ -312,23 +327,18 @@ select {
   content: none !important;
 }
 
-/* Invisible two-column rows:
-   column 1 = icon, column 2 = text */
-
 .author__urls li {
   display: grid !important;
   grid-template-columns: clamp(1.15rem, 1vw, 1.4rem) max-content !important;
   align-items: center !important;
   column-gap: clamp(0.35rem, 0.35vw, 0.55rem) !important;
-
   margin: 0 0 clamp(0.34rem, 0.35vw, 0.5rem) 0 !important;
   padding: 0 !important;
   white-space: nowrap !important;
-
-  font-size: clamp(0.72rem, 0.66vw, 0.82rem) !important;
+  color: #cbd5e1 !important;
+  font-size: clamp(0.66rem, 0.62vw, 0.76rem) !important;
   line-height: 1.25 !important;
   font-weight: 400 !important;
-  color: #cbd5e1 !important;
 }
 
 .author__urls a {
@@ -343,8 +353,6 @@ select {
   color: #7dd3fc !important;
 }
 
-/* Icon column */
-
 .author__urls i,
 .author__urls .fa,
 .author__urls .fab,
@@ -354,23 +362,18 @@ select {
   grid-column: 1 !important;
   justify-self: center !important;
   align-self: center !important;
-
   display: inline-flex !important;
   align-items: center !important;
   justify-content: center !important;
-
   width: clamp(1.15rem, 1vw, 1.4rem) !important;
   min-width: clamp(1.15rem, 1vw, 1.4rem) !important;
   height: 1rem !important;
-
   margin: 0 !important;
   padding: 0 !important;
-
-  font-size: clamp(0.78rem, 0.7vw, 0.92rem) !important;
-  line-height: 1 !important;
-
   color: #38bdf8 !important;
   fill: #38bdf8 !important;
+  font-size: clamp(0.78rem, 0.7vw, 0.92rem) !important;
+  line-height: 1 !important;
   text-align: center !important;
 }
 
@@ -381,12 +384,9 @@ select {
   font-size: clamp(0.82rem, 0.74vw, 0.96rem) !important;
 }
 
-/* ==========================================================================
-   Narrow layout: sidebar becomes top profile
-   ========================================================================== */
+/* Sidebar becomes compact horizontal block */
 
 @media screen and (max-width: 1024px) {
-  /* Put sidebar above content to avoid collisions */
   .sidebar {
     float: none !important;
     clear: both !important;
@@ -407,7 +407,6 @@ select {
     padding-left: 0 !important;
   }
 
-  /* Actual Minimal Mistakes author wrapper */
   .sidebar > div[itemscope],
   .sidebar [itemscope][itemtype*="Person"] {
     display: grid !important;
@@ -429,15 +428,15 @@ select {
 
   .sidebar .author__avatar img,
   .author__avatar img {
-      width: clamp(72px, 10vw, 96px) !important;
-      max-width: clamp(72px, 10vw, 96px) !important;
-      height: auto !important;
-      aspect-ratio: 3 / 4 !important;
-      object-fit: cover !important;
-      object-position: center top !important;
-      border-radius: 12px !important;
-      box-shadow: 0 8px 22px rgba(0, 0, 0, 0.25) !important;
-    }
+    width: clamp(72px, 10vw, 96px) !important;
+    max-width: clamp(72px, 10vw, 96px) !important;
+    height: auto !important;
+    aspect-ratio: 3 / 4 !important;
+    object-fit: cover !important;
+    object-position: center top !important;
+    border-radius: 12px !important;
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.25) !important;
+  }
 
   .sidebar .author__content {
     grid-column: 2 !important;
@@ -466,8 +465,7 @@ select {
 
   .sidebar .author__urls {
     display: flex !important;
-    flex-direction: row !important;
-    flex-wrap: wrap !important;
+    flex-flow: row wrap !important;
     align-items: center !important;
     justify-content: flex-start !important;
     gap: clamp(0.35rem, 1.3vw, 0.55rem) clamp(0.75rem, 2vw, 1.25rem) !important;
@@ -476,19 +474,12 @@ select {
   }
 
   .sidebar .author__urls li {
-    display: grid !important;
     grid-template-columns: clamp(1.15rem, 2.8vw, 1.35rem) max-content !important;
-    align-items: center !important;
     column-gap: clamp(0.32rem, 1vw, 0.5rem) !important;
     margin: 0 !important;
     font-size: clamp(0.72rem, 1.55vw, 0.82rem) !important;
-    line-height: 1.25 !important;
   }
 }
-
-/* ==========================================================================
-   Phone layout
-   ========================================================================== */
 
 @media screen and (max-width: 560px) {
   .sidebar > div[itemscope],
@@ -500,338 +491,79 @@ select {
 
   .sidebar .author__avatar img,
   .author__avatar img {
-      width: clamp(58px, 15vw, 72px) !important;
-      max-width: clamp(58px, 15vw, 72px) !important;
-      height: auto !important;
-      aspect-ratio: 3 / 4 !important;
-      object-fit: cover !important;
-      object-position: center top !important;
-      border-radius: 10px !important;
+    width: clamp(58px, 15vw, 72px) !important;
+    max-width: clamp(58px, 15vw, 72px) !important;
+    border-radius: 10px !important;
   }
 
   .sidebar .author__bio {
     font-size: clamp(0.7rem, 3.2vw, 0.78rem) !important;
   }
 
-  .sidebar .author__urls li {
-    font-size: clamp(0.68rem, 3vw, 0.74rem) !important;
-  }
-
   .sidebar .author__urls {
     gap: 0.35rem 0.75rem !important;
   }
-}
 
-/* ==========================================================================
-   Publications page
-   ========================================================================== */
-
-.pub-hero {
-  margin-bottom: 2rem;
-}
-
-.pub-hero h1 {
-  margin-bottom: 0.4rem;
-  color: #f8fafc;
-}
-
-.pub-hero p {
-  max-width: 780px;
-  color: #cbd5e1;
-  font-size: 1.02rem;
-  line-height: 1.65;
-}
-
-.pub-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
-  margin: 1rem 0 2rem 0;
-}
-
-.pub-card,
-.pub-row {
-  background: rgba(15, 23, 42, 0.72);
-  border: 1px solid rgba(148, 163, 184, 0.18);
-  border-radius: 16px;
-  box-shadow: 0 14px 38px rgba(0, 0, 0, 0.18);
-}
-
-.pub-card {
-  padding: 1.15rem 1.25rem;
-}
-
-.pub-featured {
-  border-color: rgba(56, 189, 248, 0.42);
-  background:
-    radial-gradient(circle at top right, rgba(56, 189, 248, 0.09), transparent 24rem),
-    rgba(15, 23, 42, 0.78);
-}
-
-.pub-meta {
-  color: #38bdf8;
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  margin-bottom: 0.35rem;
-}
-
-.pub-card h3,
-.pub-row h3 {
-  color: #f8fafc;
-  margin: 0 0 0.35rem 0;
-  line-height: 1.28;
-}
-
-.pub-card p,
-.pub-row p {
-  color: #cbd5e1;
-  margin: 0.25rem 0;
-  line-height: 1.55;
-}
-
-.pub-authors {
-  color: #dbe4f0 !important;
-}
-
-.pub-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  margin-top: 0.75rem;
-}
-
-.pub-tags span {
-  color: #bfdbfe;
-  background: rgba(56, 189, 248, 0.10);
-  border: 1px solid rgba(56, 189, 248, 0.22);
-  border-radius: 999px;
-  padding: 0.18rem 0.55rem;
-  font-size: 0.74rem;
-}
-
-.pub-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem;
-  margin-top: 0.8rem;
-}
-
-.pub-links a {
-  display: inline-flex;
-  align-items: center;
-  border: 1px solid rgba(56, 189, 248, 0.35);
-  border-radius: 999px;
-  padding: 0.22rem 0.65rem;
-  color: #7dd3fc;
-  text-decoration: none;
-  font-size: 0.78rem;
-}
-
-.pub-links a:hover {
-  background: rgba(56, 189, 248, 0.12);
-  color: #ffffff;
-}
-
-.pub-list {
-  display: grid;
-  gap: 0.8rem;
-  margin: 1rem 0 2rem 0;
-}
-
-.pub-row {
-  display: grid;
-  grid-template-columns: 4.5rem minmax(0, 1fr);
-  gap: 1rem;
-  padding: 1rem 1.1rem;
-}
-
-.pub-year {
-  color: #38bdf8;
-  font-weight: 800;
-  font-size: 0.95rem;
-  line-height: 1.35;
-}
-
-.pub-list.compact .pub-row {
-  padding: 0.85rem 1rem;
-}
-
-.pub-list.compact h3 {
-  font-size: 1rem;
-}
-
-@media screen and (max-width: 700px) {
-  .pub-row {
-    grid-template-columns: 1fr;
-    gap: 0.35rem;
-  }
-
-  .pub-year {
-    font-size: 0.82rem;
+  .sidebar .author__urls li {
+    font-size: clamp(0.68rem, 3vw, 0.74rem) !important;
   }
 }
 
-/* Make publications page more compact */
-.pub-hero {
-  margin-bottom: 1.5rem;
-}
-
-.pub-hero p {
-  font-size: 0.95rem;
-  line-height: 1.55;
-  max-width: 760px;
-}
-
-.pub-card {
-  padding: 1rem 1.1rem;
-}
-
-.pub-card h3,
-.pub-row h3 {
-  font-size: 1rem;
-  line-height: 1.32;
-}
-
-.pub-card p,
-.pub-row p {
-  font-size: 0.88rem;
-  line-height: 1.5;
-}
-
-.pub-meta {
-  font-size: 0.72rem;
-}
-
-.pub-tags span,
-.pub-links a {
-  font-size: 0.7rem;
-}
-
 /* ==========================================================================
-   Research blog post styling
+   Page title + native name
    ========================================================================== */
 
-.page__content .research-hero {
-  margin: 0 0 1.25rem 0 !important;
-  padding: 1rem 1.1rem !important;
-  border: 1px solid rgba(56, 189, 248, 0.24) !important;
-  border-radius: 16px !important;
-  background:
-    radial-gradient(circle at top right, rgba(56, 189, 248, 0.08), transparent 22rem),
-    rgba(15, 23, 42, 0.78) !important;
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18) !important;
+.page__title {
+  padding-right: clamp(15rem, 32vw, 22rem) !important;
 }
 
-.page__content .research-kicker {
-  margin-bottom: 0.45rem !important;
-  color: #38bdf8 !important;
-  font-size: 0.72rem !important;
-  font-weight: 800 !important;
-  letter-spacing: 0.04em !important;
-  text-transform: uppercase !important;
-}
-
-.page__content .research-hero p {
-  max-width: 850px !important;
+.name-native {
+  position: absolute !important;
+  top: 2.08rem !important;
+  right: clamp(1rem, 2vw, 1.6rem) !important;
   margin: 0 !important;
+  padding: 0 !important;
   color: #cbd5e1 !important;
-  font-size: 0.92rem !important;
-  line-height: 1.55 !important;
-}
-
-.page__content .research-actions {
-  display: flex !important;
-  flex-wrap: wrap !important;
-  gap: 0.45rem !important;
-  margin-top: 0.85rem !important;
-}
-
-.page__content .research-actions a {
-  display: inline-flex !important;
-  align-items: center !important;
-  padding: 0.22rem 0.7rem !important;
-  border: 1px solid rgba(56, 189, 248, 0.36) !important;
-  border-radius: 999px !important;
-  color: #7dd3fc !important;
-  background: rgba(56, 189, 248, 0.06) !important;
-  font-size: 0.74rem !important;
+  font-size: clamp(0.72rem, 0.85vw, 0.88rem) !important;
   line-height: 1.2 !important;
-  text-decoration: none !important;
+  text-align: right !important;
+  white-space: nowrap !important;
+  width: max-content !important;
+  max-width: none !important;
+  border: 0 !important;
+  background: transparent !important;
+  float: none !important;
 }
 
-.page__content .research-actions a:hover {
-  color: #ffffff !important;
-  background: rgba(56, 189, 248, 0.14) !important;
+.name-native span {
+  color: #64748b !important;
+  padding: 0 0.3rem !important;
 }
 
-.page__content .research-metrics {
-  display: grid !important;
-  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
-  gap: 0.75rem !important;
-  margin: 0 0 1.6rem 0 !important;
+.about-intro {
+  margin-top: 0 !important;
 }
 
-.page__content .research-metric {
-  padding: 0.85rem 0.9rem !important;
-  border: 1px solid rgba(148, 163, 184, 0.18) !important;
-  border-radius: 14px !important;
-  background: rgba(15, 23, 42, 0.72) !important;
-  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.14) !important;
-}
-
-.page__content .metric-value {
-  margin-bottom: 0.35rem !important;
-  color: #38bdf8 !important;
-  font-size: 1.35rem !important;
-  font-weight: 900 !important;
-  line-height: 1 !important;
-}
-
-.page__content .metric-label {
-  color: #cbd5e1 !important;
-  font-size: 0.78rem !important;
-  line-height: 1.35 !important;
+.about-intro p:first-child {
+  margin-top: 0 !important;
 }
 
 @media screen and (max-width: 760px) {
-  .page__content .research-metrics {
-    grid-template-columns: 1fr !important;
+  .page__title {
+    padding-right: 0 !important;
+    margin-bottom: 0.12rem !important;
   }
-}
 
-/* ==========================================================================
-   Remove blog sharing/follow widgets
-   ========================================================================== */
-
-/* Remove Share On block */
-.page__share,
-.share,
-.share-on,
-.share-buttons,
-.social-share,
-.social-share-buttons {
-  display: none !important;
-}
-
-/* Remove bottom Follow/Twitter block */
-.page__footer-follow,
-.follow,
-.follow-links,
-.author__urls-wrapper .follow,
-.sidebar__right,
-.page__related .follow {
-  display: none !important;
-}
-
-/* Minimal Mistakes specific share buttons */
-.page__content + .page__share,
-.page__share-title,
-.btn--twitter,
-.btn--facebook,
-.btn--linkedin {
-  display: none !important;
+  .name-native {
+    position: static !important;
+    display: block !important;
+    margin: -0.05rem 0 0.45rem 0 !important;
+    text-align: left !important;
+    font-size: 0.78rem !important;
+    line-height: 1.25 !important;
+    white-space: normal !important;
+    width: auto !important;
+  }
 }
 
 /* ==========================================================================
@@ -840,251 +572,52 @@ select {
 
 .about-intro p {
   color: #cbd5e1;
-  line-height: 1.65;
+  font-size: 0.92rem !important;
+  line-height: 1.62 !important;
   margin-bottom: 1rem;
   text-align: justify;
 }
 
-.about-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin: 1rem 0 1.5rem 0;
-}
-
-.about-links a,
-.news-links a,
-.selected-paper-links a {
-  display: inline-flex;
-  align-items: center;
-  border: 1px solid rgba(56, 189, 248, 0.35);
-  border-radius: 999px;
-  padding: 0.22rem 0.65rem;
-  color: #7dd3fc;
-  text-decoration: none;
-  font-size: 0.78rem;
-}
-
-.about-links a:hover,
-.news-links a:hover,
-.selected-paper-links a:hover {
-  background: rgba(56, 189, 248, 0.12);
-  color: #ffffff;
-}
-
-.news-section {
-  margin-top: 2rem;
-}
-
-.news-heading {
-  margin-bottom: 1rem;
-}
-
-.news-heading h2 {
-  margin-bottom: 0.25rem !important;
-}
-
-.news-heading p {
-  margin: 0;
-  max-width: 720px;
-  color: #94a3b8;
-  font-size: 0.92rem;
-  line-height: 1.5;
-}
-
-.news-list {
-  display: grid;
-  gap: 0.85rem;
-}
-
-.news-item {
-  display: grid;
-  grid-template-columns: 6.5rem minmax(0, 1fr);
-  gap: 1rem;
-  padding: 1rem 1.1rem;
-  border: 1px solid rgba(148, 163, 184, 0.16);
-  border-radius: 16px;
-  background: rgba(15, 23, 42, 0.68);
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.14);
-}
-
-.news-featured {
-  border-color: rgba(56, 189, 248, 0.34);
-  background:
-    radial-gradient(circle at top right, rgba(56, 189, 248, 0.08), transparent 22rem),
-    rgba(15, 23, 42, 0.78);
-}
-
-.news-date {
-  color: #38bdf8;
-  font-size: 0.78rem;
-  font-weight: 800;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  line-height: 1.35;
-  padding-top: 0.15rem;
-}
-
-.news-content h3 {
-  margin: 0 0 0.3rem 0;
-  color: #f8fafc;
-  font-size: 1rem;
-  line-height: 1.3;
-}
-
-.news-content p {
-  margin: 0;
-  color: #cbd5e1;
-  font-size: 0.88rem;
-  line-height: 1.55;
-}
-
-.news-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem;
-  margin-top: 0.65rem;
-}
-
-.news-tags span {
-  color: #bfdbfe;
-  background: rgba(56, 189, 248, 0.09);
-  border: 1px solid rgba(56, 189, 248, 0.20);
-  border-radius: 999px;
-  padding: 0.15rem 0.5rem;
-  font-size: 0.68rem;
-  line-height: 1.25;
-}
-
-.news-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  margin-top: 0.7rem;
-}
-
-.news-more {
-  margin-top: 1rem;
-  padding: 0.95rem 1rem;
-  border: 1px solid rgba(148, 163, 184, 0.14);
-  border-radius: 16px;
-  background: rgba(15, 23, 42, 0.42);
-}
-
-.news-more summary {
-  cursor: pointer;
-  color: #7dd3fc;
-  font-weight: 800;
-  font-size: 0.9rem;
-  list-style: none;
-}
-
-.news-more summary::-webkit-details-marker {
-  display: none;
-}
-
-.news-more summary::after {
-  content: " +";
-  color: #38bdf8;
-}
-
-.news-more[open] summary {
-  margin-bottom: 0.85rem;
-}
-
-.news-more[open] summary::after {
-  content: " −";
-}
-
-.old-news .news-item {
-  background: rgba(15, 23, 42, 0.50);
-  box-shadow: none;
-}
-
-.selected-papers {
-  display: grid;
-  gap: 1rem;
-  margin-top: 1rem;
-}
-
-.selected-paper {
-  display: grid;
-  grid-template-columns: minmax(220px, 0.85fr) minmax(0, 1.15fr);
-  gap: 1.1rem;
-  align-items: center;
-  padding: 1rem;
-  border: 1px solid rgba(148, 163, 184, 0.16);
-  border-radius: 16px;
-  background: rgba(15, 23, 42, 0.68);
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.14);
-}
-
-.selected-paper.reverse .selected-paper-media {
-  order: 2;
-}
-
-.selected-paper.reverse .selected-paper-content {
-  order: 1;
-}
-
-.selected-paper-media img {
-  width: 100%;
-  border-radius: 14px;
-  border: 1px solid rgba(148, 163, 184, 0.18);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.20);
-}
-
-.selected-paper-content h3 {
-  color: #f8fafc;
-  margin: 0 0 0.35rem 0;
-  line-height: 1.3;
-}
-
-.selected-paper-content p {
-  color: #cbd5e1;
-  margin: 0 0 0.75rem 0;
-  line-height: 1.5;
-}
-
-.selected-paper-links {
+.about-links,
+.news-links,
+.selected-paper-links,
+.pub-links,
+.research-actions {
   display: flex;
   flex-wrap: wrap;
   gap: 0.45rem;
 }
 
-.mentorship-card {
-  margin-top: 1rem;
-  padding: 1rem 1.15rem;
-  border: 1px solid rgba(148, 163, 184, 0.16);
-  border-radius: 16px;
-  background: rgba(15, 23, 42, 0.68);
+.about-links {
+  margin: 1rem 0 1.5rem 0;
 }
 
-.mentorship-card p {
-  margin: 0;
-  color: #cbd5e1;
-  line-height: 1.65;
+.about-links a,
+.news-links a,
+.selected-paper-links a,
+.pub-links a,
+.research-actions a {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  border-radius: 999px;
+  padding: 0.14rem 0.52rem !important;
+  color: #7dd3fc;
+  text-decoration: none;
+  font-size: 0.68rem !important;
+  line-height: 1.2 !important;
 }
 
-@media screen and (max-width: 760px) {
-  .news-item,
-  .selected-paper {
-    grid-template-columns: 1fr;
-  }
-
-  .selected-paper.reverse .selected-paper-media,
-  .selected-paper.reverse .selected-paper-content {
-    order: initial;
-  }
-
-  .news-date {
-    font-size: 0.72rem;
-  }
+.about-links a:hover,
+.news-links a:hover,
+.selected-paper-links a:hover,
+.pub-links a:hover,
+.research-actions a:hover {
+  background: rgba(56, 189, 248, 0.12);
+  color: #ffffff;
 }
 
-/* ==========================================================================
-   About page news section — compact, no tags
-   ========================================================================== */
+/* News */
 
 .news-section {
   margin-top: 1.35rem;
@@ -1102,8 +635,8 @@ select {
   margin: 0;
   max-width: 720px;
   color: #94a3b8;
-  font-size: 0.82rem;
-  line-height: 1.35;
+  font-size: 0.78rem !important;
+  line-height: 1.35 !important;
 }
 
 .news-list {
@@ -1113,11 +646,11 @@ select {
 
 .news-item {
   display: grid;
-  grid-template-columns: 5.2rem minmax(0, 1fr);
-  gap: 0.6rem;
-  padding: 0.58rem 0.72rem;
+  grid-template-columns: 4.8rem minmax(0, 1fr) !important;
+  gap: 0.55rem !important;
+  padding: 0.48rem 0.62rem !important;
   border: 1px solid rgba(148, 163, 184, 0.13);
-  border-radius: 12px;
+  border-radius: 11px !important;
   background: rgba(15, 23, 42, 0.58);
   box-shadow: 0 7px 18px rgba(0, 0, 0, 0.09);
 }
@@ -1131,55 +664,46 @@ select {
 
 .news-date {
   color: #38bdf8;
-  font-size: 0.67rem;
+  font-size: 0.62rem !important;
   font-weight: 800;
   letter-spacing: 0.035em;
   text-transform: uppercase;
-  line-height: 1.25;
+  line-height: 1.22 !important;
   padding-top: 0.08rem;
 }
 
 .news-content h3 {
-  margin: 0 0 0.16rem 0;
+  margin: 0 0 0.12rem 0 !important;
   color: #f8fafc;
-  font-size: 0.88rem;
-  line-height: 1.22;
+  font-size: 0.8rem !important;
+  line-height: 1.23 !important;
 }
 
 .news-content p {
   margin: 0;
   color: #cbd5e1;
-  font-size: 0.78rem;
-  line-height: 1.36;
+  font-size: 0.72rem !important;
+  line-height: 1.35 !important;
 }
 
 .news-links {
-  display: flex;
-  flex-wrap: wrap;
   gap: 0.3rem;
   margin-top: 0.4rem;
 }
 
 .news-links a {
-  display: inline-flex;
-  align-items: center;
-  border: 1px solid rgba(56, 189, 248, 0.30);
-  border-radius: 999px;
-  padding: 0.11rem 0.46rem;
-  color: #7dd3fc;
-  text-decoration: none;
-  font-size: 0.62rem;
-  line-height: 1.2;
+  border-color: rgba(56, 189, 248, 0.30);
+  padding: 0.11rem 0.46rem !important;
+  font-size: 0.62rem !important;
 }
 
-.news-links a:hover {
-  background: rgba(56, 189, 248, 0.12);
-  color: #ffffff;
+.news-tags {
+  display: none !important;
 }
 
 .news-more {
   margin-top: 0.6rem;
-  padding: 0.62rem 0.72rem;
+  padding: 0.55rem 0.65rem !important;
   border: 1px solid rgba(148, 163, 184, 0.12);
   border-radius: 12px;
   background: rgba(15, 23, 42, 0.34);
@@ -1189,7 +713,7 @@ select {
   cursor: pointer;
   color: #7dd3fc;
   font-weight: 800;
-  font-size: 0.78rem;
+  font-size: 0.72rem !important;
   line-height: 1.25;
   list-style: none;
 }
@@ -1216,229 +740,320 @@ select {
   box-shadow: none;
 }
 
-@media screen and (max-width: 720px) {
-  .news-item {
-    grid-template-columns: 1fr;
-    gap: 0.2rem;
-    padding: 0.55rem 0.65rem;
-  }
-
-  .news-date {
-    font-size: 0.63rem;
-  }
-
-  .news-content h3 {
-    font-size: 0.84rem;
-  }
-
-  .news-content p {
-    font-size: 0.75rem;
-  }
-}
-
-/* ==========================================================================
-   Global typography refinement
-   Calmer academic/researcher website scale
-   ========================================================================== */
-
-html {
-  font-size: 15px !important;
-}
-
-body {
-  font-size: 0.95rem !important;
-  line-height: 1.58 !important;
-  letter-spacing: 0 !important;
-}
-
-.page__content {
-  font-size: 0.95rem !important;
-  line-height: 1.62 !important;
-}
-
-.page__content p,
-.page__content li {
-  font-size: 0.93rem !important;
-  line-height: 1.62 !important;
-}
-
-.page__content h1,
-.page__title {
-  font-size: clamp(1.55rem, 2.4vw, 2rem) !important;
-  line-height: 1.18 !important;
-  margin-bottom: 0.75rem !important;
-}
-
-.page__content h2 {
-  font-size: clamp(1.12rem, 1.65vw, 1.35rem) !important;
-  line-height: 1.25 !important;
-  margin-top: 1.6rem !important;
-  margin-bottom: 0.65rem !important;
-}
-
-.page__content h3 {
-  font-size: clamp(0.98rem, 1.25vw, 1.1rem) !important;
-  line-height: 1.3 !important;
-}
-
-.archive__item-title {
-  font-size: 1rem !important;
-  line-height: 1.35 !important;
-}
-
-.archive__item-excerpt,
-.page__meta {
-  font-size: 0.82rem !important;
-  line-height: 1.45 !important;
-}
-
-/* About intro */
-
-.about-intro p {
-  font-size: 0.92rem !important;
-  line-height: 1.62 !important;
-}
-
-/* Buttons / pill links */
-
-.about-links a,
-.news-links a,
-.selected-paper-links a,
-.pub-links a,
-.research-actions a {
-  font-size: 0.68rem !important;
-  line-height: 1.2 !important;
-  padding: 0.14rem 0.52rem !important;
-}
-
-/* News: compact researcher-homepage style */
-
-.news-heading p {
-  font-size: 0.78rem !important;
-  line-height: 1.35 !important;
-}
-
-.news-item {
-  grid-template-columns: 4.8rem minmax(0, 1fr) !important;
-  gap: 0.55rem !important;
-  padding: 0.48rem 0.62rem !important;
-  border-radius: 11px !important;
-}
-
-.news-date {
-  font-size: 0.62rem !important;
-  line-height: 1.22 !important;
-}
-
-.news-content h3 {
-  font-size: 0.8rem !important;
-  line-height: 1.23 !important;
-  margin-bottom: 0.12rem !important;
-}
-
-.news-content p {
-  font-size: 0.72rem !important;
-  line-height: 1.35 !important;
-}
-
-.news-more {
-  padding: 0.55rem 0.65rem !important;
-}
-
-.news-more summary {
-  font-size: 0.72rem !important;
-}
-
 /* Selected papers */
 
+.selected-papers {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
 .selected-paper {
-  padding: 0.85rem !important;
+  display: grid;
+  grid-template-columns: minmax(220px, 0.85fr) minmax(0, 1.15fr);
   gap: 0.9rem !important;
+  align-items: center;
+  padding: 0.85rem !important;
+  border: 1px solid rgba(148, 163, 184, 0.16);
+  border-radius: 16px;
+  background: rgba(15, 23, 42, 0.68);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.14);
+}
+
+.selected-paper.reverse .selected-paper-media {
+  order: 2;
+}
+
+.selected-paper.reverse .selected-paper-content {
+  order: 1;
+}
+
+.selected-paper-media img {
+  width: 100%;
+  border-radius: 14px;
+  border: 1px solid rgba(148, 163, 184, 0.18);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.20);
 }
 
 .selected-paper-content h3 {
+  color: #f8fafc;
+  margin: 0 0 0.35rem 0;
   font-size: 0.92rem !important;
   line-height: 1.3 !important;
 }
 
 .selected-paper-content p {
+  color: #cbd5e1;
+  margin: 0 0 0.75rem 0;
   font-size: 0.78rem !important;
   line-height: 1.45 !important;
 }
 
-/* Publications page */
+.mentorship-card {
+  margin-top: 1rem;
+  padding: 1rem 1.15rem;
+  border: 1px solid rgba(148, 163, 184, 0.16);
+  border-radius: 16px;
+  background: rgba(15, 23, 42, 0.68);
+}
+
+.mentorship-card p {
+  margin: 0;
+  color: #cbd5e1;
+  line-height: 1.65;
+}
+
+/* ==========================================================================
+   Publications page
+   ========================================================================== */
+
+.pub-hero {
+  margin-bottom: 1.5rem;
+}
+
+.pub-hero h1 {
+  margin-bottom: 0.4rem;
+  color: #f8fafc;
+}
 
 .pub-hero p {
+  max-width: 760px;
+  color: #cbd5e1;
   font-size: 0.88rem !important;
   line-height: 1.55 !important;
+}
+
+.pub-grid,
+.pub-list {
+  display: grid;
+  gap: 0.8rem;
+  margin: 1rem 0 2rem 0;
+}
+
+.pub-card,
+.pub-row {
+  background: rgba(15, 23, 42, 0.72);
+  border: 1px solid rgba(148, 163, 184, 0.18);
+  border-radius: 16px;
+  box-shadow: 0 14px 38px rgba(0, 0, 0, 0.18);
 }
 
 .pub-card {
   padding: 0.9rem 1rem !important;
 }
 
+.pub-featured {
+  border-color: rgba(56, 189, 248, 0.42);
+  background:
+    radial-gradient(circle at top right, rgba(56, 189, 248, 0.09), transparent 24rem),
+    rgba(15, 23, 42, 0.78);
+}
+
+.pub-meta {
+  color: #38bdf8;
+  font-size: 0.66rem !important;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 0.35rem;
+}
+
 .pub-card h3,
 .pub-row h3 {
+  color: #f8fafc;
+  margin: 0 0 0.35rem 0;
   font-size: 0.92rem !important;
   line-height: 1.32 !important;
 }
 
 .pub-card p,
 .pub-row p {
+  color: #cbd5e1;
+  margin: 0.25rem 0;
   font-size: 0.8rem !important;
   line-height: 1.5 !important;
 }
 
-.pub-meta {
-  font-size: 0.66rem !important;
+.pub-authors {
+  color: #dbe4f0 !important;
+}
+
+.pub-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.75rem;
 }
 
 .pub-tags span {
-  font-size: 0.62rem !important;
+  color: #bfdbfe;
+  background: rgba(56, 189, 248, 0.10);
+  border: 1px solid rgba(56, 189, 248, 0.22);
+  border-radius: 999px;
   padding: 0.12rem 0.42rem !important;
+  font-size: 0.62rem !important;
+}
+
+.pub-links {
+  margin-top: 0.8rem;
 }
 
 .pub-row {
+  display: grid;
   grid-template-columns: 3.8rem minmax(0, 1fr) !important;
+  gap: 1rem;
   padding: 0.8rem 0.9rem !important;
 }
 
 .pub-year {
+  color: #38bdf8;
+  font-weight: 800;
   font-size: 0.78rem !important;
+  line-height: 1.35;
 }
 
-/* Blog posts */
+.pub-list.compact .pub-row {
+  padding: 0.75rem 0.85rem !important;
+}
 
-.research-hero p {
+.pub-list.compact h3 {
+  font-size: 0.9rem !important;
+}
+
+/* ==========================================================================
+   Research blog posts
+   ========================================================================== */
+
+.page__content .research-hero {
+  margin: 0 0 1rem 0 !important;
+  padding: 1rem 1.1rem !important;
+  border: 1px solid rgba(56, 189, 248, 0.24) !important;
+  border-radius: 16px !important;
+  background:
+    radial-gradient(circle at top right, rgba(56, 189, 248, 0.08), transparent 22rem),
+    rgba(15, 23, 42, 0.78) !important;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18) !important;
+}
+
+.page__content .research-kicker {
+  margin-bottom: 0.45rem !important;
+  color: #38bdf8 !important;
+  font-size: 0.66rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.04em !important;
+  text-transform: uppercase !important;
+}
+
+.page__content .research-hero p {
+  max-width: 850px !important;
+  margin: 0 !important;
+  color: #cbd5e1 !important;
   font-size: 0.86rem !important;
   line-height: 1.52 !important;
 }
 
-.research-kicker {
-  font-size: 0.66rem !important;
+.page__content .research-actions {
+  margin-top: 0.85rem !important;
 }
 
-.metric-value {
+.page__content .research-metrics {
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  gap: 0.75rem !important;
+  margin: 0 0 1.35rem 0 !important;
+}
+
+.page__content .research-metric {
+  padding: 0.85rem 0.9rem !important;
+  border: 1px solid rgba(148, 163, 184, 0.18) !important;
+  border-radius: 14px !important;
+  background: rgba(15, 23, 42, 0.72) !important;
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.14) !important;
+}
+
+.page__content .metric-value {
+  margin-bottom: 0.35rem !important;
+  color: #38bdf8 !important;
   font-size: 1.12rem !important;
+  font-weight: 900 !important;
+  line-height: 1 !important;
 }
 
-.metric-label {
+.page__content .metric-label {
+  color: #cbd5e1 !important;
   font-size: 0.7rem !important;
   line-height: 1.32 !important;
 }
 
-/* Sidebar */
+/* Smaller graphical abstract / blog figure */
 
-.author__bio {
-  font-size: clamp(0.72rem, 0.68vw, 0.82rem) !important;
-  line-height: 1.3 !important;
+.blog-figure {
+  margin: 1rem 0 1.25rem 0;
+  padding: 0.75rem;
+  border: 1px solid rgba(148, 163, 184, 0.16);
+  border-radius: 16px;
+  background: rgba(15, 23, 42, 0.62);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.12);
 }
 
-.author__urls li {
-  font-size: clamp(0.66rem, 0.62vw, 0.76rem) !important;
+.blog-figure img {
+  display: block;
+  width: 76%;
+  max-width: 700px;
+  margin: 0 auto;
+  border-radius: 12px;
+  border: 1px solid rgba(148, 163, 184, 0.16);
 }
 
-/* Mobile: keep readable, not tiny */
+.blog-figure p {
+  max-width: 700px;
+  margin: 0.55rem auto 0 auto !important;
+  color: #94a3b8 !important;
+  font-size: 0.72rem !important;
+  line-height: 1.4 !important;
+  text-align: center;
+}
+
+.page__content mjx-container {
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+  max-width: 100% !important;
+  color: #dbe4f0 !important;
+}
+
+.page__content .MathJax,
+.page__content mjx-container[jax="SVG"] > svg {
+  color: #dbe4f0 !important;
+  fill: #dbe4f0 !important;
+}
+
+/* ==========================================================================
+   Hide sharing/follow widgets
+   ========================================================================== */
+
+.page__share,
+.share,
+.share-on,
+.share-buttons,
+.social-share,
+.social-share-buttons,
+.page__footer-follow,
+.follow,
+.follow-links,
+.author__urls-wrapper .follow,
+.sidebar__right,
+.page__related .follow,
+.page__content + .page__share,
+.page__share-title,
+.btn--twitter,
+.btn--facebook,
+.btn--linkedin {
+  display: none !important;
+}
+
+/* ==========================================================================
+   Responsive fixes
+   ========================================================================== */
 
 @media screen and (max-width: 760px) {
   html {
@@ -1450,8 +1065,14 @@ body {
     font-size: 0.9rem !important;
   }
 
-  .news-item {
+  .news-item,
+  .selected-paper,
+  .pub-row {
     grid-template-columns: 1fr !important;
+  }
+
+  .news-item {
+    gap: 0.2rem !important;
     padding: 0.55rem 0.65rem !important;
   }
 
@@ -1462,79 +1083,22 @@ body {
   .news-content p {
     font-size: 0.74rem !important;
   }
-}
 
-/* ==========================================================================
-   Page title + native name alignment
-   ========================================================================== */
-
-.page__inner-wrap {
-  position: relative !important;
-}
-
-/* Wide + intermediate widths:
-   English title left, native name right-center aligned */
-.page__title {
-  margin-bottom: 0.55rem !important;
-  padding-right: clamp(15rem, 32vw, 22rem) !important;
-}
-
-.name-native {
-  position: absolute !important;
-  top: 2.08rem !important;
-  right: clamp(1rem, 2vw, 1.6rem) !important;
-
-  margin: 0 !important;
-  padding: 0 !important;
-
-  color: #cbd5e1 !important;
-  font-size: clamp(0.72rem, 0.85vw, 0.88rem) !important;
-  line-height: 1.2 !important;
-  text-align: right !important;
-
-  /* This is the important part */
-  white-space: nowrap !important;
-  width: max-content !important;
-  max-width: none !important;
-
-  border: 0 !important;
-  background: transparent !important;
-  float: none !important;
-}
-
-.name-native span {
-  color: #64748b !important;
-  padding: 0 0.3rem !important;
-}
-
-/* Prevent intro text from adding extra top gap */
-.about-intro {
-  margin-top: 0 !important;
-}
-
-.about-intro p:first-child {
-  margin-top: 0 !important;
-}
-
-/* Only when the card is truly too narrow:
-   place native names below English name */
-@media screen and (max-width: 760px) {
-  .page__title {
-    padding-right: 0 !important;
-    margin-bottom: 0.12rem !important;
+  .selected-paper.reverse .selected-paper-media,
+  .selected-paper.reverse .selected-paper-content {
+    order: initial;
   }
 
-  .name-native {
-    position: static !important;
-    display: block !important;
+  .page__content .research-metrics {
+    grid-template-columns: 1fr !important;
+  }
 
-    margin: -0.05rem 0 0.45rem 0 !important;
-    padding: 0 !important;
+  .blog-figure img {
+    width: 100%;
+    max-width: 100%;
+  }
 
-    text-align: left !important;
-    font-size: 0.78rem !important;
-    line-height: 1.25 !important;
-    white-space: normal !important;
-    width: auto !important;
+  .blog-figure p {
+    text-align: left;
   }
 }

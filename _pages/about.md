@@ -85,7 +85,7 @@ at Thapar University.
         </p>
         <div class="news-links">
           <a href="https://doi.org/10.1109/ACCESS.2026.3687477" target="_blank" rel="noopener noreferrer">Journal Paper</a>
-          <a href="https://arxiv.org/abs/2407.10870" target="_blank" rel="noopener noreferrer">arXiv</a>
+          <a href="https://openreview.net/forum?id=k1x4G8NttM" target="_blank" rel="noopener noreferrer">NeurIPS Paper</a>
         </div>
       </div>
     </article>
