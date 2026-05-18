@@ -221,7 +221,7 @@ Across my PhD work, I studied how forearm ultrasound can be used to estimate han
 
 This post is intended as a soft introduction to the work rather than a complete technical treatment. The full paper contains more detailed experiments, ablations, comparisons, and discussion on prompting strategies, retrieval-augmented in-context learning, and the challenges of interpreting ultrasound frame-based classification results.
 
-Please refer to the paper for the complete methodology and results. If you have questions or would like to discuss the work, feel free to reach out — the experimental design and discussion around LVLMs for specialized biosignal imaging tasks are especially interesting.
+Please refer to the paper for the complete methodology and results. If you have questions or would like to discuss the work, feel free to reach out. The experimental design and discussion around LVLMs for specialized biosignal imaging tasks are especially interesting.
 
 ## Acknowledgment
 
