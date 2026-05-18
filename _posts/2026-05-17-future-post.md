@@ -81,9 +81,9 @@ However, collecting labeled biosignal and medical imaging data can be expensive,
 
 The central question of this work was:
 
-$$
-\text{Can a frozen LVLM perform ultrasound gesture decoding through in-context learning?}
-$$
+<div class="research-question">
+  Can a frozen LVLM perform ultrasound gesture decoding through in-context learning?
+</div>
 
 <div class="blog-figure">
   <img src="/images/gpt_sonography/fig_2_updated.png" alt="Hand gestures and corresponding forearm ultrasound images">
@@ -94,83 +94,142 @@ $$
 
 ## Problem Formulation
 
-Let an ultrasound image be
+Let $D=\{(x_i,y_i)\}_{i=1}^{n}$ denote the labeled forearm ultrasound dataset, where $x_i \in \mathbb{R}^{H \times W}$ is a B-mode ultrasound image and $y_i \in \mathcal{Y}=\{1,2,\ldots,C\}$ is the corresponding gesture label. In this work, $C=5$, corresponding to index flexion, all pinch, hand horns, fist, and open hand.
+
+In a conventional supervised-learning pipeline, one would train an ultrasound-specific classifier $f_\theta$ by minimizing a loss over labeled examples:
 
 $$
-x_i \in \mathbb{R}^{H \times W},
-$$
-
-and let the corresponding hand gesture label be
-
-$$
-y_i \in \{1,2,\ldots,C\}.
-$$
-
-In conventional supervised learning, we train a model \(f_\theta\) by minimizing a loss over labeled examples:
-
-$$
-\theta^\star =
+\theta^\star
+=
 \arg\min_{\theta}
-\sum_{i=1}^{N}
-\mathcal{L}(f_\theta(x_i), y_i).
+\sum_{i=1}^{n}
+\mathcal{L}\left(f_\theta(x_i),y_i\right).
 $$
 
-In GPT Sonography, we do not fine-tune the model. Instead, we construct a prompt containing a task description and, optionally, a small set of labeled examples:
+In GPT Sonography, the LVLM parameters are not fine-tuned. Instead, adaptation happens through the prompt. For a test ultrasound image $x_t$, we construct a prompt containing a task instruction, optional labeled in-context examples, and the test image:
 
 $$
-\mathcal{P}
+\mathcal{P}(x_t)
 =
-\{(x_1, y_1), \ldots, (x_k, y_k), x_{\text{test}}\}.
+\left(
+\text{instruction},
+\mathcal{E},
+x_t
+\right),
 $$
 
-The LVLM then predicts the gesture label directly from the prompt:
+where $\mathcal{E}\subset D$ is the set of labeled examples inserted into the prompt. The LVLM then predicts the gesture label directly from this prompt:
 
 $$
-\hat{y}_{\text{test}}
+\hat{y}_t
 =
-\operatorname{LVLM}(\mathcal{P}).
+\operatorname{LVLM}\left(\mathcal{P}(x_t)\right).
 $$
 
-This changes the adaptation mechanism from parameter learning to prompt conditioning.
+Thus, the key difference is that conventional supervised learning adapts by updating $\theta$, whereas in-context learning adapts by changing the examples and instructions provided in $\mathcal{P}(x_t)$.
 
 ## Zero-Shot and Few-Shot ICL
 
-We evaluated zero-shot and few-shot prompting.
-
-In the zero-shot setting, the model receives the test ultrasound image and a text description of the classification task, but no labeled ultrasound examples. This is difficult because forearm ultrasound is a specialized image domain, and the visual differences between gestures are not necessarily semantic in the same way as natural images.
-
-In the few-shot setting, we include \(k\) labeled examples in the prompt:
+We evaluated zero-shot and few-shot prompting. In the zero-shot setting, the example set is empty:
 
 $$
-\mathcal{P}_k =
-\{(x_1,y_1), \ldots, (x_k,y_k), x_{\text{test}}\}.
+\mathcal{E}_0=\varnothing,
 $$
 
-The model can then compare the test image against the labeled examples in context. This substantially improved performance.
+so the prompt contains only the task instruction and the test image $x_t$.
 
-Within-session accuracy improved from **19.3%** in the zero-shot setting to **74.0%** with 2-shot in-context learning. Cross-session accuracy improved from **20.0%** in the zero-shot setting to **61.3%** with 3-shot in-context learning.
+In the $q$-shot setting, the prompt contains $q$ labeled examples per gesture class. The in-context example set can be written as
+
+$$
+\mathcal{E}_q
+=
+\left\{
+(x_{c,r},c)
+:
+c\in\mathcal{Y},
+\ r=1,\ldots,q
+\right\},
+$$
+
+where $q\in\{1,2,3\}$ is the number of examples per class. Since there are $C=5$ gesture classes, the prompt contains $qC$ labeled ultrasound examples in total.
+
+The corresponding prompt is
+
+$$
+\mathcal{P}_q(x_t)
+=
+\left(
+\text{instruction},
+\mathcal{E}_q,
+x_t
+\right),
+$$
+
+and the predicted class is
+
+$$
+\hat{y}_t
+=
+\operatorname{LVLM}\left(\mathcal{P}_q(x_t)\right).
+$$
 
 ## Retrieval-Augmented In-Context Learning
 
-A key component of the method was retrieval-augmented in-context learning. Instead of selecting support examples randomly, we retrieve examples that are visually relevant to the test image and include them in the prompt.
+A key component of the method was retrieval-augmented in-context learning. Instead of selecting in-context examples randomly or from a fixed split, we retrieve examples that are visually similar to the test ultrasound image and insert them into the prompt.
 
-Given a query ultrasound image $x_q$ and a labeled support set $\mathcal{S}$, the retrieved support examples can be written as
+Following the paper, let $\hat{x}_t$ denote the flattened vector representation of the test image $x_t$, and let $\hat{x}_i$ denote the flattened vector representation of a candidate labeled image $x_i\in D$. The similarity between the test image and a candidate image is computed using cosine similarity:
 
 $$
-\mathcal{N}_k(x_q)
+\operatorname{sim}(\hat{x}_t,\hat{x}_i)
 =
-\operatorname{TopK}_{(x_j,y_j)\in\mathcal{S}}
-s(x_q, x_j),
+\frac{
+\hat{x}_t \cdot \hat{x}_i
+}{
+\lVert \hat{x}_t \rVert \,
+\lVert \hat{x}_i \rVert
+}.
 $$
 
-where $s(x_q,x_j)$ denotes the image similarity between the query image and a candidate support image.
+The retrieved example set is then defined as the $K$ highest-scoring labeled examples from $D$:
 
-The retrieved examples are then inserted into the LVLM prompt along with their labels. In this framing, the in-context examples are not merely additional labels; they define the local visual comparison set available to the model.
+$$
+\mathcal{N}_K(x_t)
+=
+\operatorname{top\text{-}K}_{(x_i,y_i)\in D}
+\operatorname{sim}(\hat{x}_t,\hat{x}_i).
+$$
 
-This retrieval step was especially effective in within-session experiments, where retrieved ultrasound frames can be visually close to the query frame. At the same time, this result requires careful interpretation. Ultrasound frame-based tasks can contain strong local similarity, so retrieval behavior, frame similarity, and generalization need to be analyzed carefully.
+Here, $\mathcal{N}_K(x_t)\subset D$ is the set of retrieved image-label pairs used as in-context examples for the test image $x_t$. The RAG-ICL prompt is therefore
 
+$$
+\mathcal{P}^{\mathrm{RAG}}_K(x_t)
+=
+\left(
+\text{instruction},
+\mathcal{N}_K(x_t),
+x_t
+\right),
+$$
+
+and the LVLM prediction is
+
+$$
+\hat{y}_t
+=
+\operatorname{LVLM}
+\left(
+\mathcal{P}^{\mathrm{RAG}}_K(x_t)
+\right).
+$$
+
+This retrieval step was especially effective in within-session experiments, where retrieved ultrasound frames can be 
+visually close to the test image because of stable probe placement and acquisition conditions. 
+However, this result should be interpreted carefully: in frame-based ultrasound classification, 
+high local similarity between retrieved examples and the test image can produce near-ceiling 
+within-session performance, while cross-session testing remains more challenging.
 
 ## Results
+Within-session accuracy improved from **19.3%** in the zero-shot setting to **74.0%** with 2-shot in-context learning. 
 In the within-session setting, the examples and test samples are acquired close together, with relatively stable probe placement and acquisition conditions.
 This makes retrieval especially effective, but it can also produce highly similar support examples. 
 
@@ -181,6 +240,7 @@ This makes retrieval especially effective, but it can also produce highly simila
   </p>
 </div>
 
+Cross-session accuracy improved from **20.0%** in the zero-shot setting to **61.3%** with 3-shot in-context learning.
 In the cross-session setting, the test samples come from a later session, making the task more representative of session-to-session variability.
 
 <div class="blog-figure small-figure">
