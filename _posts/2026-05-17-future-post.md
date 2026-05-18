@@ -88,7 +88,10 @@ The central question of this work was:
 <div class="blog-figure">
   <img src="/images/gpt_sonography/fig_2_updated.png" alt="Hand gestures and corresponding forearm ultrasound images">
   <p>
-    The classification task: five hand gestures and their corresponding forearm ultrasound images. The visual differences are subtle and depend on internal muscle and tendon morphology.
+    Hand gestures and the corresponding ultrasound images from subject 1. (a) and (f): 
+    Index flexion; (b) and (g): all pinch; (c) and (h) hand horns; (d) and (i) fist; (e) and (j): open hand; 
+    The probe was strapped to the forearm (k) and enclosed within a 3D printed casing (l), and a strap (m).
+    The visual differences between the ultrasound images are subtle and depend on internal muscle and tendon morphology.
   </p>
 </div>
 

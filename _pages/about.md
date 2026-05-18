@@ -632,7 +632,7 @@ at Thapar University.
   </details>
 </section>
 
-## Selected Papers
+## Selected Works
 
 <div class="selected-papers">
 
